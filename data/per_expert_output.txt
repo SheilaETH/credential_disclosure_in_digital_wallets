@@ -1,0 +1,1305 @@
+ID: 39cb31cd7e8f5c15 of type cybersecurity:
+For website: Shop Apotheke said yes for credentials:
+- Prescriptions
+- Health insurance
+- Bank credentials
+For website: Zava said yes for credentials:
+- Medical records
+- Disability status
+- Prescriptions
+- Health insurance
+- Bank credentials
+For website: Official Government Website of Germany said yes for credentials:
+- Official Identity Document
+For website: Stepstone said yes for credentials:
+- Employment history
+- Professional licenses
+- Diploma
+- University transcript
+- Visa
+- Disability status
+For website: TU München said yes for credentials:
+- Official Identity Document
+For website: Lufthansa said yes for credentials:
+- Official Identity Document
+- Bank credentials
+- Disability status
+For website: FlixBus said yes for credentials:
+- Bank credentials
+For website: Hertz said yes for credentials:
+- Bank credentials
+For website: Sparkasse said yes for credentials:
+- Official Identity Document
+- Employment history
+For website: ImmoScout24 said yes for credentials:
+- Official Identity Document
+- Bank credentials
+For website: Steam said yes for credentials:
+- Bank credentials
+For website: Amazon said yes for credentials:
+- Bank credentials
+For website: Facebook said yes for credentials:
+For website: Zeit said yes for credentials:
+For website: PayPal said yes for credentials:
+- Bank credentials
+ID: de94fd63dea04463 of type cybersecurity:
+For website: DocMorris said yes for credentials:
+- Official Identity Document
+- Driver's license
+- Birth certificate
+- Marriage certificate
+- Health insurance
+- Prescriptions
+- Medical records
+- Disability status
+For website: Qare said yes for credentials:
+- Official Identity Document
+- Driver's license
+- Birth certificate
+- Marriage certificate
+- Health insurance
+- Prescriptions
+- Medical records
+- Disability status
+For website: Official Government Website of France said yes for credentials:
+- Official Identity Document
+- Driver's license
+- Birth certificate
+- Marriage certificate
+- Visa
+- Disability status
+For website: Pole Emploi said yes for credentials:
+- Official Identity Document
+- Driver's license
+- University transcript
+- Diploma
+- Professional licenses
+For website: Panthéon Sorbonne said yes for credentials:
+- Official Identity Document
+- University transcript
+- Diploma
+- Professional licenses
+For website: Air France said yes for credentials:
+- Visa
+- Official Identity Document
+For website: FlixBus said yes for credentials:
+- Official Identity Document
+- Disability status
+For website: Hertz said yes for credentials:
+- Official Identity Document
+- Driver's license
+For website: Crédit Mutuel said yes for credentials:
+- Official Identity Document
+- Visa
+- Bank credentials
+For website: SeLoger said yes for credentials:
+- Official Identity Document
+- Visa
+- Marriage certificate
+- Bank credentials
+For website: Steam said yes for credentials:
+- Official Identity Document
+For website: Amazon said yes for credentials:
+- Official Identity Document
+For website: Facebook said yes for credentials:
+For website: Le Monde said yes for credentials:
+For website: PayPal said yes for credentials:
+- Official Identity Document
+- Bank credentials
+ID: 447f9b1c8329d2ae of type cybersecurity:
+For website: Redcare said yes for credentials:
+- Birth certificate
+- Official Identity Document
+- Medical records
+For website: SoS Pediatra said yes for credentials:
+- Birth certificate
+- Official Identity Document
+- Medical records
+- Prescriptions
+- Health insurance
+- Disability status
+For website: Official Government Website of Italy said yes for credentials:
+- Birth certificate
+- Employment history
+- Disability status
+For website: Indeed said yes for credentials:
+- Disability status
+- Professional licenses
+- Employment history
+- Diploma
+For website: Bocconi said yes for credentials:
+- Driver's license
+- Official Identity Document
+- Diploma
+- University transcript
+- Employment history
+For website: ITA Airways said yes for credentials:
+- Official Identity Document
+- Driver's license
+- Disability status
+- Visa
+For website: FlixBus said yes for credentials:
+- Driver's license
+- Official Identity Document
+- Disability status
+For website: Hertz said yes for credentials:
+- Disability status
+- Driver's license
+- Official Identity Document
+For website: Intesa Sanpaolo said yes for credentials:
+- Disability status
+- Bank credentials
+- Driver's license
+- Official Identity Document
+For website: Immobiliare said yes for credentials:
+- Official Identity Document
+- Professional licenses
+For website: Steam said yes for credentials:
+For website: Amazon said yes for credentials:
+- Official Identity Document
+For website: Facebook said yes for credentials:
+- Official Identity Document
+For website: La Repubblica said yes for credentials:
+For website: PayPal said yes for credentials:
+- Official Identity Document
+- Driver's license
+- Bank credentials
+ID: 6e022a7ef6bb28aa of type cybersecurity:
+For website: Redcare said yes for credentials:
+- Marriage certificate
+- Birth certificate
+- Medical records
+- Disability status
+- Prescriptions
+For website: SoS Pediatra said yes for credentials:
+- Disability status
+- Medical records
+- Prescriptions
+- Marriage certificate
+For website: Official Government Website of Italy said yes for credentials:
+- Disability status
+- Official Identity Document
+- Visa
+- Bank credentials
+For website: Indeed said yes for credentials:
+- Visa
+- University transcript
+- Diploma
+- Employment history
+- Professional licenses
+For website: Bocconi said yes for credentials:
+- Bank credentials
+- University transcript
+For website: ITA Airways said yes for credentials:
+- Bank credentials
+- Disability status
+- Birth certificate
+For website: FlixBus said yes for credentials:
+- Birth certificate
+- Disability status
+For website: Hertz said yes for credentials:
+- Driver's license
+- Disability status
+- Bank credentials
+For website: Intesa Sanpaolo said yes for credentials:
+- Official Identity Document
+- Visa
+- Bank credentials
+For website: Immobiliare said yes for credentials:
+- Official Identity Document
+- Bank credentials
+- Employment history
+For website: Steam said yes for credentials:
+- Bank credentials
+For website: Amazon said yes for credentials:
+- Official Identity Document
+- Bank credentials
+For website: Facebook said yes for credentials:
+For website: La Repubblica said yes for credentials:
+- Official Identity Document
+For website: PayPal said yes for credentials:
+- Official Identity Document
+- Bank credentials
+- Marriage certificate
+- Visa
+- Diploma
+- Employment history
+- Professional licenses
+ID: d203fd884249b2c9 of type cybersecurity:
+For website: Redcare said yes for credentials:
+- Medical records
+For website: SoS Pediatra said yes for credentials:
+- Official Identity Document
+- Driver's license
+- Health insurance
+- Prescriptions
+- Medical records
+- Disability status
+For website: Official Government Website of Italy said yes for credentials:
+- Official Identity Document
+- Driver's license
+- Birth certificate
+- Marriage certificate
+- Visa
+- Diploma
+- Employment history
+- Professional licenses
+- Health insurance
+- Disability status
+For website: Indeed said yes for credentials:
+- Official Identity Document
+- Visa
+- University transcript
+- Diploma
+- Employment history
+- Professional licenses
+For website: Bocconi said yes for credentials:
+- Official Identity Document
+- University transcript
+- Diploma
+- Professional licenses
+For website: ITA Airways said yes for credentials:
+- Official Identity Document
+For website: FlixBus said yes for credentials:
+- Official Identity Document
+- Disability status
+For website: Hertz said yes for credentials:
+- Official Identity Document
+- Driver's license
+For website: Intesa Sanpaolo said yes for credentials:
+- Official Identity Document
+- Bank credentials
+For website: Immobiliare said yes for credentials:
+- Official Identity Document
+For website: Steam said yes for credentials:
+For website: Amazon said yes for credentials:
+- Official Identity Document
+For website: Facebook said yes for credentials:
+- Official Identity Document
+For website: La Repubblica said yes for credentials:
+For website: PayPal said yes for credentials:
+- Official Identity Document
+ID: 8eb5c74e2b56445d of type cybersecurity:
+For website: DocMorris said yes for credentials:
+- Medical records
+- Prescriptions
+- Health insurance
+- Disability status
+For website: Qare said yes for credentials:
+- Health insurance
+- Prescriptions
+- Disability status
+- Medical records
+For website: Official Government Website of France said yes for credentials:
+- Official Identity Document
+- Driver's license
+- Birth certificate
+- Marriage certificate
+- Visa
+- Bank credentials
+- University transcript
+- Diploma
+- Employment history
+- Professional licenses
+- Disability status
+For website: Pole Emploi said yes for credentials:
+- Driver's license
+- Visa
+- Official Identity Document
+- University transcript
+- Diploma
+- Employment history
+- Professional licenses
+For website: Panthéon Sorbonne said yes for credentials:
+- University transcript
+- Diploma
+- Employment history
+- Professional licenses
+For website: Air France said yes for credentials:
+- Official Identity Document
+- Visa
+- Disability status
+For website: FlixBus said yes for credentials:
+- Official Identity Document
+- Disability status
+For website: Hertz said yes for credentials:
+- Official Identity Document
+- Driver's license
+For website: Crédit Mutuel said yes for credentials:
+- Official Identity Document
+- Bank credentials
+For website: SeLoger said yes for credentials:
+- Official Identity Document
+For website: Steam said yes for credentials:
+For website: Amazon said yes for credentials:
+For website: Facebook said yes for credentials:
+For website: Le Monde said yes for credentials:
+For website: PayPal said yes for credentials:
+- Official Identity Document
+ID: c13b811a3b7ca7fb of type cybersecurity:
+For website: Redcare said yes for credentials:
+- Health insurance
+- Prescriptions
+- Medical records
+- Disability status
+For website: SoS Pediatra said yes for credentials:
+- Employment history
+- Professional licenses
+- Health insurance
+- Prescriptions
+- Medical records
+- Disability status
+For website: Official Government Website of Italy said yes for credentials:
+- Official Identity Document
+- Driver's license
+- Birth certificate
+- Marriage certificate
+- Visa
+- Bank credentials
+- University transcript
+- Diploma
+- Employment history
+- Professional licenses
+For website: Indeed said yes for credentials:
+- Official Identity Document
+- Visa
+- University transcript
+- Diploma
+- Employment history
+- Professional licenses
+For website: Bocconi said yes for credentials:
+- Official Identity Document
+- Birth certificate
+- Marriage certificate
+- Visa
+- Bank credentials
+- University transcript
+- Diploma
+- Employment history
+- Professional licenses
+- Disability status
+For website: ITA Airways said yes for credentials:
+- Official Identity Document
+- Driver's license
+- Birth certificate
+- Visa
+- Health insurance
+- Disability status
+For website: FlixBus said yes for credentials:
+- Official Identity Document
+- Driver's license
+- Visa
+- Bank credentials
+- Disability status
+For website: Hertz said yes for credentials:
+- Official Identity Document
+- Driver's license
+- Birth certificate
+- Visa
+- Bank credentials
+- Disability status
+For website: Intesa Sanpaolo said yes for credentials:
+- Official Identity Document
+- Birth certificate
+- Marriage certificate
+- Visa
+- Bank credentials
+For website: Immobiliare said yes for credentials:
+- Official Identity Document
+- Driver's license
+- Birth certificate
+- Marriage certificate
+- Visa
+- Bank credentials
+For website: Steam said yes for credentials:
+For website: Amazon said yes for credentials:
+For website: Facebook said yes for credentials:
+For website: La Repubblica said yes for credentials:
+For website: PayPal said yes for credentials:
+- Visa
+- Bank credentials
+ID: b579d6da65de5ce0 of type cybersecurity:
+For website: Shop Apotheke said yes for credentials:
+- Disability status
+- Prescriptions
+- Health insurance
+- Medical records
+- Official Identity Document
+- Bank credentials
+- Birth certificate
+For website: Zava said yes for credentials:
+- Disability status
+- Medical records
+- Prescriptions
+- Health insurance
+- Official Identity Document
+- Bank credentials
+For website: Official Government Website of Germany said yes for credentials:
+- Official Identity Document
+- Driver's license
+- Birth certificate
+- Marriage certificate
+- Visa
+- University transcript
+- Diploma
+- Employment history
+- Professional licenses
+- Disability status
+- Medical records
+- Bank credentials
+For website: Stepstone said yes for credentials:
+- Official Identity Document
+- Driver's license
+- Birth certificate
+- University transcript
+- Diploma
+- Employment history
+- Professional licenses
+- Disability status
+For website: TU München said yes for credentials:
+- Official Identity Document
+- Birth certificate
+- University transcript
+- Diploma
+- Employment history
+- Professional licenses
+- Disability status
+- Bank credentials
+For website: Lufthansa said yes for credentials:
+- Official Identity Document
+- Disability status
+- Visa
+- Bank credentials
+For website: FlixBus said yes for credentials:
+- Official Identity Document
+- Visa
+- Disability status
+- Bank credentials
+For website: Hertz said yes for credentials:
+- Official Identity Document
+- Driver's license
+- Disability status
+- Bank credentials
+For website: Sparkasse said yes for credentials:
+- Official Identity Document
+- Bank credentials
+- Diploma
+For website: ImmoScout24 said yes for credentials:
+- Official Identity Document
+For website: Steam said yes for credentials:
+- Bank credentials
+For website: Amazon said yes for credentials:
+- Official Identity Document
+- Birth certificate
+For website: Facebook said yes for credentials:
+For website: Zeit said yes for credentials:
+- Official Identity Document
+- Birth certificate
+For website: PayPal said yes for credentials:
+- Official Identity Document
+- Birth certificate
+- Bank credentials
+ID: 41984d60641b2a2e of type cybersecurity:
+For website: Shop Apotheke said yes for credentials:
+- Health insurance
+- Official Identity Document
+For website: Zava said yes for credentials:
+- Medical records
+- Prescriptions
+- Health insurance
+For website: Official Government Website of Germany said yes for credentials:
+- Driver's license
+- Birth certificate
+- Marriage certificate
+- Visa
+- Bank credentials
+- University transcript
+- Diploma
+- Employment history
+- Professional licenses
+- Health insurance
+- Prescriptions
+- Medical records
+- Disability status
+- Official Identity Document
+For website: Stepstone said yes for credentials:
+- Official Identity Document
+- Driver's license
+- Visa
+- University transcript
+- Diploma
+- Employment history
+- Professional licenses
+- Bank credentials
+For website: TU München said yes for credentials:
+For website: Lufthansa said yes for credentials:
+- Official Identity Document
+- Visa
+- Health insurance
+For website: FlixBus said yes for credentials:
+For website: Hertz said yes for credentials:
+- Driver's license
+For website: Sparkasse said yes for credentials:
+- Official Identity Document
+- Bank credentials
+For website: ImmoScout24 said yes for credentials:
+- Official Identity Document
+For website: Steam said yes for credentials:
+For website: Amazon said yes for credentials:
+- Official Identity Document
+For website: Facebook said yes for credentials:
+For website: Zeit said yes for credentials:
+For website: PayPal said yes for credentials:
+- Bank credentials
+- Official Identity Document
+ID: af397557bacedc32 of type cybersecurity:
+For website: Shop Apotheke said yes for credentials:
+For website: Zava said yes for credentials:
+For website: Official Government Website of Germany said yes for credentials:
+For website: Stepstone said yes for credentials:
+- Visa
+- Marriage certificate
+- Birth certificate
+- Driver's license
+- Official Identity Document
+- Bank credentials
+- University transcript
+- Diploma
+- Employment history
+- Professional licenses
+- Health insurance
+- Prescriptions
+- Disability status
+- Medical records
+For website: TU München said yes for credentials:
+For website: Lufthansa said yes for credentials:
+- Marriage certificate
+For website: FlixBus said yes for credentials:
+For website: Hertz said yes for credentials:
+For website: Sparkasse said yes for credentials:
+For website: ImmoScout24 said yes for credentials:
+For website: Steam said yes for credentials:
+For website: Amazon said yes for credentials:
+For website: Facebook said yes for credentials:
+For website: Zeit said yes for credentials:
+For website: PayPal said yes for credentials:
+ID: bb684bdffdb5d62d of type cybersecurity:
+For website: Redcare said yes for credentials:
+- Prescriptions
+- Health insurance
+- Medical records
+- Disability status
+For website: SoS Pediatra said yes for credentials:
+- Health insurance
+- Prescriptions
+- Medical records
+- Disability status
+- Bank credentials
+For website: Official Government Website of Italy said yes for credentials:
+- Official Identity Document
+- Driver's license
+- Birth certificate
+- Marriage certificate
+- Visa
+- University transcript
+- Diploma
+For website: Indeed said yes for credentials:
+- Official Identity Document
+- Driver's license
+- Visa
+- University transcript
+- Diploma
+- Employment history
+- Professional licenses
+For website: Bocconi said yes for credentials:
+- Official Identity Document
+- Visa
+- Bank credentials
+- University transcript
+- Diploma
+- Professional licenses
+- Disability status
+For website: ITA Airways said yes for credentials:
+- Disability status
+- Bank credentials
+- Visa
+- Official Identity Document
+For website: FlixBus said yes for credentials:
+- Official Identity Document
+- Visa
+- Bank credentials
+- Disability status
+For website: Hertz said yes for credentials:
+- Official Identity Document
+- Driver's license
+- Visa
+- Bank credentials
+For website: Intesa Sanpaolo said yes for credentials:
+- Official Identity Document
+- Marriage certificate
+- Visa
+For website: Immobiliare said yes for credentials:
+- Official Identity Document
+- Marriage certificate
+- Visa
+- Bank credentials
+For website: Steam said yes for credentials:
+- Official Identity Document
+- Bank credentials
+For website: Amazon said yes for credentials:
+- Bank credentials
+For website: Facebook said yes for credentials:
+For website: La Repubblica said yes for credentials:
+- Bank credentials
+For website: PayPal said yes for credentials:
+- Bank credentials
+- Official Identity Document
+ID: 4aab1ca641fa27b2 of type cybersecurity:
+For website: Shop Apotheke said yes for credentials:
+- Health insurance
+- Prescriptions
+For website: Zava said yes for credentials:
+- Official Identity Document
+- Employment history
+- Health insurance
+- Prescriptions
+- Medical records
+For website: Official Government Website of Germany said yes for credentials:
+- Official Identity Document
+- Driver's license
+- Birth certificate
+- Marriage certificate
+- Bank credentials
+- University transcript
+- Diploma
+- Health insurance
+- Disability status
+For website: Stepstone said yes for credentials:
+- Official Identity Document
+- Driver's license
+- Diploma
+- Employment history
+- Professional licenses
+- Disability status
+For website: TU München said yes for credentials:
+- Diploma
+- Official Identity Document
+For website: Lufthansa said yes for credentials:
+- Official Identity Document
+- Visa
+- Disability status
+For website: FlixBus said yes for credentials:
+- Disability status
+- Official Identity Document
+- Visa
+For website: Hertz said yes for credentials:
+- Official Identity Document
+- Driver's license
+- Visa
+- Disability status
+For website: Sparkasse said yes for credentials:
+- Official Identity Document
+- Marriage certificate
+- Bank credentials
+- Employment history
+- Health insurance
+For website: ImmoScout24 said yes for credentials:
+- Official Identity Document
+For website: Steam said yes for credentials:
+For website: Amazon said yes for credentials:
+- Official Identity Document
+For website: Facebook said yes for credentials:
+- Official Identity Document
+For website: Zeit said yes for credentials:
+- Official Identity Document
+For website: PayPal said yes for credentials:
+- Official Identity Document
+- Bank credentials
+ID: f3ab785c0aae51be of type cybersecurity:
+For website: Redcare said yes for credentials:
+- Medical records
+- Prescriptions
+- Health insurance
+For website: SoS Pediatra said yes for credentials:
+- Health insurance
+- Medical records
+- Disability status
+- Prescriptions
+For website: Official Government Website of Italy said yes for credentials:
+For website: Indeed said yes for credentials:
+- Driver's license
+- Diploma
+- Employment history
+- Professional licenses
+For website: Bocconi said yes for credentials:
+- University transcript
+- Diploma
+- Disability status
+For website: ITA Airways said yes for credentials:
+- Visa
+- Disability status
+- Official Identity Document
+For website: FlixBus said yes for credentials:
+For website: Hertz said yes for credentials:
+- Driver's license
+- Disability status
+For website: Intesa Sanpaolo said yes for credentials:
+For website: Immobiliare said yes for credentials:
+For website: Steam said yes for credentials:
+For website: Amazon said yes for credentials:
+For website: Facebook said yes for credentials:
+For website: La Repubblica said yes for credentials:
+For website: PayPal said yes for credentials:
+- Official Identity Document
+ID: 56814c6395ee1659 of type cybersecurity:
+For website: Shop Apotheke said yes for credentials:
+- Health insurance
+- Prescriptions
+For website: Zava said yes for credentials:
+- Health insurance
+- Prescriptions
+- Medical records
+- Disability status
+For website: Official Government Website of Germany said yes for credentials:
+- Official Identity Document
+- Driver's license
+- Birth certificate
+- Marriage certificate
+- Disability status
+For website: Stepstone said yes for credentials:
+- University transcript
+- Diploma
+- Employment history
+- Professional licenses
+For website: TU München said yes for credentials:
+- Official Identity Document
+- University transcript
+- Diploma
+- Disability status
+For website: Lufthansa said yes for credentials:
+- Visa
+- Disability status
+For website: FlixBus said yes for credentials:
+For website: Hertz said yes for credentials:
+- Driver's license
+For website: Sparkasse said yes for credentials:
+- Bank credentials
+For website: ImmoScout24 said yes for credentials:
+For website: Steam said yes for credentials:
+- Birth certificate
+For website: Amazon said yes for credentials:
+- Birth certificate
+For website: Facebook said yes for credentials:
+For website: Zeit said yes for credentials:
+For website: PayPal said yes for credentials:
+ID: 7b998ea65a634431 of type cybersecurity:
+For website: DocMorris said yes for credentials:
+- Health insurance
+- Prescriptions
+For website: Qare said yes for credentials:
+- Health insurance
+- Prescriptions
+- Medical records
+- Disability status
+For website: Official Government Website of France said yes for credentials:
+- Official Identity Document
+- Driver's license
+For website: Pole Emploi said yes for credentials:
+For website: Panthéon Sorbonne said yes for credentials:
+- Professional licenses
+- Disability status
+For website: Air France said yes for credentials:
+- Disability status
+For website: FlixBus said yes for credentials:
+For website: Hertz said yes for credentials:
+- Disability status
+For website: Crédit Mutuel said yes for credentials:
+- Official Identity Document
+For website: SeLoger said yes for credentials:
+For website: Steam said yes for credentials:
+For website: Amazon said yes for credentials:
+For website: Facebook said yes for credentials:
+For website: Le Monde said yes for credentials:
+For website: PayPal said yes for credentials:
+ID: 15d4cbb5c750ea49 of type law:
+For website: Shop Apotheke said yes for credentials:
+- Official Identity Document
+For website: Zava said yes for credentials:
+- Health insurance
+- Disability status
+- Prescriptions
+- Medical records
+- Official Identity Document
+For website: Official Government Website of Germany said yes for credentials:
+- Official Identity Document
+For website: Stepstone said yes for credentials:
+- Employment history
+- Diploma
+- Official Identity Document
+For website: TU München said yes for credentials:
+- Diploma
+- University transcript
+- Official Identity Document
+For website: Lufthansa said yes for credentials:
+- Visa
+- Official Identity Document
+For website: FlixBus said yes for credentials:
+- Visa
+- Official Identity Document
+For website: Hertz said yes for credentials:
+- Driver's license
+- Visa
+- Official Identity Document
+For website: Sparkasse said yes for credentials:
+- Bank credentials
+- Official Identity Document
+For website: ImmoScout24 said yes for credentials:
+- Bank credentials
+- Official Identity Document
+For website: Steam said yes for credentials:
+- Official Identity Document
+For website: Amazon said yes for credentials:
+- Official Identity Document
+For website: Facebook said yes for credentials:
+For website: Zeit said yes for credentials:
+- Official Identity Document
+For website: PayPal said yes for credentials:
+- Bank credentials
+- Official Identity Document
+ID: a09fb0115032e3cd of type law:
+For website: Shop Apotheke said yes for credentials:
+- Prescriptions
+- Official Identity Document
+For website: Zava said yes for credentials:
+- Health insurance
+- Prescriptions
+- Medical records
+For website: Official Government Website of Germany said yes for credentials:
+- Official Identity Document
+For website: Stepstone said yes for credentials:
+For website: TU München said yes for credentials:
+For website: Lufthansa said yes for credentials:
+For website: FlixBus said yes for credentials:
+For website: Hertz said yes for credentials:
+- Driver's license
+- Official Identity Document
+For website: Sparkasse said yes for credentials:
+- Bank credentials
+- Official Identity Document
+For website: ImmoScout24 said yes for credentials:
+For website: Steam said yes for credentials:
+For website: Amazon said yes for credentials:
+For website: Facebook said yes for credentials:
+For website: Zeit said yes for credentials:
+For website: PayPal said yes for credentials:
+ID: 2df7e897ec7337d3 of type law:
+For website: Shop Apotheke said yes for credentials:
+- Health insurance
+- Prescriptions
+- Medical records
+- Bank credentials
+For website: Zava said yes for credentials:
+- Health insurance
+- Disability status
+- Prescriptions
+- Bank credentials
+- Medical records
+For website: Official Government Website of Germany said yes for credentials:
+- Visa
+- Driver's license
+- Birth certificate
+- Marriage certificate
+- Official Identity Document
+For website: Stepstone said yes for credentials:
+- Employment history
+- Visa
+- Professional licenses
+- University transcript
+- Diploma
+For website: TU München said yes for credentials:
+- Employment history
+- Disability status
+- Visa
+- Bank credentials
+- Official Identity Document
+- Professional licenses
+- Birth certificate
+- University transcript
+- Diploma
+For website: Lufthansa said yes for credentials:
+- Visa
+- Bank credentials
+- Official Identity Document
+For website: FlixBus said yes for credentials:
+- Visa
+- Bank credentials
+- Official Identity Document
+For website: Hertz said yes for credentials:
+- Driver's license
+- Bank credentials
+For website: Sparkasse said yes for credentials:
+- Employment history
+- Visa
+- Bank credentials
+- Official Identity Document
+- Professional licenses
+- Diploma
+For website: ImmoScout24 said yes for credentials:
+- Employment history
+- Visa
+- Bank credentials
+- Official Identity Document
+For website: Steam said yes for credentials:
+- Bank credentials
+- Official Identity Document
+For website: Amazon said yes for credentials:
+- Bank credentials
+For website: Facebook said yes for credentials:
+- Employment history
+- Bank credentials
+- Professional licenses
+- Diploma
+For website: Zeit said yes for credentials:
+- Bank credentials
+For website: PayPal said yes for credentials:
+- Bank credentials
+- Official Identity Document
+ID: fddf92da65ec566c of type policy:
+For website: Shop Apotheke said yes for credentials:
+For website: Zava said yes for credentials:
+For website: Official Government Website of Germany said yes for credentials:
+For website: Stepstone said yes for credentials:
+For website: TU München said yes for credentials:
+For website: Lufthansa said yes for credentials:
+For website: FlixBus said yes for credentials:
+For website: Hertz said yes for credentials:
+For website: Sparkasse said yes for credentials:
+For website: ImmoScout24 said yes for credentials:
+For website: Steam said yes for credentials:
+For website: Amazon said yes for credentials:
+For website: Facebook said yes for credentials:
+For website: Zeit said yes for credentials:
+For website: PayPal said yes for credentials:
+- Driver's license
+- Birth certificate
+- Marriage certificate
+- Visa
+- University transcript
+- Diploma
+- Employment history
+- Professional licenses
+- Health insurance
+- Prescriptions
+- Medical records
+- Disability status
+ID: aa8629ea7ea389bd of type policy:
+For website: Redcare said yes for credentials:
+- Disability status
+- Prescriptions
+- Health insurance
+- Medical records
+For website: SoS Pediatra said yes for credentials:
+- Health insurance
+- Prescriptions
+- Medical records
+- Disability status
+For website: Official Government Website of Italy said yes for credentials:
+- Driver's license
+- Birth certificate
+- Marriage certificate
+- Bank credentials
+- University transcript
+- Diploma
+- Employment history
+- Professional licenses
+- Health insurance
+- Prescriptions
+- Medical records
+- Disability status
+For website: Indeed said yes for credentials:
+- University transcript
+- Diploma
+- Employment history
+- Professional licenses
+- Birth certificate
+- Driver's license
+- Disability status
+For website: Bocconi said yes for credentials:
+- Disability status
+- Bank credentials
+- University transcript
+- Diploma
+- Employment history
+- Professional licenses
+For website: ITA Airways said yes for credentials:
+For website: FlixBus said yes for credentials:
+- Disability status
+- Prescriptions
+- Medical records
+For website: Hertz said yes for credentials:
+- Driver's license
+For website: Intesa Sanpaolo said yes for credentials:
+- Marriage certificate
+- Bank credentials
+- Birth certificate
+For website: Immobiliare said yes for credentials:
+- Official Identity Document
+For website: Steam said yes for credentials:
+- Official Identity Document
+For website: Amazon said yes for credentials:
+- Official Identity Document
+- Bank credentials
+For website: Facebook said yes for credentials:
+For website: La Repubblica said yes for credentials:
+- Official Identity Document
+For website: PayPal said yes for credentials:
+ID: 707cdfe28d4e655f of type policy:
+For website: Shop Apotheke said yes for credentials:
+- Health insurance
+- Prescriptions
+- Medical records
+- Disability status
+For website: Zava said yes for credentials:
+- Medical records
+For website: Official Government Website of Germany said yes for credentials:
+- Official Identity Document
+- Driver's license
+- Birth certificate
+- Marriage certificate
+- Visa
+- Health insurance
+For website: Stepstone said yes for credentials:
+- Employment history
+- Diploma
+For website: TU München said yes for credentials:
+- University transcript
+For website: Lufthansa said yes for credentials:
+- Official Identity Document
+- Visa
+- Disability status
+For website: FlixBus said yes for credentials:
+For website: Hertz said yes for credentials:
+- Driver's license
+- Visa
+- Bank credentials
+For website: Sparkasse said yes for credentials:
+- Official Identity Document
+- Visa
+For website: ImmoScout24 said yes for credentials:
+For website: Steam said yes for credentials:
+- Bank credentials
+For website: Amazon said yes for credentials:
+- Bank credentials
+For website: Facebook said yes for credentials:
+For website: Zeit said yes for credentials:
+- Disability status
+For website: PayPal said yes for credentials:
+- Official Identity Document
+- Bank credentials
+ID: 3dc45b77f1b53ae2 of type policy:
+For website: DocMorris said yes for credentials:
+- Prescriptions
+For website: Qare said yes for credentials:
+- Health insurance
+For website: Official Government Website of France said yes for credentials:
+- Official Identity Document
+- Visa
+- Disability status
+- Professional licenses
+- Marriage certificate
+- Birth certificate
+For website: Pole Emploi said yes for credentials:
+- Employment history
+- Diploma
+- Professional licenses
+For website: Panthéon Sorbonne said yes for credentials:
+- Diploma
+- Official Identity Document
+For website: Air France said yes for credentials:
+- Official Identity Document
+- Disability status
+For website: FlixBus said yes for credentials:
+For website: Hertz said yes for credentials:
+For website: Crédit Mutuel said yes for credentials:
+- Driver's license
+For website: SeLoger said yes for credentials:
+For website: Steam said yes for credentials:
+- Official Identity Document
+For website: Amazon said yes for credentials:
+For website: Facebook said yes for credentials:
+For website: Le Monde said yes for credentials:
+- Professional licenses
+For website: PayPal said yes for credentials:
+- Official Identity Document
+ID: eb17f813d842d084 of type policy:
+For website: Redcare said yes for credentials:
+For website: SoS Pediatra said yes for credentials:
+For website: Official Government Website of Italy said yes for credentials:
+For website: Indeed said yes for credentials:
+For website: Bocconi said yes for credentials:
+For website: ITA Airways said yes for credentials:
+For website: FlixBus said yes for credentials:
+For website: Hertz said yes for credentials:
+For website: Intesa Sanpaolo said yes for credentials:
+For website: Immobiliare said yes for credentials:
+For website: Steam said yes for credentials:
+For website: Amazon said yes for credentials:
+For website: Facebook said yes for credentials:
+For website: La Repubblica said yes for credentials:
+For website: PayPal said yes for credentials:
+ID: 3f3af5d946006b41 of type ethics:
+For website: Shop Apotheke said yes for credentials:
+- Prescriptions
+- Bank credentials
+For website: Zava said yes for credentials:
+- Health insurance
+- Official Identity Document
+- Bank credentials
+For website: Official Government Website of Germany said yes for credentials:
+- Official Identity Document
+- Driver's license
+- Birth certificate
+For website: Stepstone said yes for credentials:
+- Bank credentials
+For website: TU München said yes for credentials:
+- Official Identity Document
+- Bank credentials
+For website: Lufthansa said yes for credentials:
+- Official Identity Document
+- Disability status
+- Bank credentials
+For website: FlixBus said yes for credentials:
+- Bank credentials
+For website: Hertz said yes for credentials:
+- Official Identity Document
+- Driver's license
+- Bank credentials
+For website: Sparkasse said yes for credentials:
+- Official Identity Document
+- Bank credentials
+- Marriage certificate
+For website: ImmoScout24 said yes for credentials:
+For website: Steam said yes for credentials:
+- Bank credentials
+For website: Amazon said yes for credentials:
+- Bank credentials
+For website: Facebook said yes for credentials:
+For website: Zeit said yes for credentials:
+For website: PayPal said yes for credentials:
+- Bank credentials
+ID: 65ce568497febbb5 of type ethics:
+For website: DocMorris said yes for credentials:
+- Official Identity Document
+- Driver's license
+- Visa
+For website: Qare said yes for credentials:
+- Official Identity Document
+- Prescriptions
+- Medical records
+- Disability status
+For website: Official Government Website of France said yes for credentials:
+- Official Identity Document
+- Driver's license
+- Visa
+- Employment history
+- Professional licenses
+- Health insurance
+For website: Pole Emploi said yes for credentials:
+- Official Identity Document
+- University transcript
+- Diploma
+- Employment history
+- Professional licenses
+For website: Panthéon Sorbonne said yes for credentials:
+- University transcript
+- Diploma
+- Employment history
+- Professional licenses
+For website: Air France said yes for credentials:
+- Official Identity Document
+- Visa
+- Bank credentials
+- Disability status
+For website: FlixBus said yes for credentials:
+- Official Identity Document
+- Driver's license
+- Visa
+- Bank credentials
+- Disability status
+For website: Hertz said yes for credentials:
+- Official Identity Document
+- Driver's license
+- Bank credentials
+- Visa
+- Professional licenses
+- Disability status
+For website: Crédit Mutuel said yes for credentials:
+- Official Identity Document
+- Visa
+- Bank credentials
+For website: SeLoger said yes for credentials:
+- Official Identity Document
+- Visa
+- Bank credentials
+- Disability status
+For website: Steam said yes for credentials:
+- Visa
+- Official Identity Document
+For website: Amazon said yes for credentials:
+- Official Identity Document
+- Birth certificate
+- Visa
+- Disability status
+For website: Facebook said yes for credentials:
+For website: Le Monde said yes for credentials:
+- Disability status
+For website: PayPal said yes for credentials:
+- Visa
+- Bank credentials
+- Official Identity Document
+ID: 190acc322d1f7b49 of type ethics:
+For website: Shop Apotheke said yes for credentials:
+For website: Zava said yes for credentials:
+For website: Official Government Website of Germany said yes for credentials:
+- Official Identity Document
+For website: Stepstone said yes for credentials:
+For website: TU München said yes for credentials:
+For website: Lufthansa said yes for credentials:
+- Visa
+For website: FlixBus said yes for credentials:
+For website: Hertz said yes for credentials:
+For website: Sparkasse said yes for credentials:
+For website: ImmoScout24 said yes for credentials:
+For website: Steam said yes for credentials:
+For website: Amazon said yes for credentials:
+For website: Facebook said yes for credentials:
+For website: Zeit said yes for credentials:
+For website: PayPal said yes for credentials:
+ID: 5f9064efc6816a4e of type ethics:
+For website: Shop Apotheke said yes for credentials:
+- Medical records
+For website: Zava said yes for credentials:
+For website: Official Government Website of Germany said yes for credentials:
+For website: Stepstone said yes for credentials:
+- Diploma
+- University transcript
+For website: TU München said yes for credentials:
+- Disability status
+For website: Lufthansa said yes for credentials:
+- Visa
+For website: FlixBus said yes for credentials:
+- Visa
+For website: Hertz said yes for credentials:
+- Visa
+- Bank credentials
+For website: Sparkasse said yes for credentials:
+- Employment history
+For website: ImmoScout24 said yes for credentials:
+For website: Steam said yes for credentials:
+- Official Identity Document
+For website: Amazon said yes for credentials:
+- Bank credentials
+For website: Facebook said yes for credentials:
+- Official Identity Document
+For website: Zeit said yes for credentials:
+For website: PayPal said yes for credentials:

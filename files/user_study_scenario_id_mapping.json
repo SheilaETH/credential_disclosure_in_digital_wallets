@@ -1,0 +1,252 @@
+{
+    "S1_1": {
+        "all_good": ["s1_all_good_scenario_1"], 
+        "control": ["s1_all_good_scenario_1"], 
+        "test": ["s1_g3_scenario_1", "s1_g4_scenario_1"]
+    },
+    "S1_2": {
+        "all_good": ["s1_all_good_scenario_2"], 
+        "control": ["s1_all_good_scenario_2"], 
+        "test": ["s1_g3_scenario_2", "s1_g4_scenario_2"]
+    },
+    "S1_3": {
+        "all_good": ["s1_all_good_scenario_3"], 
+        "control": ["s1_all_good_scenario_3"], 
+        "test": ["s1_g3_scenario_3", "s1_g4_scenario_3"]
+    },
+    "S1_4": {
+        "all_good": ["s1_all_good_scenario_4"], 
+        "control": ["s1_all_good_scenario_4"], 
+        "test": ["s1_g3_scenario_4", "s1_g4_scenario_4"]
+    },
+    "S1_5": {
+        "all_good": ["s1_all_good_scenario_5"], 
+        "control": ["s1_all_good_scenario_5"], 
+        "test": ["s1_g3_scenario_5", "s1_g4_scenario_5"]
+    },
+    "S1_6": {
+        "all_good": ["s1_all_good_scenario_6"], 
+        "control": ["s1_all_good_scenario_6"], 
+        "test": ["s1_g3_scenario_6", "s1_g4_scenario_6"]
+    },
+    "S1_7": {
+        "all_good": ["s1_all_good_scenario_7"], 
+        "control": ["s1_all_good_scenario_7"], 
+        "test": ["s1_g3_scenario_7", "s1_g4_scenario_7"]
+    },
+    "S1_8": {
+        "all_good": ["s1_all_good_scenario_8"], 
+        "control": ["s1_all_good_scenario_8"], 
+        "test": ["s1_g3_scenario_8", "s1_g4_scenario_8"]
+    },
+    "S1_9": {
+        "all_good": ["s1_all_good_scenario_9"], 
+        "control": ["s1_all_good_scenario_9"], 
+        "test": ["s1_g3_scenario_9", "s1_g4_scenario_9"]
+    },
+    "S1_10": {
+        "all_good": ["s1_all_good_scenario_10"], 
+        "control": ["s1_all_good_scenario_10"], 
+        "test": ["s1_g3_scenario_10", "s1_g4_scenario_10"]
+    },
+    "S2_1": {
+        "all_good": ["s2_all_good_scenario_1"], 
+        "control": ["s2_all_good_scenario_1", "s2_vague_scenario_1", "s2_bogus_scenario_1"], 
+        "test": ["s2_vague_scenario_1", "s2_bogus_scenario_1"]
+    },
+    "S2_2": {
+        "all_good": ["s2_all_good_scenario_2"], 
+        "control": ["s2_all_good_scenario_2", "s2_vague_scenario_2", "s2_bogus_scenario_2"], 
+        "test": ["s2_vague_scenario_2", "s2_bogus_scenario_2"]
+    },
+    "S2_3": {
+        "all_good": ["s2_all_good_scenario_3"], 
+        "control": ["s2_all_good_scenario_3", "s2_vague_scenario_3", "s2_bogus_scenario_3"], 
+        "test": ["s2_vague_scenario_3", "s2_bogus_scenario_3"]
+    },
+    "S2_4": {
+        "all_good": ["s2_all_good_scenario_4"], 
+        "control": ["s2_all_good_scenario_4", "s2_vague_scenario_4", "s2_bogus_scenario_4"], 
+        "test": ["s2_vague_scenario_4", "s2_bogus_scenario_4"]
+    },
+    "S2_5": {
+        "all_good": ["s2_all_good_scenario_5"], 
+        "control": ["s2_all_good_scenario_5", "s2_vague_scenario_5", "s2_bogus_scenario_5"], 
+        "test": ["s2_vague_scenario_5", "s2_bogus_scenario_5"]
+    },
+    "S3_1": {
+        "all_good": ["s3_all_good_expert_scenario_1", "s3_all_good_expert_law_scenario_1", "s3_all_good_expert_ethics_scenario_1", "s3_all_good_expert_policy_scenario_1", "s3_all_good_expert_cyber_scenario_1", "s3_all_good_user_scenario_1"], 
+        "control": ["s3_all_good_expert_scenario_1"], 
+        "test": ["s3_g8_scenario_1", "s3_g9_scenario_1"]
+    },
+    "S3_2": {
+        "all_good": ["s3_all_good_expert_scenario_2", "s3_all_good_expert_law_scenario_2", "s3_all_good_expert_ethics_scenario_2", "s3_all_good_expert_policy_scenario_2", "s3_all_good_expert_cyber_scenario_2", "s3_all_good_user_scenario_2"], 
+        "control": ["s3_all_good_expert_scenario_2"], 
+        "test": ["s3_g8_scenario_2", "s3_g9_scenario_2"]
+    },
+    "S3_3": {
+        "all_good": ["s3_all_good_expert_scenario_3", "s3_all_good_expert_law_scenario_3", "s3_all_good_expert_ethics_scenario_3", "s3_all_good_expert_policy_scenario_3", "s3_all_good_expert_cyber_scenario_3", "s3_all_good_user_scenario_3"], 
+        "control": ["s3_all_good_expert_scenario_3"], 
+        "test": ["s3_g8_scenario_3", "s3_g9_scenario_3"]
+    },
+    "S3_4": {
+        "all_good": ["s3_all_good_expert_scenario_4", "s3_all_good_expert_law_scenario_4", "s3_all_good_expert_ethics_scenario_4", "s3_all_good_expert_policy_scenario_4", "s3_all_good_expert_cyber_scenario_4", "s3_all_good_user_scenario_4"], 
+        "control": ["s3_all_good_expert_scenario_4"], 
+        "test": ["s3_g8_scenario_4", "s3_g9_scenario_4"]
+    },
+    "S3_5": {
+        "all_good": ["s3_all_good_expert_scenario_5", "s3_all_good_expert_law_scenario_5", "s3_all_good_expert_ethics_scenario_5", "s3_all_good_expert_policy_scenario_5", "s3_all_good_expert_cyber_scenario_5", "s3_all_good_user_scenario_5"], 
+        "control": ["s3_all_good_expert_scenario_5"], 
+        "test": ["s3_g8_scenario_5", "s3_g9_scenario_5"]
+    },
+    "S3_6": {
+        "all_good": ["s3_all_good_expert_scenario_6", "s3_all_good_expert_law_scenario_6", "s3_all_good_expert_ethics_scenario_6", "s3_all_good_expert_policy_scenario_6", "s3_all_good_expert_cyber_scenario_6", "s3_all_good_user_scenario_6"], 
+        "control": ["s3_all_good_expert_scenario_6"], 
+        "test": ["s3_g8_scenario_6", "s3_g9_scenario_6"]
+    },
+    "S3_7": {
+        "all_good": ["s3_all_good_expert_scenario_7", "s3_all_good_expert_law_scenario_7", "s3_all_good_expert_ethics_scenario_7", "s3_all_good_expert_policy_scenario_7", "s3_all_good_expert_cyber_scenario_7", "s3_all_good_user_scenario_7"], 
+        "control": ["s3_all_good_expert_scenario_7"], 
+        "test": ["s3_g8_scenario_7", "s3_g9_scenario_7"]
+    },
+    "S3_8": {
+        "all_good": ["s3_all_good_expert_scenario_8", "s3_all_good_expert_law_scenario_8", "s3_all_good_expert_ethics_scenario_8", "s3_all_good_expert_policy_scenario_8", "s3_all_good_expert_cyber_scenario_8", "s3_all_good_user_scenario_8"], 
+        "control": ["s3_all_good_expert_scenario_8"], 
+        "test": ["s3_g8_scenario_8", "s3_g9_scenario_8"]
+    },
+    "S3_9": {
+        "all_good": ["s3_all_good_expert_scenario_9", "s3_all_good_expert_law_scenario_9", "s3_all_good_expert_ethics_scenario_9", "s3_all_good_expert_policy_scenario_9", "s3_all_good_expert_cyber_scenario_9", "s3_all_good_user_scenario_9"], 
+        "control": ["s3_all_good_expert_scenario_9"], 
+        "test": ["s3_g8_scenario_9", "s3_g9_scenario_9"]
+    },
+    "S3_10": {
+        "all_good": ["s3_all_good_expert_scenario_10", "s3_all_good_expert_law_scenario_10", "s3_all_good_expert_ethics_scenario_10", "s3_all_good_expert_policy_scenario_10", "s3_all_good_expert_cyber_scenario_10", "s3_all_good_user_scenario_10"], 
+        "control": ["s3_all_good_expert_scenario_10"], 
+        "test": ["s3_g8_scenario_10", "s3_g9_scenario_10"]
+    },
+    "S4_1": {
+        "all_good": ["s4_all_good_no_purpose_scenario_1", "s4_all_good_purpose_proper_scenario_1", "s4_all_good_purpose_vague_scenario_1"], 
+        "control": ["s4_all_good_no_purpose_scenario_1", "s4_all_good_purpose_proper_scenario_1", "s4_all_good_purpose_vague_scenario_1"], 
+        "test": ["s4_proper_scenario_1", "s4_vague_scenario_1"]
+    },
+    "S4_2": {
+        "all_good": ["s4_all_good_no_purpose_scenario_2", "s4_all_good_purpose_proper_scenario_2", "s4_all_good_purpose_vague_scenario_2"], 
+        "control": ["s4_all_good_no_purpose_scenario_2", "s4_all_good_purpose_proper_scenario_2", "s4_all_good_purpose_vague_scenario_2"], 
+        "test": ["s4_proper_scenario_2", "s4_vague_scenario_2"]
+    },
+    "S4_3": {
+        "all_good": ["s4_all_good_no_purpose_scenario_3", "s4_all_good_purpose_proper_scenario_3", "s4_all_good_purpose_vague_scenario_3"], 
+        "control": ["s4_all_good_no_purpose_scenario_3", "s4_all_good_purpose_proper_scenario_3", "s4_all_good_purpose_vague_scenario_3"], 
+        "test": ["s4_proper_scenario_3", "s4_vague_scenario_3"]
+    },
+    "S4_4": {
+        "all_good": ["s4_all_good_no_purpose_scenario_4", "s4_all_good_purpose_proper_scenario_4", "s4_all_good_purpose_vague_scenario_4"], 
+        "control": ["s4_all_good_no_purpose_scenario_4", "s4_all_good_purpose_proper_scenario_4", "s4_all_good_purpose_vague_scenario_4"], 
+        "test": ["s4_proper_scenario_4", "s4_vague_scenario_4"]
+    },
+    "S4_5": {
+        "all_good": ["s4_all_good_no_purpose_scenario_5", "s4_all_good_purpose_proper_scenario_5", "s4_all_good_purpose_vague_scenario_5"], 
+        "control": ["s4_all_good_no_purpose_scenario_5", "s4_all_good_purpose_proper_scenario_5", "s4_all_good_purpose_vague_scenario_5"], 
+        "test": ["s4_proper_scenario_5", "s4_vague_scenario_5"]
+    },
+    "S5_1": {
+        "all_good": ["s5_all_good_scenario_1", "s5_all_good_law_scenario_1", "s5_all_good_ethics_scenario_1", "s5_all_good_policy_scenario_1", "s5_all_good_cyber_scenario_1"], 
+        "control": ["s5_all_good_scenario_1"], 
+        "test": ["s5_g11_scenario_1", "s5_g12_scenario_1", "s5_g13_scenario_1"]
+    },
+    "S5_2": {
+        "all_good": ["s5_all_good_scenario_2", "s5_all_good_law_scenario_2", "s5_all_good_ethics_scenario_2", "s5_all_good_policy_scenario_2", "s5_all_good_cyber_scenario_2"], 
+        "control": ["s5_all_good_scenario_2"], 
+        "test": ["s5_g11_scenario_2", "s5_g12_scenario_2", "s5_g13_scenario_2"]
+    },
+    "S5_3": {
+        "all_good": ["s5_all_good_scenario_3", "s5_all_good_law_scenario_3", "s5_all_good_ethics_scenario_3", "s5_all_good_policy_scenario_3", "s5_all_good_cyber_scenario_3"], 
+        "control": ["s5_all_good_scenario_3"], 
+        "test": ["s5_g11_scenario_3", "s5_g12_scenario_3", "s5_g13_scenario_3"]
+    },
+    "S5_4": {
+        "all_good": ["s5_all_good_scenario_4", "s5_all_good_law_scenario_4", "s5_all_good_ethics_scenario_4", "s5_all_good_policy_scenario_4", "s5_all_good_cyber_scenario_4"], 
+        "control": ["s5_all_good_scenario_4"], 
+        "test": ["s5_g11_scenario_4", "s5_g12_scenario_4", "s5_g13_scenario_4"]
+    },
+    "S5_5": {
+        "all_good": ["s5_all_good_scenario_5", "s5_all_good_law_scenario_5", "s5_all_good_ethics_scenario_5", "s5_all_good_policy_scenario_5", "s5_all_good_cyber_scenario_5"], 
+        "control": ["s5_all_good_scenario_5"], 
+        "test": ["s5_g11_scenario_5", "s5_g12_scenario_5", "s5_g13_scenario_5"]
+    },
+    "S5_6": {
+        "all_good": ["s5_all_good_scenario_6", "s5_all_good_law_scenario_6", "s5_all_good_ethics_scenario_6", "s5_all_good_policy_scenario_6", "s5_all_good_cyber_scenario_6"], 
+        "control": ["s5_all_good_scenario_6"], 
+        "test": ["s5_g11_scenario_6", "s5_g12_scenario_6", "s5_g13_scenario_6"]
+    },
+    "S5_7": {
+        "all_good": ["s5_all_good_scenario_7", "s5_all_good_law_scenario_7", "s5_all_good_ethics_scenario_7", "s5_all_good_policy_scenario_7", "s5_all_good_cyber_scenario_7"], 
+        "control": ["s5_all_good_scenario_7"], 
+        "test": ["s5_g11_scenario_7", "s5_g12_scenario_7", "s5_g13_scenario_7"]
+    },
+    "S5_8": {
+        "all_good": ["s5_all_good_scenario_8", "s5_all_good_law_scenario_8", "s5_all_good_ethics_scenario_8", "s5_all_good_policy_scenario_8", "s5_all_good_cyber_scenario_8"], 
+        "control": ["s5_all_good_scenario_8"], 
+        "test": ["s5_g11_scenario_8", "s5_g12_scenario_8", "s5_g13_scenario_8"]
+    },
+    "S5_9": {
+        "all_good": ["s5_all_good_scenario_9", "s5_all_good_law_scenario_9", "s5_all_good_ethics_scenario_9", "s5_all_good_policy_scenario_9", "s5_all_good_cyber_scenario_9"], 
+        "control": ["s5_all_good_scenario_9"], 
+        "test": ["s5_g11_scenario_9", "s5_g12_scenario_9", "s5_g13_scenario_9"]
+    },
+    "S5_10": {
+        "all_good": ["s5_all_good_scenario_10", "s5_all_good_law_scenario_10", "s5_all_good_ethics_scenario_10", "s5_all_good_policy_scenario_10", "s5_all_good_cyber_scenario_10"], 
+        "control": ["s5_all_good_scenario_10"], 
+        "test": ["s5_g11_scenario_10", "s5_g12_scenario_10", "s5_g13_scenario_10"]
+    },
+    "S6_1": {
+        "all_good": ["s6_all_good_scenario_1", "s6_all_good_law_scenario_1", "s6_all_good_ethics_scenario_1", "s6_all_good_policy_scenario_1", "s6_all_good_cyber_scenario_1"], 
+        "control": ["s6_all_good_scenario_1"], 
+        "test": ["s6_g11_scenario_1", "s6_g12_scenario_1", "s6_g13_scenario_1"]
+    },
+    "S6_2": {
+        "all_good": ["s6_all_good_scenario_2", "s6_all_good_law_scenario_2", "s6_all_good_ethics_scenario_2", "s6_all_good_policy_scenario_2", "s6_all_good_cyber_scenario_2"], 
+        "control": ["s6_all_good_scenario_2"], 
+        "test": ["s6_g11_scenario_2", "s6_g12_scenario_2", "s6_g13_scenario_2"]
+    },
+    "S6_3": {
+        "all_good": ["s6_all_good_scenario_3", "s6_all_good_law_scenario_3", "s6_all_good_ethics_scenario_3", "s6_all_good_policy_scenario_3", "s6_all_good_cyber_scenario_3"], 
+        "control": ["s6_all_good_scenario_3"], 
+        "test": ["s6_g11_scenario_3", "s6_g12_scenario_3", "s6_g13_scenario_3"]
+    },
+    "S6_4": {
+        "all_good": ["s6_all_good_scenario_4", "s6_all_good_law_scenario_4", "s6_all_good_ethics_scenario_4", "s6_all_good_policy_scenario_4", "s6_all_good_cyber_scenario_4"], 
+        "control": ["s6_all_good_scenario_4"], 
+        "test": ["s6_g11_scenario_4", "s6_g12_scenario_4", "s6_g13_scenario_4"]
+    },
+    "S6_5": {
+        "all_good": ["s6_all_good_scenario_5", "s6_all_good_law_scenario_5", "s6_all_good_ethics_scenario_5", "s6_all_good_policy_scenario_5", "s6_all_good_cyber_scenario_5"], 
+        "control": ["s6_all_good_scenario_5"], 
+        "test": ["s6_g11_scenario_5", "s6_g12_scenario_5", "s6_g13_scenario_5"]
+    },
+    "S6_6": {
+        "all_good": ["s6_all_good_scenario_6", "s6_all_good_law_scenario_6", "s6_all_good_ethics_scenario_6", "s6_all_good_policy_scenario_6", "s6_all_good_cyber_scenario_6"], 
+        "control": ["s6_all_good_scenario_6"], 
+        "test": ["s6_g11_scenario_6", "s6_g12_scenario_6", "s6_g13_scenario_6"]
+    },
+    "S6_7": {
+        "all_good": ["s6_all_good_scenario_7", "s6_all_good_law_scenario_7", "s6_all_good_ethics_scenario_7", "s6_all_good_policy_scenario_7", "s6_all_good_cyber_scenario_7"], 
+        "control": ["s6_all_good_scenario_7"], 
+        "test": ["s6_g11_scenario_7", "s6_g12_scenario_7", "s6_g13_scenario_7"]
+    },
+    "S6_8": {
+        "all_good": ["s6_all_good_scenario_8", "s6_all_good_law_scenario_8", "s6_all_good_ethics_scenario_8", "s6_all_good_policy_scenario_8", "s6_all_good_cyber_scenario_8"], 
+        "control": ["s6_all_good_scenario_8"], 
+        "test": ["s6_g11_scenario_8", "s6_g12_scenario_8", "s6_g13_scenario_8"]
+    },
+    "S6_9": {
+        "all_good": ["s6_all_good_scenario_9", "s6_all_good_law_scenario_9", "s6_all_good_ethics_scenario_9", "s6_all_good_policy_scenario_9", "s6_all_good_cyber_scenario_9"], 
+        "control": ["s6_all_good_scenario_9"], 
+        "test": ["s6_g11_scenario_9", "s6_g12_scenario_9", "s6_g13_scenario_9"]
+    },
+    "S6_10": {
+        "all_good": ["s6_all_good_scenario_10", "s6_all_good_law_scenario_10", "s6_all_good_ethics_scenario_10", "s6_all_good_policy_scenario_10", "s6_all_good_cyber_scenario_10"], 
+        "control": ["s6_all_good_scenario_10"], 
+        "test": ["s6_g11_scenario_10", "s6_g12_scenario_10", "s6_g13_scenario_10"]
+    }
+}

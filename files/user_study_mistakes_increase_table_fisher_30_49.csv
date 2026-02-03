@@ -1,0 +1,9 @@
+Group,Control Total #,Control Yes %,With Assistant Total #,With Assistant Yes %,Diff yes %,p-Value (Fisher)
+"S3 privacy assistant user mistake (i.e., 85-90% of users would share)",95,16.84%,120,14.17%,2.68%,0.7037
+"S3 privacy assistant expert mistake (i.e., 85-90% of experts recommend share)",95,16.84%,40,20.00%,-3.16%,0.6322
+"S5 privacy assistant expert mistake (i.e.,  5-10% of users would share and 85-90% of experts recommend share)",82,7.32%,46,23.91%,-16.60%,0.013
+"S5 privacy assistant user mistake (i.e.,  85-90% of users would share and  5-10% of experts recommend share)",82,7.32%,44,2.27%,5.04%,0.4199
+"S5 privacy assistant both mistake (i.e.,  85-90% of users would share and  85-90% of experts recommend share)",82,7.32%,46,34.78%,-27.47%,0.0002
+"S6 privacy assistant expert mistake (i.e.,  85-90% of users would share and  5-10% of experts recommend share)",85,77.65%,44,65.91%,11.74%,0.2055
+"S6 privacy assistant user mistake (i.e.,  5-10% of users would share and 85-90% of experts recommend share)",85,77.65%,46,80.43%,-2.79%,0.8247
+"S6 privacy assistant both mistake (i.e.,  5-10% of users would share and  5-10% of experts recommend share)",85,77.65%,32,53.12%,24.52%,0.0124

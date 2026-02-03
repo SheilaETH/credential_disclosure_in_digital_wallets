@@ -1,0 +1,15 @@
+,Pharmacy,Online Doctors,Government,Job Portal,University,Air Travel,Int. Ground Travel,Car Rental,Bank,Real Estate,Gaming,E-commerce,Social Media,News,Payment Services
+Official ID,1,0,1,1,1,1,1,1,1,1,1,1,1,-1,1
+Driver'S License,-1,-1,1,1,-1,-1,-1,1,-1,-1,-1,-1,-1,-1,-1
+Birth Certificate,-1,-1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Marriage Certificate,-1,-1,1,-1,-1,-1,-1,-1,0,0,-1,-1,-1,-1,-1
+Visa,-1,-1,1,0,1,1,1,0,-1,-1,-1,-1,-1,-1,-1
+Bank Acc. Validation,-1,-1,0,-1,-1,-1,-1,-1,1,-1,-1,-1,-1,-1,1
+University Transcript,-1,-1,0,1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Diploma,-1,-1,0,1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Employment History,-1,-1,1,1,0,-1,-1,-1,0,0,-1,-1,-1,-1,-1
+Professional Licenses,-1,-1,1,1,0,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Health Insurance,1,1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Prescriptions,1,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Medical Records,0,1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1
+Disability Status,0,1,1,0,1,1,1,1,-1,0,-1,-1,-1,-1,-1

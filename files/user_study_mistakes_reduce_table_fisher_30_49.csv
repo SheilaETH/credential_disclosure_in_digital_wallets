@@ -1,0 +1,5 @@
+Group,Control Total #,Control Yes %,With Assistant Total #,With Assistant Yes %,Diff yes %,p-Value (Fisher)
+"S3 privacy assistant user correct (i.e., 5-10% of users would share)",95,16.84%,844,6.28%,10.56%,0.0012
+"S3 privacy assistant expert correct (i.e., 5-10% of experts recommend share)",95,16.84%,841,7.13%,9.71%,0.0026
+"S5 privacy assistant both correct (i.e.,  5-10% of users would share and  5-10% of experts recommend share)",82,7.32%,1035,5.02%,2.29%,0.432
+"S6 privacy assistant both correct (i.e.,  85-90% of users would share and  85-90% of experts recommend share)",85,77.65%,1025,87.12%,-9.47%,0.0203

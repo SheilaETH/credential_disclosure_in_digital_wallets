@@ -1,0 +1,10 @@
+female: 487
+male: 502
+other_gender: 14
+age_18_29: 401
+age_30_49: 410
+age_50_plus: 192
+hs: 235
+bsc: 386
+msc: 342
+phd: 28

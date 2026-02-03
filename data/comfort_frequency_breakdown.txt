@@ -1,0 +1,57 @@
+Comfort breakdown: 
+- Official Identity Document:
+  - Average frequency: 2.4594861660079053 (1012)
+  - Average comfort: 3.58399209486166 (1012)
+  - Average still share: 2.923076923076923 (923)
+- Driver's license:
+  - Average frequency: 3.4191685912240186 (866)
+  - Average comfort: 3.3787528868360277 (866)
+  - Average still share: 3.036986301369863 (730)
+- Birth certificate:
+  - Average frequency: 4.416666666666667 (876)
+  - Average comfort: 3.9189497716894977 (876)
+  - Average still share: 3.1495564005069707 (789)
+- Marriage certificate:
+  - Average frequency: 4.3320610687022905 (262)
+  - Average comfort: 3.816793893129771 (262)
+  - Average still share: 3.0474137931034484 (232)
+- Visa:
+  - Average frequency: 3.4484848484848483 (330)
+  - Average comfort: 3.603030303030303 (330)
+  - Average still share: 3.086206896551724 (290)
+- Bank credentials:
+  - Average frequency: 3.4388297872340425 (752)
+  - Average comfort: 4.6063829787234045 (752)
+  - Average still share: 3.5380434782608696 (736)
+- University transcript:
+  - Average frequency: 3.855095541401274 (628)
+  - Average comfort: 2.9808917197452227 (628)
+  - Average still share: 2.3995584988962473 (453)
+- Diploma:
+  - Average frequency: 4.0472222222222225 (720)
+  - Average comfort: 2.7666666666666666 (720)
+  - Average still share: 2.3792372881355934 (472)
+- Employment history:
+  - Average frequency: 3.5303643724696356 (494)
+  - Average comfort: 3.08502024291498 (494)
+  - Average still share: 2.1844919786096257 (374)
+- Professional licenses:
+  - Average frequency: 3.696261682242991 (214)
+  - Average comfort: 3.02803738317757 (214)
+  - Average still share: 2.4671052631578947 (152)
+- Health insurance:
+  - Average frequency: 2.43213897937025 (921)
+  - Average comfort: 3.2975027144408253 (921)
+  - Average still share: 2.376134889753567 (771)
+- Prescriptions:
+  - Average frequency: 2.622100954979536 (733)
+  - Average comfort: 3.4392905866302863 (733)
+  - Average still share: 2.4129429892141756 (649)
+- Medical records:
+  - Average frequency: 3.8180212014134276 (566)
+  - Average comfort: 4.097173144876325 (566)
+  - Average still share: 2.9380863039399623 (533)
+- Disability status:
+  - Average frequency: 3.196078431372549 (51)
+  - Average comfort: 3.588235294117647 (51)
+  - Average still share: 2.5 (46)

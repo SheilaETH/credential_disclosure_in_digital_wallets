@@ -1,0 +1,313 @@
+Aggregated Results for Equivalent Scenarios
+
+=== Group S1 ===
+ALL_GOOD scenarios:
+
+  Aggregated for: s1_all_good_scenario_1, s1_all_good_scenario_2, s1_all_good_scenario_3, s1_all_good_scenario_4, s1_all_good_scenario_5, s1_all_good_scenario_6, s1_all_good_scenario_7, s1_all_good_scenario_8, s1_all_good_scenario_9, s1_all_good_scenario_10
+    Yes: 176 (75.86%)
+    No: 56 (24.14%)
+
+  Overall Aggregated for: s1_all_good_scenario_1, s1_all_good_scenario_2, s1_all_good_scenario_3, s1_all_good_scenario_4, s1_all_good_scenario_5, s1_all_good_scenario_6, s1_all_good_scenario_7, s1_all_good_scenario_8, s1_all_good_scenario_9, s1_all_good_scenario_10
+    Yes: 1826 (74.05%)
+    No: 640 (25.95%)
+
+CONTROL scenarios:
+
+  Aggregated for: s1_all_good_scenario_1, s1_all_good_scenario_2, s1_all_good_scenario_3, s1_all_good_scenario_4, s1_all_good_scenario_5, s1_all_good_scenario_6, s1_all_good_scenario_7, s1_all_good_scenario_8, s1_all_good_scenario_9, s1_all_good_scenario_10
+    Yes: 91 (62.76%)
+    No: 54 (37.24%)
+
+TEST scenarios:
+
+  Aggregated for: s1_g3_scenario_1, s1_g3_scenario_2, s1_g3_scenario_3, s1_g3_scenario_4, s1_g3_scenario_5, s1_g3_scenario_6, s1_g3_scenario_7, s1_g3_scenario_8, s1_g3_scenario_9, s1_g3_scenario_10
+    Yes: 297 (59.88%)
+    No: 199 (40.12%)
+
+  Aggregated for: s1_g4_scenario_1, s1_g4_scenario_2, s1_g4_scenario_3, s1_g4_scenario_4, s1_g4_scenario_5, s1_g4_scenario_6, s1_g4_scenario_7, s1_g4_scenario_8, s1_g4_scenario_9, s1_g4_scenario_10
+    Yes: 89 (76.72%)
+    No: 27 (23.28%)
+
+
+=== Group S2 ===
+ALL_GOOD scenarios:
+
+  Aggregated for: s2_all_good_scenario_1, s2_all_good_scenario_2, s2_all_good_scenario_3, s2_all_good_scenario_4, s2_all_good_scenario_5
+    Yes: 12 (11.11%)
+    No: 96 (88.89%)
+
+  Overall Aggregated for: s2_all_good_scenario_1, s2_all_good_scenario_2, s2_all_good_scenario_3, s2_all_good_scenario_4, s2_all_good_scenario_5
+    Yes: 134 (9.35%)
+    No: 1299 (90.65%)
+
+CONTROL scenarios:
+
+  Aggregated for: s2_all_good_scenario_1, s2_all_good_scenario_2, s2_all_good_scenario_3, s2_all_good_scenario_4, s2_all_good_scenario_5
+    Yes: 8 (16.00%)
+    No: 42 (84.00%)
+
+  Aggregated for: s2_vague_scenario_1, s2_vague_scenario_2, s2_vague_scenario_3, s2_vague_scenario_4, s2_vague_scenario_5
+    Yes: 6 (9.38%)
+    No: 58 (90.62%)
+
+  Aggregated for: s2_bogus_scenario_1, s2_bogus_scenario_2, s2_bogus_scenario_3, s2_bogus_scenario_4, s2_bogus_scenario_5
+    Yes: 12 (21.82%)
+    No: 43 (78.18%)
+
+TEST scenarios:
+
+  Aggregated for: s2_vague_scenario_1, s2_vague_scenario_2, s2_vague_scenario_3, s2_vague_scenario_4, s2_vague_scenario_5
+    Yes: 10 (11.90%)
+    No: 74 (88.10%)
+
+  Aggregated for: s2_bogus_scenario_1, s2_bogus_scenario_2, s2_bogus_scenario_3, s2_bogus_scenario_4, s2_bogus_scenario_5
+    Yes: 10 (9.80%)
+    No: 92 (90.20%)
+
+
+=== Group S3 ===
+ALL_GOOD scenarios:
+
+  Aggregated for: s3_all_good_expert_scenario_1, s3_all_good_expert_scenario_2, s3_all_good_expert_scenario_3, s3_all_good_expert_scenario_4, s3_all_good_expert_scenario_5, s3_all_good_expert_scenario_6, s3_all_good_expert_scenario_7, s3_all_good_expert_scenario_8, s3_all_good_expert_scenario_9, s3_all_good_expert_scenario_10
+    Yes: 10 (8.85%)
+    No: 103 (91.15%)
+
+  Overall Aggregated for: s3_all_good_expert_scenario_1, s3_all_good_expert_scenario_2, s3_all_good_expert_scenario_3, s3_all_good_expert_scenario_4, s3_all_good_expert_scenario_5, s3_all_good_expert_scenario_6, s3_all_good_expert_scenario_7, s3_all_good_expert_scenario_8, s3_all_good_expert_scenario_9, s3_all_good_expert_scenario_10
+    Yes: 146 (7.00%)
+    No: 1941 (93.00%)
+
+  Aggregated for: s3_all_good_expert_law_scenario_1, s3_all_good_expert_law_scenario_2, s3_all_good_expert_law_scenario_3, s3_all_good_expert_law_scenario_4, s3_all_good_expert_law_scenario_5, s3_all_good_expert_law_scenario_6, s3_all_good_expert_law_scenario_7, s3_all_good_expert_law_scenario_8, s3_all_good_expert_law_scenario_9, s3_all_good_expert_law_scenario_10
+    Yes: 4 (5.97%)
+    No: 63 (94.03%)
+
+  Overall Aggregated for: s3_all_good_expert_law_scenario_1, s3_all_good_expert_law_scenario_2, s3_all_good_expert_law_scenario_3, s3_all_good_expert_law_scenario_4, s3_all_good_expert_law_scenario_5, s3_all_good_expert_law_scenario_6, s3_all_good_expert_law_scenario_7, s3_all_good_expert_law_scenario_8, s3_all_good_expert_law_scenario_9, s3_all_good_expert_law_scenario_10
+    Yes: 4 (5.97%)
+    No: 63 (94.03%)
+
+  Aggregated for: s3_all_good_expert_ethics_scenario_1, s3_all_good_expert_ethics_scenario_2, s3_all_good_expert_ethics_scenario_3, s3_all_good_expert_ethics_scenario_4, s3_all_good_expert_ethics_scenario_5, s3_all_good_expert_ethics_scenario_6, s3_all_good_expert_ethics_scenario_7, s3_all_good_expert_ethics_scenario_8, s3_all_good_expert_ethics_scenario_9, s3_all_good_expert_ethics_scenario_10
+    Yes: 5 (7.35%)
+    No: 63 (92.65%)
+
+  Overall Aggregated for: s3_all_good_expert_ethics_scenario_1, s3_all_good_expert_ethics_scenario_2, s3_all_good_expert_ethics_scenario_3, s3_all_good_expert_ethics_scenario_4, s3_all_good_expert_ethics_scenario_5, s3_all_good_expert_ethics_scenario_6, s3_all_good_expert_ethics_scenario_7, s3_all_good_expert_ethics_scenario_8, s3_all_good_expert_ethics_scenario_9, s3_all_good_expert_ethics_scenario_10
+    Yes: 5 (7.35%)
+    No: 63 (92.65%)
+
+  Aggregated for: s3_all_good_expert_policy_scenario_1, s3_all_good_expert_policy_scenario_2, s3_all_good_expert_policy_scenario_3, s3_all_good_expert_policy_scenario_4, s3_all_good_expert_policy_scenario_5, s3_all_good_expert_policy_scenario_6, s3_all_good_expert_policy_scenario_7, s3_all_good_expert_policy_scenario_8, s3_all_good_expert_policy_scenario_9, s3_all_good_expert_policy_scenario_10
+    Yes: 3 (4.41%)
+    No: 65 (95.59%)
+
+  Overall Aggregated for: s3_all_good_expert_policy_scenario_1, s3_all_good_expert_policy_scenario_2, s3_all_good_expert_policy_scenario_3, s3_all_good_expert_policy_scenario_4, s3_all_good_expert_policy_scenario_5, s3_all_good_expert_policy_scenario_6, s3_all_good_expert_policy_scenario_7, s3_all_good_expert_policy_scenario_8, s3_all_good_expert_policy_scenario_9, s3_all_good_expert_policy_scenario_10
+    Yes: 3 (4.41%)
+    No: 65 (95.59%)
+
+  Aggregated for: s3_all_good_expert_cyber_scenario_1, s3_all_good_expert_cyber_scenario_2, s3_all_good_expert_cyber_scenario_3, s3_all_good_expert_cyber_scenario_4, s3_all_good_expert_cyber_scenario_5, s3_all_good_expert_cyber_scenario_6, s3_all_good_expert_cyber_scenario_7, s3_all_good_expert_cyber_scenario_8, s3_all_good_expert_cyber_scenario_9, s3_all_good_expert_cyber_scenario_10
+    Yes: 3 (4.41%)
+    No: 65 (95.59%)
+
+  Overall Aggregated for: s3_all_good_expert_cyber_scenario_1, s3_all_good_expert_cyber_scenario_2, s3_all_good_expert_cyber_scenario_3, s3_all_good_expert_cyber_scenario_4, s3_all_good_expert_cyber_scenario_5, s3_all_good_expert_cyber_scenario_6, s3_all_good_expert_cyber_scenario_7, s3_all_good_expert_cyber_scenario_8, s3_all_good_expert_cyber_scenario_9, s3_all_good_expert_cyber_scenario_10
+    Yes: 3 (4.41%)
+    No: 65 (95.59%)
+
+  Aggregated for: s3_all_good_user_scenario_1, s3_all_good_user_scenario_2, s3_all_good_user_scenario_3, s3_all_good_user_scenario_4, s3_all_good_user_scenario_5, s3_all_good_user_scenario_6, s3_all_good_user_scenario_7, s3_all_good_user_scenario_8, s3_all_good_user_scenario_9, s3_all_good_user_scenario_10
+    Yes: 7 (5.65%)
+    No: 117 (94.35%)
+
+  Overall Aggregated for: s3_all_good_user_scenario_1, s3_all_good_user_scenario_2, s3_all_good_user_scenario_3, s3_all_good_user_scenario_4, s3_all_good_user_scenario_5, s3_all_good_user_scenario_6, s3_all_good_user_scenario_7, s3_all_good_user_scenario_8, s3_all_good_user_scenario_9, s3_all_good_user_scenario_10
+    Yes: 152 (7.17%)
+    No: 1969 (92.83%)
+
+CONTROL scenarios:
+
+  Aggregated for: s3_all_good_expert_scenario_1, s3_all_good_expert_scenario_2, s3_all_good_expert_scenario_3, s3_all_good_expert_scenario_4, s3_all_good_expert_scenario_5, s3_all_good_expert_scenario_6, s3_all_good_expert_scenario_7, s3_all_good_expert_scenario_8, s3_all_good_expert_scenario_9, s3_all_good_expert_scenario_10
+    Yes: 26 (15.20%)
+    No: 145 (84.80%)
+
+TEST scenarios:
+
+  Aggregated for: s3_g8_scenario_1, s3_g8_scenario_2, s3_g8_scenario_3, s3_g8_scenario_4, s3_g8_scenario_5, s3_g8_scenario_6, s3_g8_scenario_7, s3_g8_scenario_8, s3_g8_scenario_9, s3_g8_scenario_10
+    Yes: 21 (19.09%)
+    No: 89 (80.91%)
+
+  Aggregated for: s3_g9_scenario_1, s3_g9_scenario_2, s3_g9_scenario_3, s3_g9_scenario_4, s3_g9_scenario_5, s3_g9_scenario_6, s3_g9_scenario_7, s3_g9_scenario_8, s3_g9_scenario_9, s3_g9_scenario_10
+    Yes: 62 (22.79%)
+    No: 210 (77.21%)
+
+
+=== Group S4 ===
+ALL_GOOD scenarios:
+
+  Aggregated for: s4_all_good_no_purpose_scenario_1, s4_all_good_no_purpose_scenario_2, s4_all_good_no_purpose_scenario_3, s4_all_good_no_purpose_scenario_4, s4_all_good_no_purpose_scenario_5
+    Yes: 69 (77.53%)
+    No: 20 (22.47%)
+
+  Overall Aggregated for: s4_all_good_no_purpose_scenario_1, s4_all_good_no_purpose_scenario_2, s4_all_good_no_purpose_scenario_3, s4_all_good_no_purpose_scenario_4, s4_all_good_no_purpose_scenario_5
+    Yes: 710 (73.73%)
+    No: 253 (26.27%)
+
+  Aggregated for: s4_all_good_purpose_proper_scenario_1, s4_all_good_purpose_proper_scenario_2, s4_all_good_purpose_proper_scenario_3, s4_all_good_purpose_proper_scenario_4, s4_all_good_purpose_proper_scenario_5
+    Yes: 69 (73.40%)
+    No: 25 (26.60%)
+
+  Overall Aggregated for: s4_all_good_purpose_proper_scenario_1, s4_all_good_purpose_proper_scenario_2, s4_all_good_purpose_proper_scenario_3, s4_all_good_purpose_proper_scenario_4, s4_all_good_purpose_proper_scenario_5
+    Yes: 767 (77.47%)
+    No: 223 (22.53%)
+
+  Aggregated for: s4_all_good_purpose_vague_scenario_1, s4_all_good_purpose_vague_scenario_2, s4_all_good_purpose_vague_scenario_3, s4_all_good_purpose_vague_scenario_4, s4_all_good_purpose_vague_scenario_5
+    Yes: 60 (69.77%)
+    No: 26 (30.23%)
+
+  Overall Aggregated for: s4_all_good_purpose_vague_scenario_1, s4_all_good_purpose_vague_scenario_2, s4_all_good_purpose_vague_scenario_3, s4_all_good_purpose_vague_scenario_4, s4_all_good_purpose_vague_scenario_5
+    Yes: 728 (71.44%)
+    No: 291 (28.56%)
+
+CONTROL scenarios:
+
+  Aggregated for: s4_all_good_no_purpose_scenario_1, s4_all_good_no_purpose_scenario_2, s4_all_good_no_purpose_scenario_3, s4_all_good_no_purpose_scenario_4, s4_all_good_no_purpose_scenario_5
+    Yes: 39 (73.58%)
+    No: 14 (26.42%)
+
+  Aggregated for: s4_all_good_purpose_proper_scenario_1, s4_all_good_purpose_proper_scenario_2, s4_all_good_purpose_proper_scenario_3, s4_all_good_purpose_proper_scenario_4, s4_all_good_purpose_proper_scenario_5
+    Yes: 41 (69.49%)
+    No: 18 (30.51%)
+
+  Aggregated for: s4_all_good_purpose_vague_scenario_1, s4_all_good_purpose_vague_scenario_2, s4_all_good_purpose_vague_scenario_3, s4_all_good_purpose_vague_scenario_4, s4_all_good_purpose_vague_scenario_5
+    Yes: 31 (64.58%)
+    No: 17 (35.42%)
+
+TEST scenarios:
+
+  Aggregated for: s4_proper_scenario_1, s4_proper_scenario_2, s4_proper_scenario_3, s4_proper_scenario_4, s4_proper_scenario_5
+    Yes: 53 (53.00%)
+    No: 47 (47.00%)
+
+  Aggregated for: s4_vague_scenario_1, s4_vague_scenario_2, s4_vague_scenario_3, s4_vague_scenario_4, s4_vague_scenario_5
+    Yes: 50 (47.17%)
+    No: 56 (52.83%)
+
+
+=== Group S5 ===
+ALL_GOOD scenarios:
+
+  Aggregated for: s5_all_good_scenario_1, s5_all_good_scenario_2, s5_all_good_scenario_3, s5_all_good_scenario_4, s5_all_good_scenario_5, s5_all_good_scenario_6, s5_all_good_scenario_7, s5_all_good_scenario_8, s5_all_good_scenario_9, s5_all_good_scenario_10
+    Yes: 14 (9.66%)
+    No: 131 (90.34%)
+
+  Overall Aggregated for: s5_all_good_scenario_1, s5_all_good_scenario_2, s5_all_good_scenario_3, s5_all_good_scenario_4, s5_all_good_scenario_5, s5_all_good_scenario_6, s5_all_good_scenario_7, s5_all_good_scenario_8, s5_all_good_scenario_9, s5_all_good_scenario_10
+    Yes: 165 (6.47%)
+    No: 2384 (93.53%)
+
+  Aggregated for: s5_all_good_law_scenario_1, s5_all_good_law_scenario_2, s5_all_good_law_scenario_3, s5_all_good_law_scenario_4, s5_all_good_law_scenario_5, s5_all_good_law_scenario_6, s5_all_good_law_scenario_7, s5_all_good_law_scenario_8, s5_all_good_law_scenario_9, s5_all_good_law_scenario_10
+    Yes: 4 (5.06%)
+    No: 75 (94.94%)
+
+  Overall Aggregated for: s5_all_good_law_scenario_1, s5_all_good_law_scenario_2, s5_all_good_law_scenario_3, s5_all_good_law_scenario_4, s5_all_good_law_scenario_5, s5_all_good_law_scenario_6, s5_all_good_law_scenario_7, s5_all_good_law_scenario_8, s5_all_good_law_scenario_9, s5_all_good_law_scenario_10
+    Yes: 4 (5.06%)
+    No: 75 (94.94%)
+
+  Aggregated for: s5_all_good_ethics_scenario_1, s5_all_good_ethics_scenario_2, s5_all_good_ethics_scenario_3, s5_all_good_ethics_scenario_4, s5_all_good_ethics_scenario_5, s5_all_good_ethics_scenario_6, s5_all_good_ethics_scenario_7, s5_all_good_ethics_scenario_8, s5_all_good_ethics_scenario_9, s5_all_good_ethics_scenario_10
+    Yes: 2 (2.27%)
+    No: 86 (97.73%)
+
+  Overall Aggregated for: s5_all_good_ethics_scenario_1, s5_all_good_ethics_scenario_2, s5_all_good_ethics_scenario_3, s5_all_good_ethics_scenario_4, s5_all_good_ethics_scenario_5, s5_all_good_ethics_scenario_6, s5_all_good_ethics_scenario_7, s5_all_good_ethics_scenario_8, s5_all_good_ethics_scenario_9, s5_all_good_ethics_scenario_10
+    Yes: 2 (2.27%)
+    No: 86 (97.73%)
+
+  Aggregated for: s5_all_good_policy_scenario_1, s5_all_good_policy_scenario_2, s5_all_good_policy_scenario_3, s5_all_good_policy_scenario_4, s5_all_good_policy_scenario_5, s5_all_good_policy_scenario_6, s5_all_good_policy_scenario_7, s5_all_good_policy_scenario_8, s5_all_good_policy_scenario_9, s5_all_good_policy_scenario_10
+    Yes: 2 (2.82%)
+    No: 69 (97.18%)
+
+  Overall Aggregated for: s5_all_good_policy_scenario_1, s5_all_good_policy_scenario_2, s5_all_good_policy_scenario_3, s5_all_good_policy_scenario_4, s5_all_good_policy_scenario_5, s5_all_good_policy_scenario_6, s5_all_good_policy_scenario_7, s5_all_good_policy_scenario_8, s5_all_good_policy_scenario_9, s5_all_good_policy_scenario_10
+    Yes: 2 (2.82%)
+    No: 69 (97.18%)
+
+  Aggregated for: s5_all_good_cyber_scenario_1, s5_all_good_cyber_scenario_2, s5_all_good_cyber_scenario_3, s5_all_good_cyber_scenario_4, s5_all_good_cyber_scenario_5, s5_all_good_cyber_scenario_6, s5_all_good_cyber_scenario_7, s5_all_good_cyber_scenario_8, s5_all_good_cyber_scenario_9, s5_all_good_cyber_scenario_10
+    Yes: 4 (5.41%)
+    No: 70 (94.59%)
+
+  Overall Aggregated for: s5_all_good_cyber_scenario_1, s5_all_good_cyber_scenario_2, s5_all_good_cyber_scenario_3, s5_all_good_cyber_scenario_4, s5_all_good_cyber_scenario_5, s5_all_good_cyber_scenario_6, s5_all_good_cyber_scenario_7, s5_all_good_cyber_scenario_8, s5_all_good_cyber_scenario_9, s5_all_good_cyber_scenario_10
+    Yes: 4 (5.41%)
+    No: 70 (94.59%)
+
+CONTROL scenarios:
+
+  Aggregated for: s5_all_good_scenario_1, s5_all_good_scenario_2, s5_all_good_scenario_3, s5_all_good_scenario_4, s5_all_good_scenario_5, s5_all_good_scenario_6, s5_all_good_scenario_7, s5_all_good_scenario_8, s5_all_good_scenario_9, s5_all_good_scenario_10
+    Yes: 16 (9.04%)
+    No: 161 (90.96%)
+
+TEST scenarios:
+
+  Aggregated for: s5_g11_scenario_1, s5_g11_scenario_2, s5_g11_scenario_3, s5_g11_scenario_4, s5_g11_scenario_5, s5_g11_scenario_6, s5_g11_scenario_7, s5_g11_scenario_8, s5_g11_scenario_9, s5_g11_scenario_10
+    Yes: 32 (28.57%)
+    No: 80 (71.43%)
+
+  Aggregated for: s5_g12_scenario_1, s5_g12_scenario_2, s5_g12_scenario_3, s5_g12_scenario_4, s5_g12_scenario_5, s5_g12_scenario_6, s5_g12_scenario_7, s5_g12_scenario_8, s5_g12_scenario_9, s5_g12_scenario_10
+    Yes: 20 (19.23%)
+    No: 84 (80.77%)
+
+  Aggregated for: s5_g13_scenario_1, s5_g13_scenario_2, s5_g13_scenario_3, s5_g13_scenario_4, s5_g13_scenario_5, s5_g13_scenario_6, s5_g13_scenario_7, s5_g13_scenario_8, s5_g13_scenario_9, s5_g13_scenario_10
+    Yes: 14 (13.73%)
+    No: 88 (86.27%)
+
+
+=== Group S6 ===
+ALL_GOOD scenarios:
+
+  Aggregated for: s6_all_good_scenario_1, s6_all_good_scenario_2, s6_all_good_scenario_3, s6_all_good_scenario_4, s6_all_good_scenario_5, s6_all_good_scenario_6, s6_all_good_scenario_7, s6_all_good_scenario_8, s6_all_good_scenario_9, s6_all_good_scenario_10
+    Yes: 123 (86.62%)
+    No: 19 (13.38%)
+
+  Overall Aggregated for: s6_all_good_scenario_1, s6_all_good_scenario_2, s6_all_good_scenario_3, s6_all_good_scenario_4, s6_all_good_scenario_5, s6_all_good_scenario_6, s6_all_good_scenario_7, s6_all_good_scenario_8, s6_all_good_scenario_9, s6_all_good_scenario_10
+    Yes: 2235 (86.86%)
+    No: 338 (13.14%)
+
+  Aggregated for: s6_all_good_law_scenario_1, s6_all_good_law_scenario_2, s6_all_good_law_scenario_3, s6_all_good_law_scenario_4, s6_all_good_law_scenario_5, s6_all_good_law_scenario_6, s6_all_good_law_scenario_7, s6_all_good_law_scenario_8, s6_all_good_law_scenario_9, s6_all_good_law_scenario_10
+    Yes: 58 (82.86%)
+    No: 12 (17.14%)
+
+  Overall Aggregated for: s6_all_good_law_scenario_1, s6_all_good_law_scenario_2, s6_all_good_law_scenario_3, s6_all_good_law_scenario_4, s6_all_good_law_scenario_5, s6_all_good_law_scenario_6, s6_all_good_law_scenario_7, s6_all_good_law_scenario_8, s6_all_good_law_scenario_9, s6_all_good_law_scenario_10
+    Yes: 58 (82.86%)
+    No: 12 (17.14%)
+
+  Aggregated for: s6_all_good_ethics_scenario_1, s6_all_good_ethics_scenario_2, s6_all_good_ethics_scenario_3, s6_all_good_ethics_scenario_4, s6_all_good_ethics_scenario_5, s6_all_good_ethics_scenario_6, s6_all_good_ethics_scenario_7, s6_all_good_ethics_scenario_8, s6_all_good_ethics_scenario_9, s6_all_good_ethics_scenario_10
+    Yes: 59 (81.94%)
+    No: 13 (18.06%)
+
+  Overall Aggregated for: s6_all_good_ethics_scenario_1, s6_all_good_ethics_scenario_2, s6_all_good_ethics_scenario_3, s6_all_good_ethics_scenario_4, s6_all_good_ethics_scenario_5, s6_all_good_ethics_scenario_6, s6_all_good_ethics_scenario_7, s6_all_good_ethics_scenario_8, s6_all_good_ethics_scenario_9, s6_all_good_ethics_scenario_10
+    Yes: 59 (81.94%)
+    No: 13 (18.06%)
+
+  Aggregated for: s6_all_good_policy_scenario_1, s6_all_good_policy_scenario_2, s6_all_good_policy_scenario_3, s6_all_good_policy_scenario_4, s6_all_good_policy_scenario_5, s6_all_good_policy_scenario_6, s6_all_good_policy_scenario_7, s6_all_good_policy_scenario_8, s6_all_good_policy_scenario_9, s6_all_good_policy_scenario_10
+    Yes: 54 (87.10%)
+    No: 8 (12.90%)
+
+  Overall Aggregated for: s6_all_good_policy_scenario_1, s6_all_good_policy_scenario_2, s6_all_good_policy_scenario_3, s6_all_good_policy_scenario_4, s6_all_good_policy_scenario_5, s6_all_good_policy_scenario_6, s6_all_good_policy_scenario_7, s6_all_good_policy_scenario_8, s6_all_good_policy_scenario_9, s6_all_good_policy_scenario_10
+    Yes: 54 (87.10%)
+    No: 8 (12.90%)
+
+  Aggregated for: s6_all_good_cyber_scenario_1, s6_all_good_cyber_scenario_2, s6_all_good_cyber_scenario_3, s6_all_good_cyber_scenario_4, s6_all_good_cyber_scenario_5, s6_all_good_cyber_scenario_6, s6_all_good_cyber_scenario_7, s6_all_good_cyber_scenario_8, s6_all_good_cyber_scenario_9, s6_all_good_cyber_scenario_10
+    Yes: 55 (91.67%)
+    No: 5 (8.33%)
+
+  Overall Aggregated for: s6_all_good_cyber_scenario_1, s6_all_good_cyber_scenario_2, s6_all_good_cyber_scenario_3, s6_all_good_cyber_scenario_4, s6_all_good_cyber_scenario_5, s6_all_good_cyber_scenario_6, s6_all_good_cyber_scenario_7, s6_all_good_cyber_scenario_8, s6_all_good_cyber_scenario_9, s6_all_good_cyber_scenario_10
+    Yes: 55 (91.67%)
+    No: 5 (8.33%)
+
+CONTROL scenarios:
+
+  Aggregated for: s6_all_good_scenario_1, s6_all_good_scenario_2, s6_all_good_scenario_3, s6_all_good_scenario_4, s6_all_good_scenario_5, s6_all_good_scenario_6, s6_all_good_scenario_7, s6_all_good_scenario_8, s6_all_good_scenario_9, s6_all_good_scenario_10
+    Yes: 142 (79.78%)
+    No: 36 (20.22%)
+
+TEST scenarios:
+
+  Aggregated for: s6_g11_scenario_1, s6_g11_scenario_2, s6_g11_scenario_3, s6_g11_scenario_4, s6_g11_scenario_5, s6_g11_scenario_6, s6_g11_scenario_7, s6_g11_scenario_8, s6_g11_scenario_9, s6_g11_scenario_10
+    Yes: 38 (46.34%)
+    No: 44 (53.66%)
+
+  Aggregated for: s6_g12_scenario_1, s6_g12_scenario_2, s6_g12_scenario_3, s6_g12_scenario_4, s6_g12_scenario_5, s6_g12_scenario_6, s6_g12_scenario_7, s6_g12_scenario_8, s6_g12_scenario_9, s6_g12_scenario_10
+    Yes: 67 (71.28%)
+    No: 27 (28.72%)
+
+  Aggregated for: s6_g13_scenario_1, s6_g13_scenario_2, s6_g13_scenario_3, s6_g13_scenario_4, s6_g13_scenario_5, s6_g13_scenario_6, s6_g13_scenario_7, s6_g13_scenario_8, s6_g13_scenario_9, s6_g13_scenario_10
+    Yes: 88 (78.57%)
+    No: 24 (21.43%)
+

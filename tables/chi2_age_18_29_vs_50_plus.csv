@@ -1,0 +1,239 @@
+Website category,Credential,age_18_29 Total #,age_18_29 Accept #,age_18_29 Accept %,age_50_plus Total #,age_50_plus Accept #,age_50_plus Accept %,Difference %,Chi2 Value,p-Value
+Pharmacy,Bank credentials,481,85,17.67%,264,42,15.91%,1.76%,0.37,0.5406
+Pharmacy,Birth certificate,481,22,4.57%,264,1,0.38%,4.20%,10.03,0.0015
+Pharmacy,Diploma,481,3,0.62%,264,3,1.14%,-0.51%,0.56,0.6714
+Pharmacy,Disability status,481,160,33.26%,264,50,18.94%,14.32%,17.28,0.0
+Pharmacy,Driver's license,481,14,2.91%,264,3,1.14%,1.77%,2.41,0.1208
+Pharmacy,Employment history,481,5,1.04%,264,0,0.00%,1.04%,2.76,0.1672
+Pharmacy,Health insurance,481,381,79.21%,264,167,63.26%,15.95%,22.3,0.0
+Pharmacy,Marriage certificate,481,5,1.04%,264,0,0.00%,1.04%,2.76,0.1672
+Pharmacy,Medical records,481,276,57.38%,264,58,21.97%,35.41%,86.41,0.0
+Pharmacy,Official Identity Document,481,258,53.64%,264,119,45.08%,8.56%,5.0,0.0254
+Pharmacy,Prescriptions,481,420,87.32%,264,196,74.24%,13.08%,20.35,0.0
+Pharmacy,Professional licenses,481,8,1.66%,264,3,1.14%,0.53%,0.33,0.7548
+Pharmacy,University transcript,481,2,0.42%,264,0,0.00%,0.42%,1.1,0.5418
+Pharmacy,Visa,481,5,1.04%,264,6,2.27%,-1.23%,1.78,0.2103
+Online Doctors,Bank credentials,468,38,8.12%,258,15,5.81%,2.31%,1.31,0.253
+Online Doctors,Birth certificate,468,55,11.75%,258,12,4.65%,7.10%,10.01,0.0016
+Online Doctors,Diploma,468,10,2.14%,258,0,0.00%,2.14%,5.59,0.0171
+Online Doctors,Disability status,468,267,57.05%,258,102,39.53%,17.52%,20.42,0.0
+Online Doctors,Driver's license,468,12,2.56%,258,1,0.39%,2.18%,4.48,0.0394
+Online Doctors,Employment history,468,16,3.42%,258,5,1.94%,1.48%,1.3,0.2545
+Online Doctors,Health insurance,468,414,88.46%,258,204,79.07%,9.39%,11.58,0.0007
+Online Doctors,Marriage certificate,468,6,1.28%,258,1,0.39%,0.89%,1.39,0.4312
+Online Doctors,Medical records,468,430,91.88%,258,200,77.52%,14.36%,29.89,0.0
+Online Doctors,Official Identity Document,468,302,64.53%,258,141,54.65%,9.88%,6.82,0.009
+Online Doctors,Prescriptions,468,395,84.40%,258,183,70.93%,13.47%,18.6,0.0
+Online Doctors,Professional licenses,468,9,1.92%,258,1,0.39%,1.54%,2.89,0.1068
+Online Doctors,University transcript,468,6,1.28%,258,0,0.00%,1.28%,3.34,0.0944
+Online Doctors,Visa,468,11,2.35%,258,4,1.55%,0.80%,0.53,0.4683
+Government,Bank credentials,497,149,29.98%,270,50,18.52%,11.46%,11.96,0.0005
+Government,Birth certificate,497,284,57.14%,270,102,37.78%,19.37%,26.24,0.0
+Government,Diploma,497,112,22.54%,270,27,10.00%,12.54%,18.53,0.0
+Government,Disability status,497,170,34.21%,270,47,17.41%,16.80%,24.33,0.0
+Government,Driver's license,497,226,45.47%,270,91,33.70%,11.77%,9.99,0.0016
+Government,Employment history,497,114,22.94%,270,25,9.26%,13.68%,22.06,0.0
+Government,Health insurance,497,210,42.25%,270,66,24.44%,17.81%,24.09,0.0
+Government,Marriage certificate,497,223,44.87%,270,77,28.52%,16.35%,19.64,0.0
+Government,Medical records,497,85,17.10%,270,9,3.33%,13.77%,30.85,0.0
+Government,Official Identity Document,497,482,96.98%,270,256,94.81%,2.17%,2.26,0.1329
+Government,Prescriptions,497,54,10.87%,270,8,2.96%,7.90%,14.7,0.0001
+Government,Professional licenses,497,119,23.94%,270,28,10.37%,13.57%,20.81,0.0
+Government,University transcript,497,67,13.48%,270,12,4.44%,9.04%,15.46,0.0001
+Government,Visa,497,263,52.92%,270,98,36.30%,16.62%,19.4,0.0
+International Ground Travel,Bank credentials,497,133,26.76%,261,60,22.99%,3.77%,1.28,0.2573
+International Ground Travel,Birth certificate,497,8,1.61%,261,0,0.00%,1.61%,4.25,0.0562
+International Ground Travel,Diploma,497,4,0.80%,261,1,0.38%,0.42%,0.46,0.6647
+International Ground Travel,Disability status,497,65,13.08%,261,16,6.13%,6.95%,8.66,0.0033
+International Ground Travel,Driver's license,497,56,11.27%,261,19,7.28%,3.99%,3.05,0.0806
+International Ground Travel,Employment history,497,2,0.40%,261,2,0.77%,-0.36%,0.43,0.611
+International Ground Travel,Health insurance,497,22,4.43%,261,7,2.68%,1.74%,1.42,0.2341
+International Ground Travel,Marriage certificate,497,3,0.60%,261,0,0.00%,0.60%,1.58,0.555
+International Ground Travel,Medical records,497,6,1.21%,261,0,0.00%,1.21%,3.18,0.0989
+International Ground Travel,Official Identity Document,497,289,58.15%,261,141,54.02%,4.13%,1.19,0.276
+International Ground Travel,Prescriptions,497,4,0.80%,261,1,0.38%,0.42%,0.46,0.6647
+International Ground Travel,Professional licenses,497,7,1.41%,261,0,0.00%,1.41%,3.71,0.1024
+International Ground Travel,University transcript,497,8,1.61%,261,4,1.53%,0.08%,0.01,1.0
+International Ground Travel,Visa,497,85,17.10%,261,28,10.73%,6.37%,5.48,0.0192
+Banks,Bank credentials,468,407,86.97%,260,195,75.00%,11.97%,16.72,0.0
+Banks,Birth certificate,468,45,9.62%,260,26,10.00%,-0.38%,0.03,0.8669
+Banks,Diploma,468,17,3.63%,260,2,0.77%,2.86%,5.39,0.0202
+Banks,Disability status,468,24,5.13%,260,6,2.31%,2.82%,3.37,0.0666
+Banks,Driver's license,468,35,7.48%,260,16,6.15%,1.32%,0.45,0.5022
+Banks,Employment history,468,64,13.68%,260,11,4.23%,9.44%,16.13,0.0001
+Banks,Health insurance,468,41,8.76%,260,22,8.46%,0.30%,0.02,0.8906
+Banks,Marriage certificate,468,32,6.84%,260,10,3.85%,2.99%,2.75,0.0972
+Banks,Medical records,468,11,2.35%,260,2,0.77%,1.58%,2.38,0.1517
+Banks,Official Identity Document,468,447,95.51%,260,250,96.15%,-0.64%,0.17,0.6815
+Banks,Prescriptions,468,6,1.28%,260,0,0.00%,1.28%,3.36,0.0938
+Banks,Professional licenses,468,28,5.98%,260,9,3.46%,2.52%,2.2,0.1378
+Banks,University transcript,468,11,2.35%,260,1,0.38%,1.97%,3.98,0.0649
+Banks,Visa,468,61,13.03%,260,26,10.00%,3.03%,1.46,0.2266
+Real Estate,Bank credentials,472,198,41.95%,252,74,29.37%,12.58%,11.09,0.0009
+Real Estate,Birth certificate,472,24,5.08%,252,11,4.37%,0.72%,0.18,0.6672
+Real Estate,Diploma,472,21,4.45%,252,2,0.79%,3.66%,7.14,0.0076
+Real Estate,Disability status,472,28,5.93%,252,7,2.78%,3.15%,3.55,0.0594
+Real Estate,Driver's license,472,21,4.45%,252,6,2.38%,2.07%,1.96,0.1618
+Real Estate,Employment history,472,95,20.13%,252,15,5.95%,14.17%,25.62,0.0
+Real Estate,Health insurance,472,15,3.18%,252,2,0.79%,2.38%,4.07,0.0436
+Real Estate,Marriage certificate,472,45,9.53%,252,8,3.17%,6.36%,9.79,0.0018
+Real Estate,Medical records,472,3,0.64%,252,0,0.00%,0.64%,1.61,0.5553
+Real Estate,Official Identity Document,472,335,70.97%,252,126,50.00%,20.97%,31.25,0.0
+Real Estate,Prescriptions,472,1,0.21%,252,0,0.00%,0.21%,0.53,1.0
+Real Estate,Professional licenses,472,35,7.42%,252,8,3.17%,4.24%,5.29,0.0215
+Real Estate,University transcript,472,11,2.33%,252,1,0.40%,1.93%,3.77,0.0661
+Real Estate,Visa,472,50,10.59%,252,22,8.73%,1.86%,0.64,0.4249
+University,Bank credentials,492,38,7.72%,269,14,5.20%,2.52%,1.73,0.188
+University,Birth certificate,492,44,8.94%,269,25,9.29%,-0.35%,0.03,0.8721
+University,Diploma,492,363,73.78%,269,187,69.52%,4.26%,1.58,0.2091
+University,Disability status,492,82,16.67%,269,18,6.69%,9.98%,15.16,0.0001
+University,Driver's license,492,25,5.08%,269,3,1.12%,3.97%,7.72,0.0055
+University,Employment history,492,142,28.86%,269,50,18.59%,10.27%,9.73,0.0018
+University,Health insurance,492,44,8.94%,269,13,4.83%,4.11%,4.24,0.0395
+University,Marriage certificate,492,8,1.63%,269,1,0.37%,1.25%,2.34,0.1705
+University,Medical records,492,16,3.25%,269,4,1.49%,1.77%,2.12,0.1457
+University,Official Identity Document,492,384,78.05%,269,203,75.46%,2.58%,0.66,0.4171
+University,Prescriptions,492,6,1.22%,269,3,1.12%,0.10%,0.02,1.0
+University,Professional licenses,492,124,25.20%,269,66,24.54%,0.67%,0.04,0.8387
+University,University transcript,492,396,80.49%,269,189,70.26%,10.23%,10.23,0.0014
+University,Visa,492,125,25.41%,269,48,17.84%,7.56%,5.66,0.0173
+News,Bank credentials,492,12,2.44%,267,5,1.87%,0.57%,0.25,0.6146
+News,Birth certificate,492,17,3.46%,267,0,0.00%,3.46%,9.44,0.0021
+News,Diploma,492,12,2.44%,267,1,0.37%,2.06%,4.38,0.0401
+News,Disability status,492,5,1.02%,267,0,0.00%,1.02%,2.73,0.1681
+News,Driver's license,492,13,2.64%,267,2,0.75%,1.89%,3.2,0.0735
+News,Employment history,492,12,2.44%,267,1,0.37%,2.06%,4.38,0.0401
+News,Health insurance,492,3,0.61%,267,3,1.12%,-0.51%,0.58,0.4296
+News,Marriage certificate,492,2,0.41%,267,0,0.00%,0.41%,1.09,0.5433
+News,Medical records,492,4,0.81%,267,0,0.00%,0.81%,2.18,0.3034
+News,Official Identity Document,492,109,22.15%,267,51,19.10%,3.05%,0.97,0.3247
+News,Prescriptions,492,2,0.41%,267,1,0.37%,0.03%,0.0,1.0
+News,Professional licenses,492,18,3.66%,267,1,0.37%,3.28%,7.65,0.0057
+News,University transcript,492,9,1.83%,267,0,0.00%,1.83%,4.94,0.0308
+News,Visa,492,4,0.81%,267,2,0.75%,0.06%,0.01,1.0
+Car Rentals,Bank credentials,509,184,36.15%,279,73,26.16%,9.98%,8.17,0.0042
+Car Rentals,Birth certificate,509,13,2.55%,279,3,1.08%,1.48%,1.98,0.1593
+Car Rentals,Diploma,509,4,0.79%,279,1,0.36%,0.43%,0.52,0.6611
+Car Rentals,Disability status,509,77,15.13%,279,23,8.24%,6.88%,7.71,0.0055
+Car Rentals,Driver's license,509,460,90.37%,279,247,88.53%,1.84%,0.66,0.4153
+Car Rentals,Employment history,509,6,1.18%,279,1,0.36%,0.82%,1.38,0.4314
+Car Rentals,Health insurance,509,53,10.41%,279,15,5.38%,5.04%,5.8,0.0161
+Car Rentals,Marriage certificate,509,4,0.79%,279,1,0.36%,0.43%,0.52,0.6611
+Car Rentals,Medical records,509,17,3.34%,279,2,0.72%,2.62%,5.27,0.0217
+Car Rentals,Official Identity Document,509,390,76.62%,279,187,67.03%,9.60%,8.46,0.0036
+Car Rentals,Prescriptions,509,7,1.38%,279,0,0.00%,1.38%,3.87,0.0556
+Car Rentals,Professional licenses,509,19,3.73%,279,3,1.08%,2.66%,4.69,0.0303
+Car Rentals,University transcript,509,4,0.79%,279,1,0.36%,0.43%,0.52,0.6611
+Car Rentals,Visa,509,73,14.34%,279,39,13.98%,0.36%,0.02,0.8889
+Video Games,Bank credentials,473,179,37.84%,256,66,25.78%,12.06%,10.83,0.001
+Video Games,Birth certificate,473,13,2.75%,256,8,3.12%,-0.38%,0.08,0.7717
+Video Games,Diploma,473,3,0.63%,256,0,0.00%,0.63%,1.63,0.5556
+Video Games,Disability status,473,2,0.42%,256,0,0.00%,0.42%,1.09,0.5437
+Video Games,Driver's license,473,14,2.96%,256,3,1.17%,1.79%,2.33,0.1268
+Video Games,Employment history,473,2,0.42%,256,1,0.39%,0.03%,0.0,1.0
+Video Games,Health insurance,473,2,0.42%,256,1,0.39%,0.03%,0.0,1.0
+Video Games,Marriage certificate,473,1,0.21%,256,0,0.00%,0.21%,0.54,1.0
+Video Games,Medical records,473,2,0.42%,256,0,0.00%,0.42%,1.09,0.5437
+Video Games,Official Identity Document,473,166,35.10%,256,91,35.55%,-0.45%,0.01,0.903
+Video Games,Prescriptions,473,1,0.21%,256,0,0.00%,0.21%,0.54,1.0
+Video Games,Professional licenses,473,3,0.63%,256,0,0.00%,0.63%,1.63,0.5556
+Video Games,University transcript,473,3,0.63%,256,0,0.00%,0.63%,1.63,0.5556
+Video Games,Visa,473,6,1.27%,256,6,2.34%,-1.08%,1.19,0.3608
+Social Media,Bank credentials,465,13,2.80%,254,6,2.36%,0.43%,0.12,0.729
+Social Media,Birth certificate,465,15,3.23%,254,3,1.18%,2.04%,2.81,0.0935
+Social Media,Diploma,465,8,1.72%,254,3,1.18%,0.54%,0.32,0.7549
+Social Media,Disability status,465,3,0.65%,254,1,0.39%,0.25%,0.19,1.0
+Social Media,Driver's license,465,15,3.23%,254,7,2.76%,0.47%,0.12,0.7266
+Social Media,Employment history,465,5,1.08%,254,1,0.39%,0.68%,0.92,0.6712
+Social Media,Health insurance,465,4,0.86%,254,2,0.79%,0.07%,0.01,1.0
+Social Media,Marriage certificate,465,2,0.43%,254,1,0.39%,0.04%,0.01,1.0
+Social Media,Medical records,465,4,0.86%,254,1,0.39%,0.47%,0.52,0.6612
+Social Media,Official Identity Document,465,186,40.00%,254,83,32.68%,7.32%,3.76,0.0524
+Social Media,Prescriptions,465,2,0.43%,254,1,0.39%,0.04%,0.01,1.0
+Social Media,Professional licenses,465,8,1.72%,254,4,1.57%,0.15%,0.02,1.0
+Social Media,University transcript,465,2,0.43%,254,2,0.79%,-0.36%,0.38,0.617
+Social Media,Visa,465,3,0.65%,254,1,0.39%,0.25%,0.19,1.0
+Encyclopedia,Bank credentials,482,9,1.87%,260,5,1.92%,-0.06%,0.0,1.0
+Encyclopedia,Birth certificate,482,7,1.45%,260,2,0.77%,0.68%,0.66,0.5061
+Encyclopedia,Diploma,482,64,13.28%,260,23,8.85%,4.43%,3.21,0.0734
+Encyclopedia,Disability status,482,6,1.24%,260,0,0.00%,1.24%,3.26,0.0963
+Encyclopedia,Driver's license,482,7,1.45%,260,2,0.77%,0.68%,0.66,0.5061
+Encyclopedia,Employment history,482,25,5.19%,260,5,1.92%,3.26%,4.64,0.0313
+Encyclopedia,Health insurance,482,5,1.04%,260,2,0.77%,0.27%,0.13,1.0
+Encyclopedia,Marriage certificate,482,6,1.24%,260,0,0.00%,1.24%,3.26,0.0963
+Encyclopedia,Medical records,482,6,1.24%,260,0,0.00%,1.24%,3.26,0.0963
+Encyclopedia,Official Identity Document,482,65,13.49%,260,28,10.77%,2.72%,1.14,0.2864
+Encyclopedia,Prescriptions,482,4,0.83%,260,1,0.38%,0.45%,0.5,0.6623
+Encyclopedia,Professional licenses,482,41,8.51%,260,11,4.23%,4.28%,4.74,0.0295
+Encyclopedia,University transcript,482,56,11.62%,260,12,4.62%,7.00%,9.95,0.0016
+Encyclopedia,Visa,482,6,1.24%,260,3,1.15%,0.09%,0.01,1.0
+Search Engine,Bank credentials,480,2,0.42%,264,1,0.38%,0.04%,0.01,1.0
+Search Engine,Birth certificate,480,8,1.67%,264,2,0.76%,0.91%,1.06,0.5076
+Search Engine,Diploma,480,5,1.04%,264,2,0.76%,0.28%,0.15,1.0
+Search Engine,Disability status,480,2,0.42%,264,0,0.00%,0.42%,1.1,0.5415
+Search Engine,Driver's license,480,10,2.08%,264,0,0.00%,2.08%,5.57,0.0171
+Search Engine,Employment history,480,10,2.08%,264,2,0.76%,1.33%,1.89,0.23
+Search Engine,Health insurance,480,4,0.83%,264,1,0.38%,0.45%,0.53,0.6607
+Search Engine,Marriage certificate,480,3,0.62%,264,0,0.00%,0.62%,1.66,0.556
+Search Engine,Medical records,480,3,0.62%,264,0,0.00%,0.62%,1.66,0.556
+Search Engine,Official Identity Document,480,54,11.25%,264,22,8.33%,2.92%,1.58,0.2088
+Search Engine,Prescriptions,480,2,0.42%,264,0,0.00%,0.42%,1.1,0.5415
+Search Engine,Professional licenses,480,8,1.67%,264,3,1.14%,0.53%,0.33,0.7548
+Search Engine,University transcript,480,6,1.25%,264,2,0.76%,0.49%,0.39,0.7188
+Search Engine,Visa,480,5,1.04%,264,2,0.76%,0.28%,0.15,1.0
+Payment Services,Bank credentials,475,407,85.68%,253,171,67.59%,18.10%,33.04,0.0
+Payment Services,Birth certificate,475,22,4.63%,253,8,3.16%,1.47%,0.9,0.3422
+Payment Services,Diploma,475,6,1.26%,253,1,0.40%,0.87%,1.31,0.4315
+Payment Services,Disability status,475,12,2.53%,253,0,0.00%,2.53%,6.5,0.0107
+Payment Services,Driver's license,475,32,6.74%,253,10,3.95%,2.78%,2.35,0.125
+Payment Services,Employment history,475,18,3.79%,253,1,0.40%,3.39%,7.48,0.0062
+Payment Services,Health insurance,475,22,4.63%,253,10,3.95%,0.68%,0.18,0.6704
+Payment Services,Marriage certificate,475,9,1.89%,253,3,1.19%,0.71%,0.51,0.5574
+Payment Services,Medical records,475,5,1.05%,253,0,0.00%,1.05%,2.68,0.1694
+Payment Services,Official Identity Document,475,419,88.21%,253,227,89.72%,-1.51%,0.38,0.5387
+Payment Services,Prescriptions,475,5,1.05%,253,0,0.00%,1.05%,2.68,0.1694
+Payment Services,Professional licenses,475,10,2.11%,253,4,1.58%,0.52%,0.24,0.7804
+Payment Services,University transcript,475,7,1.47%,253,0,0.00%,1.47%,3.76,0.1027
+Payment Services,Visa,475,38,8.00%,253,13,5.14%,2.86%,2.08,0.1497
+Job Platforms,Bank credentials,547,24,4.39%,308,8,2.60%,1.79%,1.75,0.1855
+Job Platforms,Birth certificate,547,22,4.02%,308,18,5.84%,-1.82%,1.47,0.2258
+Job Platforms,Diploma,547,422,77.15%,308,200,64.94%,12.21%,14.83,0.0001
+Job Platforms,Disability status,547,116,21.21%,308,37,12.01%,9.19%,11.34,0.0008
+Job Platforms,Driver's license,547,139,25.41%,308,54,17.53%,7.88%,7.0,0.0082
+Job Platforms,Employment history,547,490,89.58%,308,235,76.30%,13.28%,26.96,0.0
+Job Platforms,Health insurance,547,42,7.68%,308,9,2.92%,4.76%,7.95,0.0048
+Job Platforms,Marriage certificate,547,10,1.83%,308,3,0.97%,0.85%,0.96,0.3965
+Job Platforms,Medical records,547,30,5.48%,308,3,0.97%,4.51%,10.8,0.001
+Job Platforms,Official Identity Document,547,328,59.96%,308,156,50.65%,9.31%,6.96,0.0083
+Job Platforms,Prescriptions,547,9,1.65%,308,1,0.32%,1.32%,2.97,0.1048
+Job Platforms,Professional licenses,547,408,74.59%,308,204,66.23%,8.35%,6.76,0.0093
+Job Platforms,University transcript,547,249,45.52%,308,93,30.19%,15.33%,19.29,0.0
+Job Platforms,Visa,547,109,19.93%,308,51,16.56%,3.37%,1.47,0.2254
+Air Travel,Bank credentials,571,211,36.95%,312,94,30.13%,6.82%,4.16,0.0415
+Air Travel,Birth certificate,571,20,3.50%,312,6,1.92%,1.58%,1.76,0.1844
+Air Travel,Diploma,571,5,0.88%,312,1,0.32%,0.56%,0.92,0.6714
+Air Travel,Disability status,571,146,25.57%,312,33,10.58%,14.99%,28.06,0.0
+Air Travel,Driver's license,571,38,6.65%,312,12,3.85%,2.81%,2.98,0.0843
+Air Travel,Employment history,571,4,0.70%,312,1,0.32%,0.38%,0.52,0.6614
+Air Travel,Health insurance,571,53,9.28%,312,22,7.05%,2.23%,1.29,0.2557
+Air Travel,Marriage certificate,571,6,1.05%,312,1,0.32%,0.73%,1.37,0.4316
+Air Travel,Medical records,571,29,5.08%,312,2,0.64%,4.44%,11.73,0.0006
+Air Travel,Official Identity Document,571,437,76.53%,312,217,69.55%,6.98%,5.12,0.0237
+Air Travel,Prescriptions,571,18,3.15%,312,2,0.64%,2.51%,5.75,0.0165
+Air Travel,Professional licenses,571,5,0.88%,312,4,1.28%,-0.41%,0.33,0.7277
+Air Travel,University transcript,571,5,0.88%,312,0,0.00%,0.88%,2.75,0.1678
+Air Travel,Visa,571,284,49.74%,312,113,36.22%,13.52%,14.9,0.0001
+E-Commerce,Bank credentials,551,219,39.75%,313,87,27.80%,11.95%,12.46,0.0004
+E-Commerce,Birth certificate,551,9,1.63%,313,1,0.32%,1.31%,3.01,0.104
+E-Commerce,Diploma,551,8,1.45%,313,1,0.32%,1.13%,2.48,0.1675
+E-Commerce,Disability status,551,9,1.63%,313,3,0.96%,0.67%,0.66,0.5519
+E-Commerce,Driver's license,551,11,2.00%,313,3,0.96%,1.04%,1.35,0.2455
+E-Commerce,Employment history,551,8,1.45%,313,2,0.64%,0.81%,1.15,0.3433
+E-Commerce,Health insurance,551,5,0.91%,313,3,0.96%,-0.05%,0.01,1.0
+E-Commerce,Marriage certificate,551,2,0.36%,313,0,0.00%,0.36%,1.14,0.5374
+E-Commerce,Medical records,551,2,0.36%,313,0,0.00%,0.36%,1.14,0.5374
+E-Commerce,Official Identity Document,551,108,19.60%,313,62,19.81%,-0.21%,0.01,0.9412
+E-Commerce,Prescriptions,551,4,0.73%,313,0,0.00%,0.73%,2.28,0.3027
+E-Commerce,Professional licenses,551,11,2.00%,313,2,0.64%,1.36%,2.48,0.1501
+E-Commerce,University transcript,551,6,1.09%,313,1,0.32%,0.77%,1.47,0.4321
+E-Commerce,Visa,551,6,1.09%,313,7,2.24%,-1.15%,1.77,0.2443

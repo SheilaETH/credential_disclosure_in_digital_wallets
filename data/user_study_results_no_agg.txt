@@ -1,0 +1,2431 @@
+Results for equivalent scenarios
+
+Group S1_1
+All Good Scenario:
+  Scenario: s1_all_good_scenario_1
+  Yes: 25 (92.59%)
+  No: 2 (7.41%)
+  Total: 27
+  Scenario Overall: s1_all_good_scenario_1
+  Yes: 238 (88.48%)
+  No: 31 (11.52%)
+  Total: 269
+Control Scenario: s1_all_good_scenario_1
+  Yes: 11 (84.62%)
+  No: 2 (15.38%)
+  Total: 13
+Test Scenario: s1_g3_scenario_1
+  Yes: 47 (87.04%)
+  No: 7 (12.96%)
+  Total: 54
+Test Scenario: s1_g4_scenario_1
+  Yes: 19 (95.00%)
+  No: 1 (5.00%)
+  Total: 20
+
+Group S1_2
+All Good Scenario:
+  Scenario: s1_all_good_scenario_2
+  Yes: 10 (52.63%)
+  No: 9 (47.37%)
+  Total: 19
+  Scenario Overall: s1_all_good_scenario_2
+  Yes: 136 (54.18%)
+  No: 115 (45.82%)
+  Total: 251
+Control Scenario: s1_all_good_scenario_2
+  Yes: 5 (38.46%)
+  No: 8 (61.54%)
+  Total: 13
+Test Scenario: s1_g3_scenario_2
+  Yes: 16 (29.63%)
+  No: 38 (70.37%)
+  Total: 54
+Test Scenario: s1_g4_scenario_2
+  Yes: 8 (61.54%)
+  No: 5 (38.46%)
+  Total: 13
+
+Group S1_3
+All Good Scenario:
+  Scenario: s1_all_good_scenario_3
+  Yes: 20 (90.91%)
+  No: 2 (9.09%)
+  Total: 22
+  Scenario Overall: s1_all_good_scenario_3
+  Yes: 212 (84.80%)
+  No: 38 (15.20%)
+  Total: 250
+Control Scenario: s1_all_good_scenario_3
+  Yes: 9 (52.94%)
+  No: 8 (47.06%)
+  Total: 17
+Test Scenario: s1_g3_scenario_3
+  Yes: 37 (72.55%)
+  No: 14 (27.45%)
+  Total: 51
+Test Scenario: s1_g4_scenario_3
+  Yes: 8 (88.89%)
+  No: 1 (11.11%)
+  Total: 9
+
+Group S1_4
+All Good Scenario:
+  Scenario: s1_all_good_scenario_4
+  Yes: 12 (63.16%)
+  No: 7 (36.84%)
+  Total: 19
+  Scenario Overall: s1_all_good_scenario_4
+  Yes: 109 (45.61%)
+  No: 130 (54.39%)
+  Total: 239
+Control Scenario: s1_all_good_scenario_4
+  Yes: 5 (41.67%)
+  No: 7 (58.33%)
+  Total: 12
+Test Scenario: s1_g3_scenario_4
+  Yes: 16 (30.77%)
+  No: 36 (69.23%)
+  Total: 52
+Test Scenario: s1_g4_scenario_4
+  Yes: 4 (36.36%)
+  No: 7 (63.64%)
+  Total: 11
+
+Group S1_5
+All Good Scenario:
+  Scenario: s1_all_good_scenario_5
+  Yes: 6 (25.00%)
+  No: 18 (75.00%)
+  Total: 24
+  Scenario Overall: s1_all_good_scenario_5
+  Yes: 107 (44.03%)
+  No: 136 (55.97%)
+  Total: 243
+Control Scenario: s1_all_good_scenario_5
+  Yes: 2 (11.11%)
+  No: 16 (88.89%)
+  Total: 18
+Test Scenario: s1_g3_scenario_5
+  Yes: 16 (36.36%)
+  No: 28 (63.64%)
+  Total: 44
+Test Scenario: s1_g4_scenario_5
+  Yes: 7 (46.67%)
+  No: 8 (53.33%)
+  Total: 15
+
+Group S1_6
+All Good Scenario:
+  Scenario: s1_all_good_scenario_6
+  Yes: 13 (65.00%)
+  No: 7 (35.00%)
+  Total: 20
+  Scenario Overall: s1_all_good_scenario_6
+  Yes: 184 (78.97%)
+  No: 49 (21.03%)
+  Total: 233
+Control Scenario: s1_all_good_scenario_6
+  Yes: 10 (90.91%)
+  No: 1 (9.09%)
+  Total: 11
+Test Scenario: s1_g3_scenario_6
+  Yes: 21 (56.76%)
+  No: 16 (43.24%)
+  Total: 37
+Test Scenario: s1_g4_scenario_6
+  Yes: 7 (87.50%)
+  No: 1 (12.50%)
+  Total: 8
+
+Group S1_7
+All Good Scenario:
+  Scenario: s1_all_good_scenario_7
+  Yes: 19 (73.08%)
+  No: 7 (26.92%)
+  Total: 26
+  Scenario Overall: s1_all_good_scenario_7
+  Yes: 158 (64.75%)
+  No: 86 (35.25%)
+  Total: 244
+Control Scenario: s1_all_good_scenario_7
+  Yes: 10 (47.62%)
+  No: 11 (52.38%)
+  Total: 21
+Test Scenario: s1_g3_scenario_7
+  Yes: 20 (37.74%)
+  No: 33 (62.26%)
+  Total: 53
+Test Scenario: s1_g4_scenario_7
+  Yes: 7 (70.00%)
+  No: 3 (30.00%)
+  Total: 10
+
+Group S1_8
+All Good Scenario:
+  Scenario: s1_all_good_scenario_8
+  Yes: 26 (100.00%)
+  No: 0 (0.00%)
+  Total: 26
+  Scenario Overall: s1_all_good_scenario_8
+  Yes: 239 (94.47%)
+  No: 14 (5.53%)
+  Total: 253
+Control Scenario: s1_all_good_scenario_8
+  Yes: 15 (100.00%)
+  No: 0 (0.00%)
+  Total: 15
+Test Scenario: s1_g3_scenario_8
+  Yes: 45 (88.24%)
+  No: 6 (11.76%)
+  Total: 51
+Test Scenario: s1_g4_scenario_8
+  Yes: 10 (100.00%)
+  No: 0 (0.00%)
+  Total: 10
+
+Group S1_9
+All Good Scenario:
+  Scenario: s1_all_good_scenario_9
+  Yes: 29 (100.00%)
+  No: 0 (0.00%)
+  Total: 29
+  Scenario Overall: s1_all_good_scenario_9
+  Yes: 237 (96.34%)
+  No: 9 (3.66%)
+  Total: 246
+Control Scenario: s1_all_good_scenario_9
+  Yes: 16 (100.00%)
+  No: 0 (0.00%)
+  Total: 16
+Test Scenario: s1_g3_scenario_9
+  Yes: 40 (80.00%)
+  No: 10 (20.00%)
+  Total: 50
+Test Scenario: s1_g4_scenario_9
+  Yes: 14 (100.00%)
+  No: 0 (0.00%)
+  Total: 14
+
+Group S1_10
+All Good Scenario:
+  Scenario: s1_all_good_scenario_10
+  Yes: 16 (80.00%)
+  No: 4 (20.00%)
+  Total: 20
+  Scenario Overall: s1_all_good_scenario_10
+  Yes: 206 (86.55%)
+  No: 32 (13.45%)
+  Total: 238
+Control Scenario: s1_all_good_scenario_10
+  Yes: 8 (88.89%)
+  No: 1 (11.11%)
+  Total: 9
+Test Scenario: s1_g3_scenario_10
+  Yes: 39 (78.00%)
+  No: 11 (22.00%)
+  Total: 50
+Test Scenario: s1_g4_scenario_10
+  Yes: 5 (83.33%)
+  No: 1 (16.67%)
+  Total: 6
+
+Group S2_1
+All Good Scenario:
+  Scenario: s2_all_good_scenario_1
+  Yes: 3 (10.34%)
+  No: 26 (89.66%)
+  Total: 29
+  Scenario Overall: s2_all_good_scenario_1
+  Yes: 6 (2.08%)
+  No: 283 (97.92%)
+  Total: 289
+Control Scenario: s2_all_good_scenario_1
+  Yes: 0 (0.00%)
+  No: 6 (100.00%)
+  Total: 6
+Control Scenario: s2_vague_scenario_1
+  Yes: 0 (0.00%)
+  No: 14 (100.00%)
+  Total: 14
+Control Scenario: s2_bogus_scenario_1
+  Yes: 1 (8.33%)
+  No: 11 (91.67%)
+  Total: 12
+Test Scenario: s2_vague_scenario_1
+  Yes: 1 (5.88%)
+  No: 16 (94.12%)
+  Total: 17
+Test Scenario: s2_bogus_scenario_1
+  Yes: 0 (0.00%)
+  No: 17 (100.00%)
+  Total: 17
+
+Group S2_2
+All Good Scenario:
+  Scenario: s2_all_good_scenario_2
+  Yes: 4 (16.67%)
+  No: 20 (83.33%)
+  Total: 24
+  Scenario Overall: s2_all_good_scenario_2
+  Yes: 77 (26.01%)
+  No: 219 (73.99%)
+  Total: 296
+Control Scenario: s2_all_good_scenario_2
+  Yes: 5 (35.71%)
+  No: 9 (64.29%)
+  Total: 14
+Control Scenario: s2_vague_scenario_2
+  Yes: 3 (27.27%)
+  No: 8 (72.73%)
+  Total: 11
+Control Scenario: s2_bogus_scenario_2
+  Yes: 5 (41.67%)
+  No: 7 (58.33%)
+  Total: 12
+Test Scenario: s2_vague_scenario_2
+  Yes: 3 (20.00%)
+  No: 12 (80.00%)
+  Total: 15
+Test Scenario: s2_bogus_scenario_2
+  Yes: 5 (22.73%)
+  No: 17 (77.27%)
+  Total: 22
+
+Group S2_3
+All Good Scenario:
+  Scenario: s2_all_good_scenario_3
+  Yes: 0 (0.00%)
+  No: 18 (100.00%)
+  Total: 18
+  Scenario Overall: s2_all_good_scenario_3
+  Yes: 7 (2.53%)
+  No: 270 (97.47%)
+  Total: 277
+Control Scenario: s2_all_good_scenario_3
+  Yes: 1 (14.29%)
+  No: 6 (85.71%)
+  Total: 7
+Control Scenario: s2_vague_scenario_3
+  Yes: 0 (0.00%)
+  No: 13 (100.00%)
+  Total: 13
+Control Scenario: s2_bogus_scenario_3
+  Yes: 3 (33.33%)
+  No: 6 (66.67%)
+  Total: 9
+Test Scenario: s2_vague_scenario_3
+  Yes: 2 (12.50%)
+  No: 14 (87.50%)
+  Total: 16
+Test Scenario: s2_bogus_scenario_3
+  Yes: 4 (14.81%)
+  No: 23 (85.19%)
+  Total: 27
+
+Group S2_4
+All Good Scenario:
+  Scenario: s2_all_good_scenario_4
+  Yes: 4 (25.00%)
+  No: 12 (75.00%)
+  Total: 16
+  Scenario Overall: s2_all_good_scenario_4
+  Yes: 37 (13.36%)
+  No: 240 (86.64%)
+  Total: 277
+Control Scenario: s2_all_good_scenario_4
+  Yes: 1 (12.50%)
+  No: 7 (87.50%)
+  Total: 8
+Control Scenario: s2_vague_scenario_4
+  Yes: 3 (21.43%)
+  No: 11 (78.57%)
+  Total: 14
+Control Scenario: s2_bogus_scenario_4
+  Yes: 3 (25.00%)
+  No: 9 (75.00%)
+  Total: 12
+Test Scenario: s2_vague_scenario_4
+  Yes: 4 (19.05%)
+  No: 17 (80.95%)
+  Total: 21
+Test Scenario: s2_bogus_scenario_4
+  Yes: 1 (5.88%)
+  No: 16 (94.12%)
+  Total: 17
+
+Group S2_5
+All Good Scenario:
+  Scenario: s2_all_good_scenario_5
+  Yes: 1 (4.76%)
+  No: 20 (95.24%)
+  Total: 21
+  Scenario Overall: s2_all_good_scenario_5
+  Yes: 7 (2.38%)
+  No: 287 (97.62%)
+  Total: 294
+Control Scenario: s2_all_good_scenario_5
+  Yes: 1 (6.67%)
+  No: 14 (93.33%)
+  Total: 15
+Control Scenario: s2_vague_scenario_5
+  Yes: 0 (0.00%)
+  No: 12 (100.00%)
+  Total: 12
+Control Scenario: s2_bogus_scenario_5
+  Yes: 0 (0.00%)
+  No: 10 (100.00%)
+  Total: 10
+Test Scenario: s2_vague_scenario_5
+  Yes: 0 (0.00%)
+  No: 15 (100.00%)
+  Total: 15
+Test Scenario: s2_bogus_scenario_5
+  Yes: 0 (0.00%)
+  No: 19 (100.00%)
+  Total: 19
+
+Group S3_1
+All Good Scenario:
+  Scenario: s3_all_good_expert_scenario_1
+  Yes: 0 (0.00%)
+  No: 15 (100.00%)
+  Total: 15
+  Scenario Overall: s3_all_good_expert_scenario_1
+  Yes: 6 (3.08%)
+  No: 189 (96.92%)
+  Total: 195
+  Scenario: s3_all_good_expert_law_scenario_1
+  Yes: 0 (0.00%)
+  No: 6 (100.00%)
+  Total: 6
+  Scenario Overall: s3_all_good_expert_law_scenario_1
+  Yes: 0 (0.00%)
+  No: 6 (100.00%)
+  Total: 6
+  Scenario: s3_all_good_expert_ethics_scenario_1
+  Yes: 0 (0.00%)
+  No: 9 (100.00%)
+  Total: 9
+  Scenario Overall: s3_all_good_expert_ethics_scenario_1
+  Yes: 0 (0.00%)
+  No: 9 (100.00%)
+  Total: 9
+  Scenario: s3_all_good_expert_policy_scenario_1
+  Yes: 0 (0.00%)
+  No: 10 (100.00%)
+  Total: 10
+  Scenario Overall: s3_all_good_expert_policy_scenario_1
+  Yes: 0 (0.00%)
+  No: 10 (100.00%)
+  Total: 10
+  Scenario: s3_all_good_expert_cyber_scenario_1
+  Yes: 0 (0.00%)
+  No: 5 (100.00%)
+  Total: 5
+  Scenario Overall: s3_all_good_expert_cyber_scenario_1
+  Yes: 0 (0.00%)
+  No: 5 (100.00%)
+  Total: 5
+  Scenario: s3_all_good_user_scenario_1
+  Yes: 0 (0.00%)
+  No: 7 (100.00%)
+  Total: 7
+  Scenario Overall: s3_all_good_user_scenario_1
+  Yes: 6 (2.88%)
+  No: 202 (97.12%)
+  Total: 208
+Control Scenario: s3_all_good_expert_scenario_1
+  Yes: 1 (9.09%)
+  No: 10 (90.91%)
+  Total: 11
+Test Scenario: s3_g8_scenario_1
+  Yes: 2 (13.33%)
+  No: 13 (86.67%)
+  Total: 15
+Test Scenario: s3_g9_scenario_1
+  Yes: 0 (0.00%)
+  No: 18 (100.00%)
+  Total: 18
+
+Group S3_2
+All Good Scenario:
+  Scenario: s3_all_good_expert_scenario_2
+  Yes: 1 (11.11%)
+  No: 8 (88.89%)
+  Total: 9
+  Scenario Overall: s3_all_good_expert_scenario_2
+  Yes: 20 (9.48%)
+  No: 191 (90.52%)
+  Total: 211
+  Scenario: s3_all_good_expert_law_scenario_2
+  Yes: 1 (11.11%)
+  No: 8 (88.89%)
+  Total: 9
+  Scenario Overall: s3_all_good_expert_law_scenario_2
+  Yes: 1 (11.11%)
+  No: 8 (88.89%)
+  Total: 9
+  Scenario: s3_all_good_expert_ethics_scenario_2
+  Yes: 0 (0.00%)
+  No: 6 (100.00%)
+  Total: 6
+  Scenario Overall: s3_all_good_expert_ethics_scenario_2
+  Yes: 0 (0.00%)
+  No: 6 (100.00%)
+  Total: 6
+  Scenario: s3_all_good_expert_policy_scenario_2
+  Yes: 0 (0.00%)
+  No: 9 (100.00%)
+  Total: 9
+  Scenario Overall: s3_all_good_expert_policy_scenario_2
+  Yes: 0 (0.00%)
+  No: 9 (100.00%)
+  Total: 9
+  Scenario: s3_all_good_expert_cyber_scenario_2
+  Yes: 0 (0.00%)
+  No: 7 (100.00%)
+  Total: 7
+  Scenario Overall: s3_all_good_expert_cyber_scenario_2
+  Yes: 0 (0.00%)
+  No: 7 (100.00%)
+  Total: 7
+  Scenario: s3_all_good_user_scenario_2
+  Yes: 1 (7.14%)
+  No: 13 (92.86%)
+  Total: 14
+  Scenario Overall: s3_all_good_user_scenario_2
+  Yes: 22 (9.44%)
+  No: 211 (90.56%)
+  Total: 233
+Control Scenario: s3_all_good_expert_scenario_2
+  Yes: 3 (15.00%)
+  No: 17 (85.00%)
+  Total: 20
+Test Scenario: s3_g8_scenario_2
+  Yes: 5 (29.41%)
+  No: 12 (70.59%)
+  Total: 17
+Test Scenario: s3_g9_scenario_2
+  Yes: 11 (42.31%)
+  No: 15 (57.69%)
+  Total: 26
+
+Group S3_3
+All Good Scenario:
+  Scenario: s3_all_good_expert_scenario_3
+  Yes: 1 (7.14%)
+  No: 13 (92.86%)
+  Total: 14
+  Scenario Overall: s3_all_good_expert_scenario_3
+  Yes: 2 (0.98%)
+  No: 202 (99.02%)
+  Total: 204
+  Scenario: s3_all_good_expert_law_scenario_3
+  Yes: 0 (0.00%)
+  No: 4 (100.00%)
+  Total: 4
+  Scenario Overall: s3_all_good_expert_law_scenario_3
+  Yes: 0 (0.00%)
+  No: 4 (100.00%)
+  Total: 4
+  Scenario: s3_all_good_expert_ethics_scenario_3
+  Yes: 0 (0.00%)
+  No: 9 (100.00%)
+  Total: 9
+  Scenario Overall: s3_all_good_expert_ethics_scenario_3
+  Yes: 0 (0.00%)
+  No: 9 (100.00%)
+  Total: 9
+  Scenario: s3_all_good_expert_policy_scenario_3
+  Yes: 0 (0.00%)
+  No: 6 (100.00%)
+  Total: 6
+  Scenario Overall: s3_all_good_expert_policy_scenario_3
+  Yes: 0 (0.00%)
+  No: 6 (100.00%)
+  Total: 6
+  Scenario: s3_all_good_expert_cyber_scenario_3
+  Yes: 0 (0.00%)
+  No: 8 (100.00%)
+  Total: 8
+  Scenario Overall: s3_all_good_expert_cyber_scenario_3
+  Yes: 0 (0.00%)
+  No: 8 (100.00%)
+  Total: 8
+  Scenario: s3_all_good_user_scenario_3
+  Yes: 1 (12.50%)
+  No: 7 (87.50%)
+  Total: 8
+  Scenario Overall: s3_all_good_user_scenario_3
+  Yes: 4 (1.94%)
+  No: 202 (98.06%)
+  Total: 206
+Control Scenario: s3_all_good_expert_scenario_3
+  Yes: 2 (8.33%)
+  No: 22 (91.67%)
+  Total: 24
+Test Scenario: s3_g8_scenario_3
+  Yes: 2 (18.18%)
+  No: 9 (81.82%)
+  Total: 11
+Test Scenario: s3_g9_scenario_3
+  Yes: 3 (9.38%)
+  No: 29 (90.62%)
+  Total: 32
+
+Group S3_4
+All Good Scenario:
+  Scenario: s3_all_good_expert_scenario_4
+  Yes: 2 (15.38%)
+  No: 11 (84.62%)
+  Total: 13
+  Scenario Overall: s3_all_good_expert_scenario_4
+  Yes: 15 (7.21%)
+  No: 193 (92.79%)
+  Total: 208
+  Scenario: s3_all_good_expert_law_scenario_4
+  Yes: 1 (10.00%)
+  No: 9 (90.00%)
+  Total: 10
+  Scenario Overall: s3_all_good_expert_law_scenario_4
+  Yes: 1 (10.00%)
+  No: 9 (90.00%)
+  Total: 10
+  Scenario: s3_all_good_expert_ethics_scenario_4
+  Yes: 1 (33.33%)
+  No: 2 (66.67%)
+  Total: 3
+  Scenario Overall: s3_all_good_expert_ethics_scenario_4
+  Yes: 1 (33.33%)
+  No: 2 (66.67%)
+  Total: 3
+  Scenario: s3_all_good_expert_policy_scenario_4
+  Yes: 1 (14.29%)
+  No: 6 (85.71%)
+  Total: 7
+  Scenario Overall: s3_all_good_expert_policy_scenario_4
+  Yes: 1 (14.29%)
+  No: 6 (85.71%)
+  Total: 7
+  Scenario: s3_all_good_expert_cyber_scenario_4
+  Yes: 0 (0.00%)
+  No: 7 (100.00%)
+  Total: 7
+  Scenario Overall: s3_all_good_expert_cyber_scenario_4
+  Yes: 0 (0.00%)
+  No: 7 (100.00%)
+  Total: 7
+  Scenario: s3_all_good_user_scenario_4
+  Yes: 1 (8.33%)
+  No: 11 (91.67%)
+  Total: 12
+  Scenario Overall: s3_all_good_user_scenario_4
+  Yes: 13 (5.80%)
+  No: 211 (94.20%)
+  Total: 224
+Control Scenario: s3_all_good_expert_scenario_4
+  Yes: 6 (28.57%)
+  No: 15 (71.43%)
+  Total: 21
+Test Scenario: s3_g8_scenario_4
+  Yes: 0 (0.00%)
+  No: 8 (100.00%)
+  Total: 8
+Test Scenario: s3_g9_scenario_4
+  Yes: 7 (24.14%)
+  No: 22 (75.86%)
+  Total: 29
+
+Group S3_5
+All Good Scenario:
+  Scenario: s3_all_good_expert_scenario_5
+  Yes: 1 (8.33%)
+  No: 11 (91.67%)
+  Total: 12
+  Scenario Overall: s3_all_good_expert_scenario_5
+  Yes: 11 (5.19%)
+  No: 201 (94.81%)
+  Total: 212
+  Scenario: s3_all_good_expert_law_scenario_5
+  Yes: 0 (0.00%)
+  No: 6 (100.00%)
+  Total: 6
+  Scenario Overall: s3_all_good_expert_law_scenario_5
+  Yes: 0 (0.00%)
+  No: 6 (100.00%)
+  Total: 6
+  Scenario: s3_all_good_expert_ethics_scenario_5
+  Yes: 0 (0.00%)
+  No: 6 (100.00%)
+  Total: 6
+  Scenario Overall: s3_all_good_expert_ethics_scenario_5
+  Yes: 0 (0.00%)
+  No: 6 (100.00%)
+  Total: 6
+  Scenario: s3_all_good_expert_policy_scenario_5
+  Yes: 0 (0.00%)
+  No: 7 (100.00%)
+  Total: 7
+  Scenario Overall: s3_all_good_expert_policy_scenario_5
+  Yes: 0 (0.00%)
+  No: 7 (100.00%)
+  Total: 7
+  Scenario: s3_all_good_expert_cyber_scenario_5
+  Yes: 0 (0.00%)
+  No: 8 (100.00%)
+  Total: 8
+  Scenario Overall: s3_all_good_expert_cyber_scenario_5
+  Yes: 0 (0.00%)
+  No: 8 (100.00%)
+  Total: 8
+  Scenario: s3_all_good_user_scenario_5
+  Yes: 0 (0.00%)
+  No: 12 (100.00%)
+  Total: 12
+  Scenario Overall: s3_all_good_user_scenario_5
+  Yes: 4 (2.00%)
+  No: 196 (98.00%)
+  Total: 200
+Control Scenario: s3_all_good_expert_scenario_5
+  Yes: 0 (0.00%)
+  No: 27 (100.00%)
+  Total: 27
+Test Scenario: s3_g8_scenario_5
+  Yes: 1 (8.33%)
+  No: 11 (91.67%)
+  Total: 12
+Test Scenario: s3_g9_scenario_5
+  Yes: 4 (16.00%)
+  No: 21 (84.00%)
+  Total: 25
+
+Group S3_6
+All Good Scenario:
+  Scenario: s3_all_good_expert_scenario_6
+  Yes: 1 (9.09%)
+  No: 10 (90.91%)
+  Total: 11
+  Scenario Overall: s3_all_good_expert_scenario_6
+  Yes: 4 (1.64%)
+  No: 240 (98.36%)
+  Total: 244
+  Scenario: s3_all_good_expert_law_scenario_6
+  Yes: 0 (0.00%)
+  No: 5 (100.00%)
+  Total: 5
+  Scenario Overall: s3_all_good_expert_law_scenario_6
+  Yes: 0 (0.00%)
+  No: 5 (100.00%)
+  Total: 5
+  Scenario: s3_all_good_expert_ethics_scenario_6
+  Yes: 0 (0.00%)
+  No: 8 (100.00%)
+  Total: 8
+  Scenario Overall: s3_all_good_expert_ethics_scenario_6
+  Yes: 0 (0.00%)
+  No: 8 (100.00%)
+  Total: 8
+  Scenario: s3_all_good_expert_policy_scenario_6
+  Yes: 0 (0.00%)
+  No: 8 (100.00%)
+  Total: 8
+  Scenario Overall: s3_all_good_expert_policy_scenario_6
+  Yes: 0 (0.00%)
+  No: 8 (100.00%)
+  Total: 8
+  Scenario: s3_all_good_expert_cyber_scenario_6
+  Yes: 0 (0.00%)
+  No: 5 (100.00%)
+  Total: 5
+  Scenario Overall: s3_all_good_expert_cyber_scenario_6
+  Yes: 0 (0.00%)
+  No: 5 (100.00%)
+  Total: 5
+  Scenario: s3_all_good_user_scenario_6
+  Yes: 1 (8.33%)
+  No: 11 (91.67%)
+  Total: 12
+  Scenario Overall: s3_all_good_user_scenario_6
+  Yes: 6 (2.82%)
+  No: 207 (97.18%)
+  Total: 213
+Control Scenario: s3_all_good_expert_scenario_6
+  Yes: 4 (30.77%)
+  No: 9 (69.23%)
+  Total: 13
+Test Scenario: s3_g8_scenario_6
+  Yes: 0 (0.00%)
+  No: 10 (100.00%)
+  Total: 10
+Test Scenario: s3_g9_scenario_6
+  Yes: 6 (24.00%)
+  No: 19 (76.00%)
+  Total: 25
+
+Group S3_7
+All Good Scenario:
+  Scenario: s3_all_good_expert_scenario_7
+  Yes: 2 (28.57%)
+  No: 5 (71.43%)
+  Total: 7
+  Scenario Overall: s3_all_good_expert_scenario_7
+  Yes: 61 (29.47%)
+  No: 146 (70.53%)
+  Total: 207
+  Scenario: s3_all_good_expert_law_scenario_7
+  Yes: 1 (25.00%)
+  No: 3 (75.00%)
+  Total: 4
+  Scenario Overall: s3_all_good_expert_law_scenario_7
+  Yes: 1 (25.00%)
+  No: 3 (75.00%)
+  Total: 4
+  Scenario: s3_all_good_expert_ethics_scenario_7
+  Yes: 2 (40.00%)
+  No: 3 (60.00%)
+  Total: 5
+  Scenario Overall: s3_all_good_expert_ethics_scenario_7
+  Yes: 2 (40.00%)
+  No: 3 (60.00%)
+  Total: 5
+  Scenario: s3_all_good_expert_policy_scenario_7
+  Yes: 1 (16.67%)
+  No: 5 (83.33%)
+  Total: 6
+  Scenario Overall: s3_all_good_expert_policy_scenario_7
+  Yes: 1 (16.67%)
+  No: 5 (83.33%)
+  Total: 6
+  Scenario: s3_all_good_expert_cyber_scenario_7
+  Yes: 3 (25.00%)
+  No: 9 (75.00%)
+  Total: 12
+  Scenario Overall: s3_all_good_expert_cyber_scenario_7
+  Yes: 3 (25.00%)
+  No: 9 (75.00%)
+  Total: 12
+  Scenario: s3_all_good_user_scenario_7
+  Yes: 2 (14.29%)
+  No: 12 (85.71%)
+  Total: 14
+  Scenario Overall: s3_all_good_user_scenario_7
+  Yes: 66 (31.73%)
+  No: 142 (68.27%)
+  Total: 208
+Control Scenario: s3_all_good_expert_scenario_7
+  Yes: 3 (23.08%)
+  No: 10 (76.92%)
+  Total: 13
+Test Scenario: s3_g8_scenario_7
+  Yes: 4 (36.36%)
+  No: 7 (63.64%)
+  Total: 11
+Test Scenario: s3_g9_scenario_7
+  Yes: 14 (46.67%)
+  No: 16 (53.33%)
+  Total: 30
+
+Group S3_8
+All Good Scenario:
+  Scenario: s3_all_good_expert_scenario_8
+  Yes: 0 (0.00%)
+  No: 10 (100.00%)
+  Total: 10
+  Scenario Overall: s3_all_good_expert_scenario_8
+  Yes: 4 (2.08%)
+  No: 188 (97.92%)
+  Total: 192
+  Scenario: s3_all_good_expert_law_scenario_8
+  Yes: 0 (0.00%)
+  No: 9 (100.00%)
+  Total: 9
+  Scenario Overall: s3_all_good_expert_law_scenario_8
+  Yes: 0 (0.00%)
+  No: 9 (100.00%)
+  Total: 9
+  Scenario: s3_all_good_expert_ethics_scenario_8
+  Yes: 1 (11.11%)
+  No: 8 (88.89%)
+  Total: 9
+  Scenario Overall: s3_all_good_expert_ethics_scenario_8
+  Yes: 1 (11.11%)
+  No: 8 (88.89%)
+  Total: 9
+  Scenario: s3_all_good_expert_policy_scenario_8
+  Yes: 0 (0.00%)
+  No: 8 (100.00%)
+  Total: 8
+  Scenario Overall: s3_all_good_expert_policy_scenario_8
+  Yes: 0 (0.00%)
+  No: 8 (100.00%)
+  Total: 8
+  Scenario: s3_all_good_expert_cyber_scenario_8
+  Yes: 0 (0.00%)
+  No: 2 (100.00%)
+  Total: 2
+  Scenario Overall: s3_all_good_expert_cyber_scenario_8
+  Yes: 0 (0.00%)
+  No: 2 (100.00%)
+  Total: 2
+  Scenario: s3_all_good_user_scenario_8
+  Yes: 0 (0.00%)
+  No: 15 (100.00%)
+  Total: 15
+  Scenario Overall: s3_all_good_user_scenario_8
+  Yes: 4 (2.06%)
+  No: 190 (97.94%)
+  Total: 194
+Control Scenario: s3_all_good_expert_scenario_8
+  Yes: 1 (7.69%)
+  No: 12 (92.31%)
+  Total: 13
+Test Scenario: s3_g8_scenario_8
+  Yes: 1 (12.50%)
+  No: 7 (87.50%)
+  Total: 8
+Test Scenario: s3_g9_scenario_8
+  Yes: 1 (3.33%)
+  No: 29 (96.67%)
+  Total: 30
+
+Group S3_9
+All Good Scenario:
+  Scenario: s3_all_good_expert_scenario_9
+  Yes: 1 (8.33%)
+  No: 11 (91.67%)
+  Total: 12
+  Scenario Overall: s3_all_good_expert_scenario_9
+  Yes: 18 (8.74%)
+  No: 188 (91.26%)
+  Total: 206
+  Scenario: s3_all_good_expert_law_scenario_9
+  Yes: 0 (0.00%)
+  No: 7 (100.00%)
+  Total: 7
+  Scenario Overall: s3_all_good_expert_law_scenario_9
+  Yes: 0 (0.00%)
+  No: 7 (100.00%)
+  Total: 7
+  Scenario: s3_all_good_expert_ethics_scenario_9
+  Yes: 1 (20.00%)
+  No: 4 (80.00%)
+  Total: 5
+  Scenario Overall: s3_all_good_expert_ethics_scenario_9
+  Yes: 1 (20.00%)
+  No: 4 (80.00%)
+  Total: 5
+  Scenario: s3_all_good_expert_policy_scenario_9
+  Yes: 1 (16.67%)
+  No: 5 (83.33%)
+  Total: 6
+  Scenario Overall: s3_all_good_expert_policy_scenario_9
+  Yes: 1 (16.67%)
+  No: 5 (83.33%)
+  Total: 6
+  Scenario: s3_all_good_expert_cyber_scenario_9
+  Yes: 0 (0.00%)
+  No: 4 (100.00%)
+  Total: 4
+  Scenario Overall: s3_all_good_expert_cyber_scenario_9
+  Yes: 0 (0.00%)
+  No: 4 (100.00%)
+  Total: 4
+  Scenario: s3_all_good_user_scenario_9
+  Yes: 1 (6.25%)
+  No: 15 (93.75%)
+  Total: 16
+  Scenario Overall: s3_all_good_user_scenario_9
+  Yes: 20 (9.09%)
+  No: 200 (90.91%)
+  Total: 220
+Control Scenario: s3_all_good_expert_scenario_9
+  Yes: 4 (28.57%)
+  No: 10 (71.43%)
+  Total: 14
+Test Scenario: s3_g8_scenario_9
+  Yes: 3 (33.33%)
+  No: 6 (66.67%)
+  Total: 9
+Test Scenario: s3_g9_scenario_9
+  Yes: 7 (23.33%)
+  No: 23 (76.67%)
+  Total: 30
+
+Group S3_10
+All Good Scenario:
+  Scenario: s3_all_good_expert_scenario_10
+  Yes: 1 (10.00%)
+  No: 9 (90.00%)
+  Total: 10
+  Scenario Overall: s3_all_good_expert_scenario_10
+  Yes: 5 (2.40%)
+  No: 203 (97.60%)
+  Total: 208
+  Scenario: s3_all_good_expert_law_scenario_10
+  Yes: 1 (14.29%)
+  No: 6 (85.71%)
+  Total: 7
+  Scenario Overall: s3_all_good_expert_law_scenario_10
+  Yes: 1 (14.29%)
+  No: 6 (85.71%)
+  Total: 7
+  Scenario: s3_all_good_expert_ethics_scenario_10
+  Yes: 0 (0.00%)
+  No: 8 (100.00%)
+  Total: 8
+  Scenario Overall: s3_all_good_expert_ethics_scenario_10
+  Yes: 0 (0.00%)
+  No: 8 (100.00%)
+  Total: 8
+  Scenario: s3_all_good_expert_policy_scenario_10
+  Yes: 0 (0.00%)
+  No: 1 (100.00%)
+  Total: 1
+  Scenario Overall: s3_all_good_expert_policy_scenario_10
+  Yes: 0 (0.00%)
+  No: 1 (100.00%)
+  Total: 1
+  Scenario: s3_all_good_expert_cyber_scenario_10
+  Yes: 0 (0.00%)
+  No: 10 (100.00%)
+  Total: 10
+  Scenario Overall: s3_all_good_expert_cyber_scenario_10
+  Yes: 0 (0.00%)
+  No: 10 (100.00%)
+  Total: 10
+  Scenario: s3_all_good_user_scenario_10
+  Yes: 0 (0.00%)
+  No: 14 (100.00%)
+  Total: 14
+  Scenario Overall: s3_all_good_user_scenario_10
+  Yes: 7 (3.26%)
+  No: 208 (96.74%)
+  Total: 215
+Control Scenario: s3_all_good_expert_scenario_10
+  Yes: 2 (13.33%)
+  No: 13 (86.67%)
+  Total: 15
+Test Scenario: s3_g8_scenario_10
+  Yes: 3 (33.33%)
+  No: 6 (66.67%)
+  Total: 9
+Test Scenario: s3_g9_scenario_10
+  Yes: 9 (33.33%)
+  No: 18 (66.67%)
+  Total: 27
+
+Group S4_1
+All Good Scenario:
+  Scenario: s4_all_good_no_purpose_scenario_1
+  Yes: 12 (75.00%)
+  No: 4 (25.00%)
+  Total: 16
+  Scenario Overall: s4_all_good_no_purpose_scenario_1
+  Yes: 151 (79.47%)
+  No: 39 (20.53%)
+  Total: 190
+  Scenario: s4_all_good_purpose_proper_scenario_1
+  Yes: 17 (94.44%)
+  No: 1 (5.56%)
+  Total: 18
+  Scenario Overall: s4_all_good_purpose_proper_scenario_1
+  Yes: 168 (81.16%)
+  No: 39 (18.84%)
+  Total: 207
+  Scenario: s4_all_good_purpose_vague_scenario_1
+  Yes: 15 (65.22%)
+  No: 8 (34.78%)
+  Total: 23
+  Scenario Overall: s4_all_good_purpose_vague_scenario_1
+  Yes: 158 (76.70%)
+  No: 48 (23.30%)
+  Total: 206
+Control Scenario: s4_all_good_no_purpose_scenario_1
+  Yes: 4 (50.00%)
+  No: 4 (50.00%)
+  Total: 8
+Control Scenario: s4_all_good_purpose_proper_scenario_1
+  Yes: 11 (78.57%)
+  No: 3 (21.43%)
+  Total: 14
+Control Scenario: s4_all_good_purpose_vague_scenario_1
+  Yes: 10 (76.92%)
+  No: 3 (23.08%)
+  Total: 13
+Test Scenario: s4_proper_scenario_1
+  Yes: 8 (47.06%)
+  No: 9 (52.94%)
+  Total: 17
+Test Scenario: s4_vague_scenario_1
+  Yes: 9 (47.37%)
+  No: 10 (52.63%)
+  Total: 19
+
+Group S4_2
+All Good Scenario:
+  Scenario: s4_all_good_no_purpose_scenario_2
+  Yes: 3 (25.00%)
+  No: 9 (75.00%)
+  Total: 12
+  Scenario Overall: s4_all_good_no_purpose_scenario_2
+  Yes: 53 (28.34%)
+  No: 134 (71.66%)
+  Total: 187
+  Scenario: s4_all_good_purpose_proper_scenario_2
+  Yes: 6 (27.27%)
+  No: 16 (72.73%)
+  Total: 22
+  Scenario Overall: s4_all_good_purpose_proper_scenario_2
+  Yes: 52 (26.94%)
+  No: 141 (73.06%)
+  Total: 193
+  Scenario: s4_all_good_purpose_vague_scenario_2
+  Yes: 1 (7.69%)
+  No: 12 (92.31%)
+  Total: 13
+  Scenario Overall: s4_all_good_purpose_vague_scenario_2
+  Yes: 36 (18.18%)
+  No: 162 (81.82%)
+  Total: 198
+Control Scenario: s4_all_good_no_purpose_scenario_2
+  Yes: 2 (20.00%)
+  No: 8 (80.00%)
+  Total: 10
+Control Scenario: s4_all_good_purpose_proper_scenario_2
+  Yes: 3 (21.43%)
+  No: 11 (78.57%)
+  Total: 14
+Control Scenario: s4_all_good_purpose_vague_scenario_2
+  Yes: 1 (11.11%)
+  No: 8 (88.89%)
+  Total: 9
+Test Scenario: s4_proper_scenario_2
+  Yes: 5 (25.00%)
+  No: 15 (75.00%)
+  Total: 20
+Test Scenario: s4_vague_scenario_2
+  Yes: 3 (15.00%)
+  No: 17 (85.00%)
+  Total: 20
+
+Group S4_3
+All Good Scenario:
+  Scenario: s4_all_good_no_purpose_scenario_3
+  Yes: 15 (88.24%)
+  No: 2 (11.76%)
+  Total: 17
+  Scenario Overall: s4_all_good_no_purpose_scenario_3
+  Yes: 153 (91.07%)
+  No: 15 (8.93%)
+  Total: 168
+  Scenario: s4_all_good_purpose_proper_scenario_3
+  Yes: 16 (84.21%)
+  No: 3 (15.79%)
+  Total: 19
+  Scenario Overall: s4_all_good_purpose_proper_scenario_3
+  Yes: 196 (93.78%)
+  No: 13 (6.22%)
+  Total: 209
+  Scenario: s4_all_good_purpose_vague_scenario_3
+  Yes: 13 (92.86%)
+  No: 1 (7.14%)
+  Total: 14
+  Scenario Overall: s4_all_good_purpose_vague_scenario_3
+  Yes: 169 (87.11%)
+  No: 25 (12.89%)
+  Total: 194
+Control Scenario: s4_all_good_no_purpose_scenario_3
+  Yes: 10 (100.00%)
+  No: 0 (0.00%)
+  Total: 10
+Control Scenario: s4_all_good_purpose_proper_scenario_3
+  Yes: 12 (100.00%)
+  No: 0 (0.00%)
+  Total: 12
+Control Scenario: s4_all_good_purpose_vague_scenario_3
+  Yes: 10 (83.33%)
+  No: 2 (16.67%)
+  Total: 12
+Test Scenario: s4_proper_scenario_3
+  Yes: 15 (68.18%)
+  No: 7 (31.82%)
+  Total: 22
+Test Scenario: s4_vague_scenario_3
+  Yes: 8 (40.00%)
+  No: 12 (60.00%)
+  Total: 20
+
+Group S4_4
+All Good Scenario:
+  Scenario: s4_all_good_no_purpose_scenario_4
+  Yes: 23 (92.00%)
+  No: 2 (8.00%)
+  Total: 25
+  Scenario Overall: s4_all_good_no_purpose_scenario_4
+  Yes: 188 (92.16%)
+  No: 16 (7.84%)
+  Total: 204
+  Scenario: s4_all_good_purpose_proper_scenario_4
+  Yes: 17 (100.00%)
+  No: 0 (0.00%)
+  Total: 17
+  Scenario Overall: s4_all_good_purpose_proper_scenario_4
+  Yes: 185 (96.86%)
+  No: 6 (3.14%)
+  Total: 191
+  Scenario: s4_all_good_purpose_vague_scenario_4
+  Yes: 16 (100.00%)
+  No: 0 (0.00%)
+  Total: 16
+  Scenario Overall: s4_all_good_purpose_vague_scenario_4
+  Yes: 206 (96.26%)
+  No: 8 (3.74%)
+  Total: 214
+Control Scenario: s4_all_good_no_purpose_scenario_4
+  Yes: 16 (100.00%)
+  No: 0 (0.00%)
+  Total: 16
+Control Scenario: s4_all_good_purpose_proper_scenario_4
+  Yes: 7 (87.50%)
+  No: 1 (12.50%)
+  Total: 8
+Control Scenario: s4_all_good_purpose_vague_scenario_4
+  Yes: 4 (100.00%)
+  No: 0 (0.00%)
+  Total: 4
+Test Scenario: s4_proper_scenario_4
+  Yes: 15 (78.95%)
+  No: 4 (21.05%)
+  Total: 19
+Test Scenario: s4_vague_scenario_4
+  Yes: 15 (65.22%)
+  No: 8 (34.78%)
+  Total: 23
+
+Group S4_5
+All Good Scenario:
+  Scenario: s4_all_good_no_purpose_scenario_5
+  Yes: 16 (84.21%)
+  No: 3 (15.79%)
+  Total: 19
+  Scenario Overall: s4_all_good_no_purpose_scenario_5
+  Yes: 165 (77.10%)
+  No: 49 (22.90%)
+  Total: 214
+  Scenario: s4_all_good_purpose_proper_scenario_5
+  Yes: 13 (72.22%)
+  No: 5 (27.78%)
+  Total: 18
+  Scenario Overall: s4_all_good_purpose_proper_scenario_5
+  Yes: 166 (87.37%)
+  No: 24 (12.63%)
+  Total: 190
+  Scenario: s4_all_good_purpose_vague_scenario_5
+  Yes: 15 (75.00%)
+  No: 5 (25.00%)
+  Total: 20
+  Scenario Overall: s4_all_good_purpose_vague_scenario_5
+  Yes: 159 (76.81%)
+  No: 48 (23.19%)
+  Total: 207
+Control Scenario: s4_all_good_no_purpose_scenario_5
+  Yes: 7 (77.78%)
+  No: 2 (22.22%)
+  Total: 9
+Control Scenario: s4_all_good_purpose_proper_scenario_5
+  Yes: 8 (72.73%)
+  No: 3 (27.27%)
+  Total: 11
+Control Scenario: s4_all_good_purpose_vague_scenario_5
+  Yes: 6 (60.00%)
+  No: 4 (40.00%)
+  Total: 10
+Test Scenario: s4_proper_scenario_5
+  Yes: 10 (45.45%)
+  No: 12 (54.55%)
+  Total: 22
+Test Scenario: s4_vague_scenario_5
+  Yes: 15 (62.50%)
+  No: 9 (37.50%)
+  Total: 24
+
+Group S5_1
+All Good Scenario:
+  Scenario: s5_all_good_scenario_1
+  Yes: 1 (9.09%)
+  No: 10 (90.91%)
+  Total: 11
+  Scenario Overall: s5_all_good_scenario_1
+  Yes: 15 (5.86%)
+  No: 241 (94.14%)
+  Total: 256
+  Scenario: s5_all_good_law_scenario_1
+  Yes: 0 (0.00%)
+  No: 8 (100.00%)
+  Total: 8
+  Scenario Overall: s5_all_good_law_scenario_1
+  Yes: 0 (0.00%)
+  No: 8 (100.00%)
+  Total: 8
+  Scenario: s5_all_good_ethics_scenario_1
+  Yes: 0 (0.00%)
+  No: 11 (100.00%)
+  Total: 11
+  Scenario Overall: s5_all_good_ethics_scenario_1
+  Yes: 0 (0.00%)
+  No: 11 (100.00%)
+  Total: 11
+  Scenario: s5_all_good_policy_scenario_1
+  Yes: 1 (10.00%)
+  No: 9 (90.00%)
+  Total: 10
+  Scenario Overall: s5_all_good_policy_scenario_1
+  Yes: 1 (10.00%)
+  No: 9 (90.00%)
+  Total: 10
+  Scenario: s5_all_good_cyber_scenario_1
+  Yes: 0 (0.00%)
+  No: 5 (100.00%)
+  Total: 5
+  Scenario Overall: s5_all_good_cyber_scenario_1
+  Yes: 0 (0.00%)
+  No: 5 (100.00%)
+  Total: 5
+Control Scenario: s5_all_good_scenario_1
+  Yes: 0 (0.00%)
+  No: 16 (100.00%)
+  Total: 16
+Test Scenario: s5_g11_scenario_1
+  Yes: 3 (18.75%)
+  No: 13 (81.25%)
+  Total: 16
+Test Scenario: s5_g12_scenario_1
+  Yes: 2 (12.50%)
+  No: 14 (87.50%)
+  Total: 16
+Test Scenario: s5_g13_scenario_1
+  Yes: 0 (0.00%)
+  No: 13 (100.00%)
+  Total: 13
+
+Group S5_2
+All Good Scenario:
+  Scenario: s5_all_good_scenario_2
+  Yes: 2 (14.29%)
+  No: 12 (85.71%)
+  Total: 14
+  Scenario Overall: s5_all_good_scenario_2
+  Yes: 34 (12.23%)
+  No: 244 (87.77%)
+  Total: 278
+  Scenario: s5_all_good_law_scenario_2
+  Yes: 3 (50.00%)
+  No: 3 (50.00%)
+  Total: 6
+  Scenario Overall: s5_all_good_law_scenario_2
+  Yes: 3 (50.00%)
+  No: 3 (50.00%)
+  Total: 6
+  Scenario: s5_all_good_ethics_scenario_2
+  Yes: 0 (0.00%)
+  No: 8 (100.00%)
+  Total: 8
+  Scenario Overall: s5_all_good_ethics_scenario_2
+  Yes: 0 (0.00%)
+  No: 8 (100.00%)
+  Total: 8
+  Scenario: s5_all_good_policy_scenario_2
+  Yes: 0 (0.00%)
+  No: 11 (100.00%)
+  Total: 11
+  Scenario Overall: s5_all_good_policy_scenario_2
+  Yes: 0 (0.00%)
+  No: 11 (100.00%)
+  Total: 11
+  Scenario: s5_all_good_cyber_scenario_2
+  Yes: 0 (0.00%)
+  No: 6 (100.00%)
+  Total: 6
+  Scenario Overall: s5_all_good_cyber_scenario_2
+  Yes: 0 (0.00%)
+  No: 6 (100.00%)
+  Total: 6
+Control Scenario: s5_all_good_scenario_2
+  Yes: 5 (23.81%)
+  No: 16 (76.19%)
+  Total: 21
+Test Scenario: s5_g11_scenario_2
+  Yes: 6 (46.15%)
+  No: 7 (53.85%)
+  Total: 13
+Test Scenario: s5_g12_scenario_2
+  Yes: 5 (62.50%)
+  No: 3 (37.50%)
+  Total: 8
+Test Scenario: s5_g13_scenario_2
+  Yes: 3 (27.27%)
+  No: 8 (72.73%)
+  Total: 11
+
+Group S5_3
+All Good Scenario:
+  Scenario: s5_all_good_scenario_3
+  Yes: 2 (16.67%)
+  No: 10 (83.33%)
+  Total: 12
+  Scenario Overall: s5_all_good_scenario_3
+  Yes: 20 (7.78%)
+  No: 237 (92.22%)
+  Total: 257
+  Scenario: s5_all_good_law_scenario_3
+  Yes: 0 (0.00%)
+  No: 6 (100.00%)
+  Total: 6
+  Scenario Overall: s5_all_good_law_scenario_3
+  Yes: 0 (0.00%)
+  No: 6 (100.00%)
+  Total: 6
+  Scenario: s5_all_good_ethics_scenario_3
+  Yes: 0 (0.00%)
+  No: 10 (100.00%)
+  Total: 10
+  Scenario Overall: s5_all_good_ethics_scenario_3
+  Yes: 0 (0.00%)
+  No: 10 (100.00%)
+  Total: 10
+  Scenario: s5_all_good_policy_scenario_3
+  Yes: 0 (0.00%)
+  No: 6 (100.00%)
+  Total: 6
+  Scenario Overall: s5_all_good_policy_scenario_3
+  Yes: 0 (0.00%)
+  No: 6 (100.00%)
+  Total: 6
+  Scenario: s5_all_good_cyber_scenario_3
+  Yes: 0 (0.00%)
+  No: 8 (100.00%)
+  Total: 8
+  Scenario Overall: s5_all_good_cyber_scenario_3
+  Yes: 0 (0.00%)
+  No: 8 (100.00%)
+  Total: 8
+Control Scenario: s5_all_good_scenario_3
+  Yes: 1 (5.56%)
+  No: 17 (94.44%)
+  Total: 18
+Test Scenario: s5_g11_scenario_3
+  Yes: 2 (28.57%)
+  No: 5 (71.43%)
+  Total: 7
+Test Scenario: s5_g12_scenario_3
+  Yes: 2 (20.00%)
+  No: 8 (80.00%)
+  Total: 10
+Test Scenario: s5_g13_scenario_3
+  Yes: 2 (20.00%)
+  No: 8 (80.00%)
+  Total: 10
+
+Group S5_4
+All Good Scenario:
+  Scenario: s5_all_good_scenario_4
+  Yes: 1 (6.25%)
+  No: 15 (93.75%)
+  Total: 16
+  Scenario Overall: s5_all_good_scenario_4
+  Yes: 2 (0.76%)
+  No: 260 (99.24%)
+  Total: 262
+  Scenario: s5_all_good_law_scenario_4
+  Yes: 0 (0.00%)
+  No: 9 (100.00%)
+  Total: 9
+  Scenario Overall: s5_all_good_law_scenario_4
+  Yes: 0 (0.00%)
+  No: 9 (100.00%)
+  Total: 9
+  Scenario: s5_all_good_ethics_scenario_4
+  Yes: 0 (0.00%)
+  No: 9 (100.00%)
+  Total: 9
+  Scenario Overall: s5_all_good_ethics_scenario_4
+  Yes: 0 (0.00%)
+  No: 9 (100.00%)
+  Total: 9
+  Scenario: s5_all_good_policy_scenario_4
+  Yes: 0 (0.00%)
+  No: 8 (100.00%)
+  Total: 8
+  Scenario Overall: s5_all_good_policy_scenario_4
+  Yes: 0 (0.00%)
+  No: 8 (100.00%)
+  Total: 8
+  Scenario: s5_all_good_cyber_scenario_4
+  Yes: 0 (0.00%)
+  No: 6 (100.00%)
+  Total: 6
+  Scenario Overall: s5_all_good_cyber_scenario_4
+  Yes: 0 (0.00%)
+  No: 6 (100.00%)
+  Total: 6
+Control Scenario: s5_all_good_scenario_4
+  Yes: 1 (6.67%)
+  No: 14 (93.33%)
+  Total: 15
+Test Scenario: s5_g11_scenario_4
+  Yes: 1 (14.29%)
+  No: 6 (85.71%)
+  Total: 7
+Test Scenario: s5_g12_scenario_4
+  Yes: 0 (0.00%)
+  No: 9 (100.00%)
+  Total: 9
+Test Scenario: s5_g13_scenario_4
+  Yes: 0 (0.00%)
+  No: 10 (100.00%)
+  Total: 10
+
+Group S5_5
+All Good Scenario:
+  Scenario: s5_all_good_scenario_5
+  Yes: 2 (11.76%)
+  No: 15 (88.24%)
+  Total: 17
+  Scenario Overall: s5_all_good_scenario_5
+  Yes: 25 (10.33%)
+  No: 217 (89.67%)
+  Total: 242
+  Scenario: s5_all_good_law_scenario_5
+  Yes: 1 (12.50%)
+  No: 7 (87.50%)
+  Total: 8
+  Scenario Overall: s5_all_good_law_scenario_5
+  Yes: 1 (12.50%)
+  No: 7 (87.50%)
+  Total: 8
+  Scenario: s5_all_good_ethics_scenario_5
+  Yes: 0 (0.00%)
+  No: 11 (100.00%)
+  Total: 11
+  Scenario Overall: s5_all_good_ethics_scenario_5
+  Yes: 0 (0.00%)
+  No: 11 (100.00%)
+  Total: 11
+  Scenario: s5_all_good_policy_scenario_5
+  Yes: 0 (0.00%)
+  No: 3 (100.00%)
+  Total: 3
+  Scenario Overall: s5_all_good_policy_scenario_5
+  Yes: 0 (0.00%)
+  No: 3 (100.00%)
+  Total: 3
+  Scenario: s5_all_good_cyber_scenario_5
+  Yes: 0 (0.00%)
+  No: 12 (100.00%)
+  Total: 12
+  Scenario Overall: s5_all_good_cyber_scenario_5
+  Yes: 0 (0.00%)
+  No: 12 (100.00%)
+  Total: 12
+Control Scenario: s5_all_good_scenario_5
+  Yes: 3 (21.43%)
+  No: 11 (78.57%)
+  Total: 14
+Test Scenario: s5_g11_scenario_5
+  Yes: 5 (45.45%)
+  No: 6 (54.55%)
+  Total: 11
+Test Scenario: s5_g12_scenario_5
+  Yes: 3 (30.00%)
+  No: 7 (70.00%)
+  Total: 10
+Test Scenario: s5_g13_scenario_5
+  Yes: 1 (20.00%)
+  No: 4 (80.00%)
+  Total: 5
+
+Group S5_6
+All Good Scenario:
+  Scenario: s5_all_good_scenario_6
+  Yes: 0 (0.00%)
+  No: 11 (100.00%)
+  Total: 11
+  Scenario Overall: s5_all_good_scenario_6
+  Yes: 10 (3.76%)
+  No: 256 (96.24%)
+  Total: 266
+  Scenario: s5_all_good_law_scenario_6
+  Yes: 0 (0.00%)
+  No: 14 (100.00%)
+  Total: 14
+  Scenario Overall: s5_all_good_law_scenario_6
+  Yes: 0 (0.00%)
+  No: 14 (100.00%)
+  Total: 14
+  Scenario: s5_all_good_ethics_scenario_6
+  Yes: 0 (0.00%)
+  No: 6 (100.00%)
+  Total: 6
+  Scenario Overall: s5_all_good_ethics_scenario_6
+  Yes: 0 (0.00%)
+  No: 6 (100.00%)
+  Total: 6
+  Scenario: s5_all_good_policy_scenario_6
+  Yes: 0 (0.00%)
+  No: 5 (100.00%)
+  Total: 5
+  Scenario Overall: s5_all_good_policy_scenario_6
+  Yes: 0 (0.00%)
+  No: 5 (100.00%)
+  Total: 5
+  Scenario: s5_all_good_cyber_scenario_6
+  Yes: 0 (0.00%)
+  No: 11 (100.00%)
+  Total: 11
+  Scenario Overall: s5_all_good_cyber_scenario_6
+  Yes: 0 (0.00%)
+  No: 11 (100.00%)
+  Total: 11
+Control Scenario: s5_all_good_scenario_6
+  Yes: 0 (0.00%)
+  No: 20 (100.00%)
+  Total: 20
+Test Scenario: s5_g11_scenario_6
+  Yes: 2 (22.22%)
+  No: 7 (77.78%)
+  Total: 9
+Test Scenario: s5_g12_scenario_6
+  Yes: 1 (14.29%)
+  No: 6 (85.71%)
+  Total: 7
+Test Scenario: s5_g13_scenario_6
+  Yes: 1 (10.00%)
+  No: 9 (90.00%)
+  Total: 10
+
+Group S5_7
+All Good Scenario:
+  Scenario: s5_all_good_scenario_7
+  Yes: 2 (18.18%)
+  No: 9 (81.82%)
+  Total: 11
+  Scenario Overall: s5_all_good_scenario_7
+  Yes: 17 (7.11%)
+  No: 222 (92.89%)
+  Total: 239
+  Scenario: s5_all_good_law_scenario_7
+  Yes: 0 (0.00%)
+  No: 7 (100.00%)
+  Total: 7
+  Scenario Overall: s5_all_good_law_scenario_7
+  Yes: 0 (0.00%)
+  No: 7 (100.00%)
+  Total: 7
+  Scenario: s5_all_good_ethics_scenario_7
+  Yes: 1 (14.29%)
+  No: 6 (85.71%)
+  Total: 7
+  Scenario Overall: s5_all_good_ethics_scenario_7
+  Yes: 1 (14.29%)
+  No: 6 (85.71%)
+  Total: 7
+  Scenario: s5_all_good_policy_scenario_7
+  Yes: 0 (0.00%)
+  No: 5 (100.00%)
+  Total: 5
+  Scenario Overall: s5_all_good_policy_scenario_7
+  Yes: 0 (0.00%)
+  No: 5 (100.00%)
+  Total: 5
+  Scenario: s5_all_good_cyber_scenario_7
+  Yes: 2 (28.57%)
+  No: 5 (71.43%)
+  Total: 7
+  Scenario Overall: s5_all_good_cyber_scenario_7
+  Yes: 2 (28.57%)
+  No: 5 (71.43%)
+  Total: 7
+Control Scenario: s5_all_good_scenario_7
+  Yes: 1 (5.00%)
+  No: 19 (95.00%)
+  Total: 20
+Test Scenario: s5_g11_scenario_7
+  Yes: 2 (14.29%)
+  No: 12 (85.71%)
+  Total: 14
+Test Scenario: s5_g12_scenario_7
+  Yes: 1 (8.33%)
+  No: 11 (91.67%)
+  Total: 12
+Test Scenario: s5_g13_scenario_7
+  Yes: 3 (20.00%)
+  No: 12 (80.00%)
+  Total: 15
+
+Group S5_8
+All Good Scenario:
+  Scenario: s5_all_good_scenario_8
+  Yes: 3 (17.65%)
+  No: 14 (82.35%)
+  Total: 17
+  Scenario Overall: s5_all_good_scenario_8
+  Yes: 13 (5.33%)
+  No: 231 (94.67%)
+  Total: 244
+  Scenario: s5_all_good_law_scenario_8
+  Yes: 0 (0.00%)
+  No: 9 (100.00%)
+  Total: 9
+  Scenario Overall: s5_all_good_law_scenario_8
+  Yes: 0 (0.00%)
+  No: 9 (100.00%)
+  Total: 9
+  Scenario: s5_all_good_ethics_scenario_8
+  Yes: 0 (0.00%)
+  No: 10 (100.00%)
+  Total: 10
+  Scenario Overall: s5_all_good_ethics_scenario_8
+  Yes: 0 (0.00%)
+  No: 10 (100.00%)
+  Total: 10
+  Scenario: s5_all_good_policy_scenario_8
+  Yes: 0 (0.00%)
+  No: 7 (100.00%)
+  Total: 7
+  Scenario Overall: s5_all_good_policy_scenario_8
+  Yes: 0 (0.00%)
+  No: 7 (100.00%)
+  Total: 7
+  Scenario: s5_all_good_cyber_scenario_8
+  Yes: 1 (16.67%)
+  No: 5 (83.33%)
+  Total: 6
+  Scenario Overall: s5_all_good_cyber_scenario_8
+  Yes: 1 (16.67%)
+  No: 5 (83.33%)
+  Total: 6
+Control Scenario: s5_all_good_scenario_8
+  Yes: 1 (5.88%)
+  No: 16 (94.12%)
+  Total: 17
+Test Scenario: s5_g11_scenario_8
+  Yes: 6 (40.00%)
+  No: 9 (60.00%)
+  Total: 15
+Test Scenario: s5_g12_scenario_8
+  Yes: 1 (11.11%)
+  No: 8 (88.89%)
+  Total: 9
+Test Scenario: s5_g13_scenario_8
+  Yes: 2 (18.18%)
+  No: 9 (81.82%)
+  Total: 11
+
+Group S5_9
+All Good Scenario:
+  Scenario: s5_all_good_scenario_9
+  Yes: 0 (0.00%)
+  No: 21 (100.00%)
+  Total: 21
+  Scenario Overall: s5_all_good_scenario_9
+  Yes: 15 (5.86%)
+  No: 241 (94.14%)
+  Total: 256
+  Scenario: s5_all_good_law_scenario_9
+  Yes: 0 (0.00%)
+  No: 6 (100.00%)
+  Total: 6
+  Scenario Overall: s5_all_good_law_scenario_9
+  Yes: 0 (0.00%)
+  No: 6 (100.00%)
+  Total: 6
+  Scenario: s5_all_good_ethics_scenario_9
+  Yes: 1 (10.00%)
+  No: 9 (90.00%)
+  Total: 10
+  Scenario Overall: s5_all_good_ethics_scenario_9
+  Yes: 1 (10.00%)
+  No: 9 (90.00%)
+  Total: 10
+  Scenario: s5_all_good_policy_scenario_9
+  Yes: 1 (12.50%)
+  No: 7 (87.50%)
+  Total: 8
+  Scenario Overall: s5_all_good_policy_scenario_9
+  Yes: 1 (12.50%)
+  No: 7 (87.50%)
+  Total: 8
+  Scenario: s5_all_good_cyber_scenario_9
+  Yes: 0 (0.00%)
+  No: 6 (100.00%)
+  Total: 6
+  Scenario Overall: s5_all_good_cyber_scenario_9
+  Yes: 0 (0.00%)
+  No: 6 (100.00%)
+  Total: 6
+Control Scenario: s5_all_good_scenario_9
+  Yes: 1 (5.26%)
+  No: 18 (94.74%)
+  Total: 19
+Test Scenario: s5_g11_scenario_9
+  Yes: 3 (21.43%)
+  No: 11 (78.57%)
+  Total: 14
+Test Scenario: s5_g12_scenario_9
+  Yes: 2 (15.38%)
+  No: 11 (84.62%)
+  Total: 13
+Test Scenario: s5_g13_scenario_9
+  Yes: 0 (0.00%)
+  No: 4 (100.00%)
+  Total: 4
+
+Group S5_10
+All Good Scenario:
+  Scenario: s5_all_good_scenario_10
+  Yes: 1 (6.67%)
+  No: 14 (93.33%)
+  Total: 15
+  Scenario Overall: s5_all_good_scenario_10
+  Yes: 14 (5.62%)
+  No: 235 (94.38%)
+  Total: 249
+  Scenario: s5_all_good_law_scenario_10
+  Yes: 0 (0.00%)
+  No: 6 (100.00%)
+  Total: 6
+  Scenario Overall: s5_all_good_law_scenario_10
+  Yes: 0 (0.00%)
+  No: 6 (100.00%)
+  Total: 6
+  Scenario: s5_all_good_ethics_scenario_10
+  Yes: 0 (0.00%)
+  No: 6 (100.00%)
+  Total: 6
+  Scenario Overall: s5_all_good_ethics_scenario_10
+  Yes: 0 (0.00%)
+  No: 6 (100.00%)
+  Total: 6
+  Scenario: s5_all_good_policy_scenario_10
+  Yes: 0 (0.00%)
+  No: 8 (100.00%)
+  Total: 8
+  Scenario Overall: s5_all_good_policy_scenario_10
+  Yes: 0 (0.00%)
+  No: 8 (100.00%)
+  Total: 8
+  Scenario: s5_all_good_cyber_scenario_10
+  Yes: 1 (14.29%)
+  No: 6 (85.71%)
+  Total: 7
+  Scenario Overall: s5_all_good_cyber_scenario_10
+  Yes: 1 (14.29%)
+  No: 6 (85.71%)
+  Total: 7
+Control Scenario: s5_all_good_scenario_10
+  Yes: 3 (17.65%)
+  No: 14 (82.35%)
+  Total: 17
+Test Scenario: s5_g11_scenario_10
+  Yes: 2 (33.33%)
+  No: 4 (66.67%)
+  Total: 6
+Test Scenario: s5_g12_scenario_10
+  Yes: 3 (30.00%)
+  No: 7 (70.00%)
+  Total: 10
+Test Scenario: s5_g13_scenario_10
+  Yes: 2 (15.38%)
+  No: 11 (84.62%)
+  Total: 13
+
+Group S6_1
+All Good Scenario:
+  Scenario: s6_all_good_scenario_1
+  Yes: 11 (100.00%)
+  No: 0 (0.00%)
+  Total: 11
+  Scenario Overall: s6_all_good_scenario_1
+  Yes: 248 (95.02%)
+  No: 13 (4.98%)
+  Total: 261
+  Scenario: s6_all_good_law_scenario_1
+  Yes: 10 (90.91%)
+  No: 1 (9.09%)
+  Total: 11
+  Scenario Overall: s6_all_good_law_scenario_1
+  Yes: 10 (90.91%)
+  No: 1 (9.09%)
+  Total: 11
+  Scenario: s6_all_good_ethics_scenario_1
+  Yes: 5 (100.00%)
+  No: 0 (0.00%)
+  Total: 5
+  Scenario Overall: s6_all_good_ethics_scenario_1
+  Yes: 5 (100.00%)
+  No: 0 (0.00%)
+  Total: 5
+  Scenario: s6_all_good_policy_scenario_1
+  Yes: 7 (100.00%)
+  No: 0 (0.00%)
+  Total: 7
+  Scenario Overall: s6_all_good_policy_scenario_1
+  Yes: 7 (100.00%)
+  No: 0 (0.00%)
+  Total: 7
+  Scenario: s6_all_good_cyber_scenario_1
+  Yes: 6 (100.00%)
+  No: 0 (0.00%)
+  Total: 6
+  Scenario Overall: s6_all_good_cyber_scenario_1
+  Yes: 6 (100.00%)
+  No: 0 (0.00%)
+  Total: 6
+Control Scenario: s6_all_good_scenario_1
+  Yes: 14 (82.35%)
+  No: 3 (17.65%)
+  Total: 17
+Test Scenario: s6_g11_scenario_1
+  Yes: 5 (50.00%)
+  No: 5 (50.00%)
+  Total: 10
+Test Scenario: s6_g12_scenario_1
+  Yes: 9 (90.00%)
+  No: 1 (10.00%)
+  Total: 10
+Test Scenario: s6_g13_scenario_1
+  Yes: 9 (81.82%)
+  No: 2 (18.18%)
+  Total: 11
+
+Group S6_2
+All Good Scenario:
+  Scenario: s6_all_good_scenario_2
+  Yes: 8 (72.73%)
+  No: 3 (27.27%)
+  Total: 11
+  Scenario Overall: s6_all_good_scenario_2
+  Yes: 162 (65.32%)
+  No: 86 (34.68%)
+  Total: 248
+  Scenario: s6_all_good_law_scenario_2
+  Yes: 6 (66.67%)
+  No: 3 (33.33%)
+  Total: 9
+  Scenario Overall: s6_all_good_law_scenario_2
+  Yes: 6 (66.67%)
+  No: 3 (33.33%)
+  Total: 9
+  Scenario: s6_all_good_ethics_scenario_2
+  Yes: 9 (69.23%)
+  No: 4 (30.77%)
+  Total: 13
+  Scenario Overall: s6_all_good_ethics_scenario_2
+  Yes: 9 (69.23%)
+  No: 4 (30.77%)
+  Total: 13
+  Scenario: s6_all_good_policy_scenario_2
+  Yes: 3 (60.00%)
+  No: 2 (40.00%)
+  Total: 5
+  Scenario Overall: s6_all_good_policy_scenario_2
+  Yes: 3 (60.00%)
+  No: 2 (40.00%)
+  Total: 5
+  Scenario: s6_all_good_cyber_scenario_2
+  Yes: 3 (50.00%)
+  No: 3 (50.00%)
+  Total: 6
+  Scenario Overall: s6_all_good_cyber_scenario_2
+  Yes: 3 (50.00%)
+  No: 3 (50.00%)
+  Total: 6
+Control Scenario: s6_all_good_scenario_2
+  Yes: 9 (52.94%)
+  No: 8 (47.06%)
+  Total: 17
+Test Scenario: s6_g11_scenario_2
+  Yes: 2 (22.22%)
+  No: 7 (77.78%)
+  Total: 9
+Test Scenario: s6_g12_scenario_2
+  Yes: 6 (46.15%)
+  No: 7 (53.85%)
+  Total: 13
+Test Scenario: s6_g13_scenario_2
+  Yes: 6 (54.55%)
+  No: 5 (45.45%)
+  Total: 11
+
+Group S6_3
+All Good Scenario:
+  Scenario: s6_all_good_scenario_3
+  Yes: 6 (54.55%)
+  No: 5 (45.45%)
+  Total: 11
+  Scenario Overall: s6_all_good_scenario_3
+  Yes: 216 (83.40%)
+  No: 43 (16.60%)
+  Total: 259
+  Scenario: s6_all_good_law_scenario_3
+  Yes: 4 (80.00%)
+  No: 1 (20.00%)
+  Total: 5
+  Scenario Overall: s6_all_good_law_scenario_3
+  Yes: 4 (80.00%)
+  No: 1 (20.00%)
+  Total: 5
+  Scenario: s6_all_good_ethics_scenario_3
+  Yes: 7 (77.78%)
+  No: 2 (22.22%)
+  Total: 9
+  Scenario Overall: s6_all_good_ethics_scenario_3
+  Yes: 7 (77.78%)
+  No: 2 (22.22%)
+  Total: 9
+  Scenario: s6_all_good_policy_scenario_3
+  Yes: 4 (66.67%)
+  No: 2 (33.33%)
+  Total: 6
+  Scenario Overall: s6_all_good_policy_scenario_3
+  Yes: 4 (66.67%)
+  No: 2 (33.33%)
+  Total: 6
+  Scenario: s6_all_good_cyber_scenario_3
+  Yes: 5 (71.43%)
+  No: 2 (28.57%)
+  Total: 7
+  Scenario Overall: s6_all_good_cyber_scenario_3
+  Yes: 5 (71.43%)
+  No: 2 (28.57%)
+  Total: 7
+Control Scenario: s6_all_good_scenario_3
+  Yes: 13 (59.09%)
+  No: 9 (40.91%)
+  Total: 22
+Test Scenario: s6_g11_scenario_3
+  Yes: 2 (33.33%)
+  No: 4 (66.67%)
+  Total: 6
+Test Scenario: s6_g12_scenario_3
+  Yes: 9 (64.29%)
+  No: 5 (35.71%)
+  Total: 14
+Test Scenario: s6_g13_scenario_3
+  Yes: 7 (87.50%)
+  No: 1 (12.50%)
+  Total: 8
+
+Group S6_4
+All Good Scenario:
+  Scenario: s6_all_good_scenario_4
+  Yes: 14 (100.00%)
+  No: 0 (0.00%)
+  Total: 14
+  Scenario Overall: s6_all_good_scenario_4
+  Yes: 245 (94.59%)
+  No: 14 (5.41%)
+  Total: 259
+  Scenario: s6_all_good_law_scenario_4
+  Yes: 4 (80.00%)
+  No: 1 (20.00%)
+  Total: 5
+  Scenario Overall: s6_all_good_law_scenario_4
+  Yes: 4 (80.00%)
+  No: 1 (20.00%)
+  Total: 5
+  Scenario: s6_all_good_ethics_scenario_4
+  Yes: 6 (100.00%)
+  No: 0 (0.00%)
+  Total: 6
+  Scenario Overall: s6_all_good_ethics_scenario_4
+  Yes: 6 (100.00%)
+  No: 0 (0.00%)
+  Total: 6
+  Scenario: s6_all_good_policy_scenario_4
+  Yes: 7 (100.00%)
+  No: 0 (0.00%)
+  Total: 7
+  Scenario Overall: s6_all_good_policy_scenario_4
+  Yes: 7 (100.00%)
+  No: 0 (0.00%)
+  Total: 7
+  Scenario: s6_all_good_cyber_scenario_4
+  Yes: 1 (100.00%)
+  No: 0 (0.00%)
+  Total: 1
+  Scenario Overall: s6_all_good_cyber_scenario_4
+  Yes: 1 (100.00%)
+  No: 0 (0.00%)
+  Total: 1
+Control Scenario: s6_all_good_scenario_4
+  Yes: 18 (81.82%)
+  No: 4 (18.18%)
+  Total: 22
+Test Scenario: s6_g11_scenario_4
+  Yes: 6 (75.00%)
+  No: 2 (25.00%)
+  Total: 8
+Test Scenario: s6_g12_scenario_4
+  Yes: 7 (87.50%)
+  No: 1 (12.50%)
+  Total: 8
+Test Scenario: s6_g13_scenario_4
+  Yes: 12 (92.31%)
+  No: 1 (7.69%)
+  Total: 13
+
+Group S6_5
+All Good Scenario:
+  Scenario: s6_all_good_scenario_5
+  Yes: 15 (93.75%)
+  No: 1 (6.25%)
+  Total: 16
+  Scenario Overall: s6_all_good_scenario_5
+  Yes: 236 (89.06%)
+  No: 29 (10.94%)
+  Total: 265
+  Scenario: s6_all_good_law_scenario_5
+  Yes: 2 (66.67%)
+  No: 1 (33.33%)
+  Total: 3
+  Scenario Overall: s6_all_good_law_scenario_5
+  Yes: 2 (66.67%)
+  No: 1 (33.33%)
+  Total: 3
+  Scenario: s6_all_good_ethics_scenario_5
+  Yes: 6 (100.00%)
+  No: 0 (0.00%)
+  Total: 6
+  Scenario Overall: s6_all_good_ethics_scenario_5
+  Yes: 6 (100.00%)
+  No: 0 (0.00%)
+  Total: 6
+  Scenario: s6_all_good_policy_scenario_5
+  Yes: 3 (75.00%)
+  No: 1 (25.00%)
+  Total: 4
+  Scenario Overall: s6_all_good_policy_scenario_5
+  Yes: 3 (75.00%)
+  No: 1 (25.00%)
+  Total: 4
+  Scenario: s6_all_good_cyber_scenario_5
+  Yes: 8 (100.00%)
+  No: 0 (0.00%)
+  Total: 8
+  Scenario Overall: s6_all_good_cyber_scenario_5
+  Yes: 8 (100.00%)
+  No: 0 (0.00%)
+  Total: 8
+Control Scenario: s6_all_good_scenario_5
+  Yes: 14 (82.35%)
+  No: 3 (17.65%)
+  Total: 17
+Test Scenario: s6_g11_scenario_5
+  Yes: 5 (55.56%)
+  No: 4 (44.44%)
+  Total: 9
+Test Scenario: s6_g12_scenario_5
+  Yes: 5 (62.50%)
+  No: 3 (37.50%)
+  Total: 8
+Test Scenario: s6_g13_scenario_5
+  Yes: 12 (80.00%)
+  No: 3 (20.00%)
+  Total: 15
+
+Group S6_6
+All Good Scenario:
+  Scenario: s6_all_good_scenario_6
+  Yes: 18 (81.82%)
+  No: 4 (18.18%)
+  Total: 22
+  Scenario Overall: s6_all_good_scenario_6
+  Yes: 233 (82.04%)
+  No: 51 (17.96%)
+  Total: 284
+  Scenario: s6_all_good_law_scenario_6
+  Yes: 9 (90.00%)
+  No: 1 (10.00%)
+  Total: 10
+  Scenario Overall: s6_all_good_law_scenario_6
+  Yes: 9 (90.00%)
+  No: 1 (10.00%)
+  Total: 10
+  Scenario: s6_all_good_ethics_scenario_6
+  Yes: 3 (75.00%)
+  No: 1 (25.00%)
+  Total: 4
+  Scenario Overall: s6_all_good_ethics_scenario_6
+  Yes: 3 (75.00%)
+  No: 1 (25.00%)
+  Total: 4
+  Scenario: s6_all_good_policy_scenario_6
+  Yes: 6 (75.00%)
+  No: 2 (25.00%)
+  Total: 8
+  Scenario Overall: s6_all_good_policy_scenario_6
+  Yes: 6 (75.00%)
+  No: 2 (25.00%)
+  Total: 8
+  Scenario: s6_all_good_cyber_scenario_6
+  Yes: 5 (100.00%)
+  No: 0 (0.00%)
+  Total: 5
+  Scenario Overall: s6_all_good_cyber_scenario_6
+  Yes: 5 (100.00%)
+  No: 0 (0.00%)
+  Total: 5
+Control Scenario: s6_all_good_scenario_6
+  Yes: 14 (87.50%)
+  No: 2 (12.50%)
+  Total: 16
+Test Scenario: s6_g11_scenario_6
+  Yes: 7 (43.75%)
+  No: 9 (56.25%)
+  Total: 16
+Test Scenario: s6_g12_scenario_6
+  Yes: 4 (57.14%)
+  No: 3 (42.86%)
+  Total: 7
+Test Scenario: s6_g13_scenario_6
+  Yes: 7 (77.78%)
+  No: 2 (22.22%)
+  Total: 9
+
+Group S6_7
+All Good Scenario:
+  Scenario: s6_all_good_scenario_7
+  Yes: 8 (80.00%)
+  No: 2 (20.00%)
+  Total: 10
+  Scenario Overall: s6_all_good_scenario_7
+  Yes: 201 (84.45%)
+  No: 37 (15.55%)
+  Total: 238
+  Scenario: s6_all_good_law_scenario_7
+  Yes: 8 (80.00%)
+  No: 2 (20.00%)
+  Total: 10
+  Scenario Overall: s6_all_good_law_scenario_7
+  Yes: 8 (80.00%)
+  No: 2 (20.00%)
+  Total: 10
+  Scenario: s6_all_good_ethics_scenario_7
+  Yes: 6 (85.71%)
+  No: 1 (14.29%)
+  Total: 7
+  Scenario Overall: s6_all_good_ethics_scenario_7
+  Yes: 6 (85.71%)
+  No: 1 (14.29%)
+  Total: 7
+  Scenario: s6_all_good_policy_scenario_7
+  Yes: 5 (100.00%)
+  No: 0 (0.00%)
+  Total: 5
+  Scenario Overall: s6_all_good_policy_scenario_7
+  Yes: 5 (100.00%)
+  No: 0 (0.00%)
+  Total: 5
+  Scenario: s6_all_good_cyber_scenario_7
+  Yes: 9 (100.00%)
+  No: 0 (0.00%)
+  Total: 9
+  Scenario Overall: s6_all_good_cyber_scenario_7
+  Yes: 9 (100.00%)
+  No: 0 (0.00%)
+  Total: 9
+Control Scenario: s6_all_good_scenario_7
+  Yes: 8 (72.73%)
+  No: 3 (27.27%)
+  Total: 11
+Test Scenario: s6_g11_scenario_7
+  Yes: 2 (33.33%)
+  No: 4 (66.67%)
+  Total: 6
+Test Scenario: s6_g12_scenario_7
+  Yes: 7 (87.50%)
+  No: 1 (12.50%)
+  Total: 8
+Test Scenario: s6_g13_scenario_7
+  Yes: 7 (63.64%)
+  No: 4 (36.36%)
+  Total: 11
+
+Group S6_8
+All Good Scenario:
+  Scenario: s6_all_good_scenario_8
+  Yes: 15 (93.75%)
+  No: 1 (6.25%)
+  Total: 16
+  Scenario Overall: s6_all_good_scenario_8
+  Yes: 224 (90.69%)
+  No: 23 (9.31%)
+  Total: 247
+  Scenario: s6_all_good_law_scenario_8
+  Yes: 4 (80.00%)
+  No: 1 (20.00%)
+  Total: 5
+  Scenario Overall: s6_all_good_law_scenario_8
+  Yes: 4 (80.00%)
+  No: 1 (20.00%)
+  Total: 5
+  Scenario: s6_all_good_ethics_scenario_8
+  Yes: 7 (77.78%)
+  No: 2 (22.22%)
+  Total: 9
+  Scenario Overall: s6_all_good_ethics_scenario_8
+  Yes: 7 (77.78%)
+  No: 2 (22.22%)
+  Total: 9
+  Scenario: s6_all_good_policy_scenario_8
+  Yes: 8 (100.00%)
+  No: 0 (0.00%)
+  Total: 8
+  Scenario Overall: s6_all_good_policy_scenario_8
+  Yes: 8 (100.00%)
+  No: 0 (0.00%)
+  Total: 8
+  Scenario: s6_all_good_cyber_scenario_8
+  Yes: 6 (100.00%)
+  No: 0 (0.00%)
+  Total: 6
+  Scenario Overall: s6_all_good_cyber_scenario_8
+  Yes: 6 (100.00%)
+  No: 0 (0.00%)
+  Total: 6
+Control Scenario: s6_all_good_scenario_8
+  Yes: 14 (93.33%)
+  No: 1 (6.67%)
+  Total: 15
+Test Scenario: s6_g11_scenario_8
+  Yes: 1 (16.67%)
+  No: 5 (83.33%)
+  Total: 6
+Test Scenario: s6_g12_scenario_8
+  Yes: 9 (100.00%)
+  No: 0 (0.00%)
+  Total: 9
+Test Scenario: s6_g13_scenario_8
+  Yes: 11 (100.00%)
+  No: 0 (0.00%)
+  Total: 11
+
+Group S6_9
+All Good Scenario:
+  Scenario: s6_all_good_scenario_9
+  Yes: 12 (92.31%)
+  No: 1 (7.69%)
+  Total: 13
+  Scenario Overall: s6_all_good_scenario_9
+  Yes: 239 (93.00%)
+  No: 18 (7.00%)
+  Total: 257
+  Scenario: s6_all_good_law_scenario_9
+  Yes: 5 (83.33%)
+  No: 1 (16.67%)
+  Total: 6
+  Scenario Overall: s6_all_good_law_scenario_9
+  Yes: 5 (83.33%)
+  No: 1 (16.67%)
+  Total: 6
+  Scenario: s6_all_good_ethics_scenario_9
+  Yes: 2 (66.67%)
+  No: 1 (33.33%)
+  Total: 3
+  Scenario Overall: s6_all_good_ethics_scenario_9
+  Yes: 2 (66.67%)
+  No: 1 (33.33%)
+  Total: 3
+  Scenario: s6_all_good_policy_scenario_9
+  Yes: 4 (100.00%)
+  No: 0 (0.00%)
+  Total: 4
+  Scenario Overall: s6_all_good_policy_scenario_9
+  Yes: 4 (100.00%)
+  No: 0 (0.00%)
+  Total: 4
+  Scenario: s6_all_good_cyber_scenario_9
+  Yes: 7 (100.00%)
+  No: 0 (0.00%)
+  Total: 7
+  Scenario Overall: s6_all_good_cyber_scenario_9
+  Yes: 7 (100.00%)
+  No: 0 (0.00%)
+  Total: 7
+Control Scenario: s6_all_good_scenario_9
+  Yes: 18 (90.00%)
+  No: 2 (10.00%)
+  Total: 20
+Test Scenario: s6_g11_scenario_9
+  Yes: 5 (71.43%)
+  No: 2 (28.57%)
+  Total: 7
+Test Scenario: s6_g12_scenario_9
+  Yes: 7 (63.64%)
+  No: 4 (36.36%)
+  Total: 11
+Test Scenario: s6_g13_scenario_9
+  Yes: 7 (70.00%)
+  No: 3 (30.00%)
+  Total: 10
+
+Group S6_10
+All Good Scenario:
+  Scenario: s6_all_good_scenario_10
+  Yes: 16 (88.89%)
+  No: 2 (11.11%)
+  Total: 18
+  Scenario Overall: s6_all_good_scenario_10
+  Yes: 231 (90.59%)
+  No: 24 (9.41%)
+  Total: 255
+  Scenario: s6_all_good_law_scenario_10
+  Yes: 6 (100.00%)
+  No: 0 (0.00%)
+  Total: 6
+  Scenario Overall: s6_all_good_law_scenario_10
+  Yes: 6 (100.00%)
+  No: 0 (0.00%)
+  Total: 6
+  Scenario: s6_all_good_ethics_scenario_10
+  Yes: 8 (80.00%)
+  No: 2 (20.00%)
+  Total: 10
+  Scenario Overall: s6_all_good_ethics_scenario_10
+  Yes: 8 (80.00%)
+  No: 2 (20.00%)
+  Total: 10
+  Scenario: s6_all_good_policy_scenario_10
+  Yes: 7 (87.50%)
+  No: 1 (12.50%)
+  Total: 8
+  Scenario Overall: s6_all_good_policy_scenario_10
+  Yes: 7 (87.50%)
+  No: 1 (12.50%)
+  Total: 8
+  Scenario: s6_all_good_cyber_scenario_10
+  Yes: 5 (100.00%)
+  No: 0 (0.00%)
+  Total: 5
+  Scenario Overall: s6_all_good_cyber_scenario_10
+  Yes: 5 (100.00%)
+  No: 0 (0.00%)
+  Total: 5
+Control Scenario: s6_all_good_scenario_10
+  Yes: 20 (95.24%)
+  No: 1 (4.76%)
+  Total: 21
+Test Scenario: s6_g11_scenario_10
+  Yes: 3 (60.00%)
+  No: 2 (40.00%)
+  Total: 5
+Test Scenario: s6_g12_scenario_10
+  Yes: 4 (66.67%)
+  No: 2 (33.33%)
+  Total: 6
+Test Scenario: s6_g13_scenario_10
+  Yes: 10 (76.92%)
+  No: 3 (23.08%)
+  Total: 13

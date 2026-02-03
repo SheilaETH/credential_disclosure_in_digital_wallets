@@ -1,0 +1,43 @@
+Website category,Credential,Europe Total #,Europe Accept #,Europe Accept %,USA Total #,USA Accept #,USA Accept %,Difference %,Chi2 Value,p-Value
+Job Platforms,Bank credentials,443,12,2.71%,444,12,2.70%,0.01%,0.0,0.9955
+Job Platforms,Birth certificate,443,17,3.84%,444,11,2.48%,1.36%,1.34,0.2467
+Job Platforms,Diploma,443,317,71.56%,444,301,67.79%,3.76%,1.49,0.2226
+Job Platforms,Disability status,443,79,17.83%,444,58,13.06%,4.77%,3.86,0.0494
+Job Platforms,Driver's license,443,97,21.90%,444,72,16.22%,5.68%,4.64,0.0313
+Job Platforms,Employment history,443,379,85.55%,444,371,83.56%,1.99%,0.68,0.4112
+Job Platforms,Health insurance,443,18,4.06%,444,15,3.38%,0.68%,0.29,0.59
+Job Platforms,Marriage certificate,443,11,2.48%,444,4,0.90%,1.58%,3.34,0.0677
+Job Platforms,Medical records,443,14,3.16%,444,12,2.70%,0.46%,0.16,0.6863
+Job Platforms,Official Identity Document,443,252,56.88%,444,233,52.48%,4.41%,1.74,0.1874
+Job Platforms,Prescriptions,443,5,1.13%,444,3,0.68%,0.45%,0.51,0.4755
+Job Platforms,Professional licenses,443,321,72.46%,444,318,71.62%,0.84%,0.08,0.7808
+Job Platforms,University transcript,443,181,40.86%,444,149,33.56%,7.30%,5.06,0.0245
+Job Platforms,Visa,443,69,15.58%,444,57,12.84%,2.74%,1.36,0.2429
+Air Travel,Bank credentials,479,155,32.36%,465,161,34.62%,-2.26%,0.54,0.461
+Air Travel,Birth certificate,479,13,2.71%,465,14,3.01%,-0.30%,0.07,0.7845
+Air Travel,Diploma,479,4,0.84%,465,2,0.43%,0.40%,0.61,0.4338
+Air Travel,Disability status,479,97,20.25%,465,90,19.35%,0.90%,0.12,0.7299
+Air Travel,Driver's license,479,34,7.10%,465,37,7.96%,-0.86%,0.25,0.6169
+Air Travel,Employment history,479,5,1.04%,465,3,0.65%,0.40%,0.45,0.5041
+Air Travel,Health insurance,479,43,8.98%,465,35,7.53%,1.45%,0.65,0.4185
+Air Travel,Marriage certificate,479,6,1.25%,465,6,1.29%,-0.04%,0.0,0.9588
+Air Travel,Medical records,479,20,4.18%,465,16,3.44%,0.73%,0.35,0.5558
+Air Travel,Official Identity Document,479,373,77.87%,465,328,70.54%,7.33%,6.64,0.01
+Air Travel,Prescriptions,479,11,2.30%,465,12,2.58%,-0.28%,0.08,0.7771
+Air Travel,Professional licenses,479,8,1.67%,465,6,1.29%,0.38%,0.23,0.6293
+Air Travel,University transcript,479,3,0.63%,465,4,0.86%,-0.23%,0.18,0.6754
+Air Travel,Visa,479,210,43.84%,465,197,42.37%,1.48%,0.21,0.6471
+E-Commerce,Bank credentials,478,149,31.17%,450,165,36.67%,-5.50%,3.13,0.077
+E-Commerce,Birth certificate,478,9,1.88%,450,4,0.89%,0.99%,1.66,0.1979
+E-Commerce,Diploma,478,6,1.26%,450,8,1.78%,-0.52%,0.43,0.514
+E-Commerce,Disability status,478,10,2.09%,450,5,1.11%,0.98%,1.4,0.2363
+E-Commerce,Driver's license,478,11,2.30%,450,7,1.56%,0.75%,0.68,0.4104
+E-Commerce,Employment history,478,10,2.09%,450,5,1.11%,0.98%,1.4,0.2363
+E-Commerce,Health insurance,478,10,2.09%,450,5,1.11%,0.98%,1.4,0.2363
+E-Commerce,Marriage certificate,478,5,1.05%,450,0,0.00%,1.05%,4.73,0.0296
+E-Commerce,Medical records,478,4,0.84%,450,0,0.00%,0.84%,3.78,0.0518
+E-Commerce,Official Identity Document,478,70,14.64%,450,106,23.56%,-8.91%,11.98,0.0005
+E-Commerce,Prescriptions,478,4,0.84%,450,2,0.44%,0.39%,0.56,0.4561
+E-Commerce,Professional licenses,478,7,1.46%,450,7,1.56%,-0.09%,0.01,0.9094
+E-Commerce,University transcript,478,9,1.88%,450,4,0.89%,0.99%,1.66,0.1979
+E-Commerce,Visa,478,7,1.46%,450,8,1.78%,-0.31%,0.14,0.7052

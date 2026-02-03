@@ -1,0 +1,13 @@
+female: 500
+male: 511
+other_gender: 24
+age_18_29: 421
+age_30_49: 384
+age_50_plus: 230
+hs: 304
+bsc: 291
+msc: 348
+phd: 51
+france: 201
+germany: 356
+italy: 478

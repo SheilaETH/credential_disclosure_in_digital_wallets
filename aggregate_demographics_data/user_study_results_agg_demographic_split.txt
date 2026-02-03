@@ -1,0 +1,2042 @@
+Aggregated Results for Equivalent Scenarios
+
+=== Group S1 ===
+ALL_GOOD scenarios:
+
+Demographic Type: gender_male
+  Aggregated for: s1_all_good_scenario_1, s1_all_good_scenario_2, s1_all_good_scenario_3, s1_all_good_scenario_4, s1_all_good_scenario_5, s1_all_good_scenario_6, s1_all_good_scenario_7, s1_all_good_scenario_8, s1_all_good_scenario_9, s1_all_good_scenario_10
+    Yes: 958 (75.14%)
+    No: 317 (24.86%)
+
+Demographic Type: gender_female
+  Aggregated for: s1_all_good_scenario_1, s1_all_good_scenario_2, s1_all_good_scenario_3, s1_all_good_scenario_4, s1_all_good_scenario_5, s1_all_good_scenario_6, s1_all_good_scenario_7, s1_all_good_scenario_8, s1_all_good_scenario_9, s1_all_good_scenario_10
+    Yes: 844 (73.20%)
+    No: 309 (26.80%)
+
+Demographic Type: age_18-29
+  Aggregated for: s1_all_good_scenario_1, s1_all_good_scenario_2, s1_all_good_scenario_3, s1_all_good_scenario_4, s1_all_good_scenario_5, s1_all_good_scenario_6, s1_all_good_scenario_7, s1_all_good_scenario_8, s1_all_good_scenario_9, s1_all_good_scenario_10
+    Yes: 800 (77.29%)
+    No: 235 (22.71%)
+
+Demographic Type: age_30-49
+  Aggregated for: s1_all_good_scenario_1, s1_all_good_scenario_2, s1_all_good_scenario_3, s1_all_good_scenario_4, s1_all_good_scenario_5, s1_all_good_scenario_6, s1_all_good_scenario_7, s1_all_good_scenario_8, s1_all_good_scenario_9, s1_all_good_scenario_10
+    Yes: 721 (73.50%)
+    No: 260 (26.50%)
+
+Demographic Type: age_50+
+  Aggregated for: s1_all_good_scenario_1, s1_all_good_scenario_2, s1_all_good_scenario_3, s1_all_good_scenario_4, s1_all_good_scenario_5, s1_all_good_scenario_6, s1_all_good_scenario_7, s1_all_good_scenario_8, s1_all_good_scenario_9, s1_all_good_scenario_10
+    Yes: 304 (67.86%)
+    No: 144 (32.14%)
+
+Demographic Type: education_high_school
+  Aggregated for: s1_all_good_scenario_1, s1_all_good_scenario_2, s1_all_good_scenario_3, s1_all_good_scenario_4, s1_all_good_scenario_5, s1_all_good_scenario_6, s1_all_good_scenario_7, s1_all_good_scenario_8, s1_all_good_scenario_9, s1_all_good_scenario_10
+    Yes: 444 (77.35%)
+    No: 130 (22.65%)
+
+Demographic Type: education_bachelor
+  Aggregated for: s1_all_good_scenario_1, s1_all_good_scenario_2, s1_all_good_scenario_3, s1_all_good_scenario_4, s1_all_good_scenario_5, s1_all_good_scenario_6, s1_all_good_scenario_7, s1_all_good_scenario_8, s1_all_good_scenario_9, s1_all_good_scenario_10
+    Yes: 690 (72.94%)
+    No: 256 (27.06%)
+
+Demographic Type: education_master
+  Aggregated for: s1_all_good_scenario_1, s1_all_good_scenario_2, s1_all_good_scenario_3, s1_all_good_scenario_4, s1_all_good_scenario_5, s1_all_good_scenario_6, s1_all_good_scenario_7, s1_all_good_scenario_8, s1_all_good_scenario_9, s1_all_good_scenario_10
+    Yes: 617 (73.02%)
+    No: 228 (26.98%)
+
+Demographic Type: education_phd
+  Aggregated for: s1_all_good_scenario_1, s1_all_good_scenario_2, s1_all_good_scenario_3, s1_all_good_scenario_4, s1_all_good_scenario_5, s1_all_good_scenario_6, s1_all_good_scenario_7, s1_all_good_scenario_8, s1_all_good_scenario_9, s1_all_good_scenario_10
+    Yes: 45 (72.58%)
+    No: 17 (27.42%)
+
+CONTROL scenarios:
+
+Demographic Type: gender_male
+  Aggregated for: s1_all_good_scenario_1, s1_all_good_scenario_2, s1_all_good_scenario_3, s1_all_good_scenario_4, s1_all_good_scenario_5, s1_all_good_scenario_6, s1_all_good_scenario_7, s1_all_good_scenario_8, s1_all_good_scenario_9, s1_all_good_scenario_10
+    Yes: 40 (63.49%)
+    No: 23 (36.51%)
+
+Demographic Type: gender_female
+  Aggregated for: s1_all_good_scenario_1, s1_all_good_scenario_2, s1_all_good_scenario_3, s1_all_good_scenario_4, s1_all_good_scenario_5, s1_all_good_scenario_6, s1_all_good_scenario_7, s1_all_good_scenario_8, s1_all_good_scenario_9, s1_all_good_scenario_10
+    Yes: 49 (62.82%)
+    No: 29 (37.18%)
+
+Demographic Type: age_18-29
+  Aggregated for: s1_all_good_scenario_1, s1_all_good_scenario_2, s1_all_good_scenario_3, s1_all_good_scenario_4, s1_all_good_scenario_5, s1_all_good_scenario_6, s1_all_good_scenario_7, s1_all_good_scenario_8, s1_all_good_scenario_9, s1_all_good_scenario_10
+    Yes: 18 (54.55%)
+    No: 15 (45.45%)
+
+Demographic Type: age_30-49
+  Aggregated for: s1_all_good_scenario_1, s1_all_good_scenario_2, s1_all_good_scenario_3, s1_all_good_scenario_4, s1_all_good_scenario_5, s1_all_good_scenario_6, s1_all_good_scenario_7, s1_all_good_scenario_8, s1_all_good_scenario_9, s1_all_good_scenario_10
+    Yes: 51 (69.86%)
+    No: 22 (30.14%)
+
+Demographic Type: age_50+
+  Aggregated for: s1_all_good_scenario_1, s1_all_good_scenario_2, s1_all_good_scenario_3, s1_all_good_scenario_4, s1_all_good_scenario_5, s1_all_good_scenario_6, s1_all_good_scenario_7, s1_all_good_scenario_8, s1_all_good_scenario_9, s1_all_good_scenario_10
+    Yes: 22 (56.41%)
+    No: 17 (43.59%)
+
+Demographic Type: education_high_school
+  Aggregated for: s1_all_good_scenario_1, s1_all_good_scenario_2, s1_all_good_scenario_3, s1_all_good_scenario_4, s1_all_good_scenario_5, s1_all_good_scenario_6, s1_all_good_scenario_7, s1_all_good_scenario_8, s1_all_good_scenario_9, s1_all_good_scenario_10
+    Yes: 19 (55.88%)
+    No: 15 (44.12%)
+
+Demographic Type: education_bachelor
+  Aggregated for: s1_all_good_scenario_1, s1_all_good_scenario_2, s1_all_good_scenario_3, s1_all_good_scenario_4, s1_all_good_scenario_5, s1_all_good_scenario_6, s1_all_good_scenario_7, s1_all_good_scenario_8, s1_all_good_scenario_9, s1_all_good_scenario_10
+    Yes: 38 (69.09%)
+    No: 17 (30.91%)
+
+Demographic Type: education_master
+  Aggregated for: s1_all_good_scenario_1, s1_all_good_scenario_2, s1_all_good_scenario_3, s1_all_good_scenario_4, s1_all_good_scenario_5, s1_all_good_scenario_6, s1_all_good_scenario_7, s1_all_good_scenario_8, s1_all_good_scenario_9, s1_all_good_scenario_10
+    Yes: 30 (57.69%)
+    No: 22 (42.31%)
+
+Demographic Type: education_phd
+  Aggregated for: s1_all_good_scenario_1, s1_all_good_scenario_2, s1_all_good_scenario_3, s1_all_good_scenario_4, s1_all_good_scenario_5, s1_all_good_scenario_6, s1_all_good_scenario_7, s1_all_good_scenario_8, s1_all_good_scenario_9, s1_all_good_scenario_10
+    Yes: 4 (100.00%)
+    No: 0 (0.00%)
+
+TEST scenarios:
+
+Demographic Type: gender_male
+  Aggregated for: s1_g3_scenario_1, s1_g3_scenario_2, s1_g3_scenario_3, s1_g3_scenario_4, s1_g3_scenario_5, s1_g3_scenario_6, s1_g3_scenario_7, s1_g3_scenario_8, s1_g3_scenario_9, s1_g3_scenario_10
+    Yes: 165 (60.22%)
+    No: 109 (39.78%)
+
+Demographic Type: gender_female
+  Aggregated for: s1_g3_scenario_1, s1_g3_scenario_2, s1_g3_scenario_3, s1_g3_scenario_4, s1_g3_scenario_5, s1_g3_scenario_6, s1_g3_scenario_7, s1_g3_scenario_8, s1_g3_scenario_9, s1_g3_scenario_10
+    Yes: 132 (59.46%)
+    No: 90 (40.54%)
+
+Demographic Type: age_18-29
+  Aggregated for: s1_g3_scenario_1, s1_g3_scenario_2, s1_g3_scenario_3, s1_g3_scenario_4, s1_g3_scenario_5, s1_g3_scenario_6, s1_g3_scenario_7, s1_g3_scenario_8, s1_g3_scenario_9, s1_g3_scenario_10
+    Yes: 107 (60.80%)
+    No: 69 (39.20%)
+
+Demographic Type: age_30-49
+  Aggregated for: s1_g3_scenario_1, s1_g3_scenario_2, s1_g3_scenario_3, s1_g3_scenario_4, s1_g3_scenario_5, s1_g3_scenario_6, s1_g3_scenario_7, s1_g3_scenario_8, s1_g3_scenario_9, s1_g3_scenario_10
+    Yes: 128 (62.75%)
+    No: 76 (37.25%)
+
+Demographic Type: age_50+
+  Aggregated for: s1_g3_scenario_1, s1_g3_scenario_2, s1_g3_scenario_3, s1_g3_scenario_4, s1_g3_scenario_5, s1_g3_scenario_6, s1_g3_scenario_7, s1_g3_scenario_8, s1_g3_scenario_9, s1_g3_scenario_10
+    Yes: 62 (53.45%)
+    No: 54 (46.55%)
+
+Demographic Type: education_high_school
+  Aggregated for: s1_g3_scenario_1, s1_g3_scenario_2, s1_g3_scenario_3, s1_g3_scenario_4, s1_g3_scenario_5, s1_g3_scenario_6, s1_g3_scenario_7, s1_g3_scenario_8, s1_g3_scenario_9, s1_g3_scenario_10
+    Yes: 81 (64.29%)
+    No: 45 (35.71%)
+
+Demographic Type: education_bachelor
+  Aggregated for: s1_g3_scenario_1, s1_g3_scenario_2, s1_g3_scenario_3, s1_g3_scenario_4, s1_g3_scenario_5, s1_g3_scenario_6, s1_g3_scenario_7, s1_g3_scenario_8, s1_g3_scenario_9, s1_g3_scenario_10
+    Yes: 107 (57.53%)
+    No: 79 (42.47%)
+
+Demographic Type: education_master
+  Aggregated for: s1_g3_scenario_1, s1_g3_scenario_2, s1_g3_scenario_3, s1_g3_scenario_4, s1_g3_scenario_5, s1_g3_scenario_6, s1_g3_scenario_7, s1_g3_scenario_8, s1_g3_scenario_9, s1_g3_scenario_10
+    Yes: 93 (60.39%)
+    No: 61 (39.61%)
+
+Demographic Type: education_phd
+  Aggregated for: s1_g3_scenario_1, s1_g3_scenario_2, s1_g3_scenario_3, s1_g3_scenario_4, s1_g3_scenario_5, s1_g3_scenario_6, s1_g3_scenario_7, s1_g3_scenario_8, s1_g3_scenario_9, s1_g3_scenario_10
+    Yes: 16 (53.33%)
+    No: 14 (46.67%)
+
+Demographic Type: gender_male
+  Aggregated for: s1_g4_scenario_1, s1_g4_scenario_2, s1_g4_scenario_3, s1_g4_scenario_4, s1_g4_scenario_5, s1_g4_scenario_6, s1_g4_scenario_7, s1_g4_scenario_8, s1_g4_scenario_9, s1_g4_scenario_10
+    Yes: 30 (78.95%)
+    No: 8 (21.05%)
+
+Demographic Type: gender_female
+  Aggregated for: s1_g4_scenario_1, s1_g4_scenario_2, s1_g4_scenario_3, s1_g4_scenario_4, s1_g4_scenario_5, s1_g4_scenario_6, s1_g4_scenario_7, s1_g4_scenario_8, s1_g4_scenario_9, s1_g4_scenario_10
+    Yes: 57 (75.00%)
+    No: 19 (25.00%)
+
+Demographic Type: age_18-29
+  Aggregated for: s1_g4_scenario_1, s1_g4_scenario_2, s1_g4_scenario_3, s1_g4_scenario_4, s1_g4_scenario_5, s1_g4_scenario_6, s1_g4_scenario_7, s1_g4_scenario_8, s1_g4_scenario_9, s1_g4_scenario_10
+    Yes: 41 (82.00%)
+    No: 9 (18.00%)
+
+Demographic Type: age_30-49
+  Aggregated for: s1_g4_scenario_1, s1_g4_scenario_2, s1_g4_scenario_3, s1_g4_scenario_4, s1_g4_scenario_5, s1_g4_scenario_6, s1_g4_scenario_7, s1_g4_scenario_8, s1_g4_scenario_9, s1_g4_scenario_10
+    Yes: 29 (65.91%)
+    No: 15 (34.09%)
+
+Demographic Type: age_50+
+  Aggregated for: s1_g4_scenario_1, s1_g4_scenario_2, s1_g4_scenario_3, s1_g4_scenario_4, s1_g4_scenario_5, s1_g4_scenario_6, s1_g4_scenario_7, s1_g4_scenario_8, s1_g4_scenario_9, s1_g4_scenario_10
+    Yes: 19 (86.36%)
+    No: 3 (13.64%)
+
+Demographic Type: education_high_school
+  Aggregated for: s1_g4_scenario_1, s1_g4_scenario_2, s1_g4_scenario_3, s1_g4_scenario_4, s1_g4_scenario_5, s1_g4_scenario_6, s1_g4_scenario_7, s1_g4_scenario_8, s1_g4_scenario_9, s1_g4_scenario_10
+    Yes: 20 (83.33%)
+    No: 4 (16.67%)
+
+Demographic Type: education_bachelor
+  Aggregated for: s1_g4_scenario_1, s1_g4_scenario_2, s1_g4_scenario_3, s1_g4_scenario_4, s1_g4_scenario_5, s1_g4_scenario_6, s1_g4_scenario_7, s1_g4_scenario_8, s1_g4_scenario_9, s1_g4_scenario_10
+    Yes: 36 (78.26%)
+    No: 10 (21.74%)
+
+Demographic Type: education_master
+  Aggregated for: s1_g4_scenario_1, s1_g4_scenario_2, s1_g4_scenario_3, s1_g4_scenario_4, s1_g4_scenario_5, s1_g4_scenario_6, s1_g4_scenario_7, s1_g4_scenario_8, s1_g4_scenario_9, s1_g4_scenario_10
+    Yes: 31 (73.81%)
+    No: 11 (26.19%)
+
+Demographic Type: education_phd
+  Aggregated for: s1_g4_scenario_1, s1_g4_scenario_2, s1_g4_scenario_3, s1_g4_scenario_4, s1_g4_scenario_5, s1_g4_scenario_6, s1_g4_scenario_7, s1_g4_scenario_8, s1_g4_scenario_9, s1_g4_scenario_10
+    Yes: 0 (0.00%)
+    No: 2 (100.00%)
+
+
+=== Group S2 ===
+ALL_GOOD scenarios:
+
+Demographic Type: gender_male
+  Aggregated for: s2_all_good_scenario_1, s2_all_good_scenario_2, s2_all_good_scenario_3, s2_all_good_scenario_4, s2_all_good_scenario_5
+    Yes: 89 (12.52%)
+    No: 622 (87.48%)
+
+Demographic Type: gender_female
+  Aggregated for: s2_all_good_scenario_1, s2_all_good_scenario_2, s2_all_good_scenario_3, s2_all_good_scenario_4, s2_all_good_scenario_5
+    Yes: 41 (5.91%)
+    No: 653 (94.09%)
+
+Demographic Type: age_18-29
+  Aggregated for: s2_all_good_scenario_1, s2_all_good_scenario_2, s2_all_good_scenario_3, s2_all_good_scenario_4, s2_all_good_scenario_5
+    Yes: 48 (8.09%)
+    No: 545 (91.91%)
+
+Demographic Type: age_30-49
+  Aggregated for: s2_all_good_scenario_1, s2_all_good_scenario_2, s2_all_good_scenario_3, s2_all_good_scenario_4, s2_all_good_scenario_5
+    Yes: 53 (9.36%)
+    No: 513 (90.64%)
+
+Demographic Type: age_50+
+  Aggregated for: s2_all_good_scenario_1, s2_all_good_scenario_2, s2_all_good_scenario_3, s2_all_good_scenario_4, s2_all_good_scenario_5
+    Yes: 33 (12.13%)
+    No: 239 (87.87%)
+
+Demographic Type: education_high_school
+  Aggregated for: s2_all_good_scenario_1, s2_all_good_scenario_2, s2_all_good_scenario_3, s2_all_good_scenario_4, s2_all_good_scenario_5
+    Yes: 40 (10.84%)
+    No: 329 (89.16%)
+
+Demographic Type: education_bachelor
+  Aggregated for: s2_all_good_scenario_1, s2_all_good_scenario_2, s2_all_good_scenario_3, s2_all_good_scenario_4, s2_all_good_scenario_5
+    Yes: 51 (10.47%)
+    No: 436 (89.53%)
+
+Demographic Type: education_master
+  Aggregated for: s2_all_good_scenario_1, s2_all_good_scenario_2, s2_all_good_scenario_3, s2_all_good_scenario_4, s2_all_good_scenario_5
+    Yes: 35 (6.90%)
+    No: 472 (93.10%)
+
+Demographic Type: education_phd
+  Aggregated for: s2_all_good_scenario_1, s2_all_good_scenario_2, s2_all_good_scenario_3, s2_all_good_scenario_4, s2_all_good_scenario_5
+    Yes: 7 (15.56%)
+    No: 38 (84.44%)
+
+CONTROL scenarios:
+
+Demographic Type: gender_male
+  Aggregated for: s2_all_good_scenario_1, s2_all_good_scenario_2, s2_all_good_scenario_3, s2_all_good_scenario_4, s2_all_good_scenario_5
+    Yes: 3 (20.00%)
+    No: 12 (80.00%)
+
+Demographic Type: gender_female
+  Aggregated for: s2_all_good_scenario_1, s2_all_good_scenario_2, s2_all_good_scenario_3, s2_all_good_scenario_4, s2_all_good_scenario_5
+    Yes: 5 (14.29%)
+    No: 30 (85.71%)
+
+Demographic Type: age_18-29
+  Aggregated for: s2_all_good_scenario_1, s2_all_good_scenario_2, s2_all_good_scenario_3, s2_all_good_scenario_4, s2_all_good_scenario_5
+    Yes: 2 (14.29%)
+    No: 12 (85.71%)
+
+Demographic Type: age_30-49
+  Aggregated for: s2_all_good_scenario_1, s2_all_good_scenario_2, s2_all_good_scenario_3, s2_all_good_scenario_4, s2_all_good_scenario_5
+    Yes: 5 (20.83%)
+    No: 19 (79.17%)
+
+Demographic Type: age_50+
+  Aggregated for: s2_all_good_scenario_1, s2_all_good_scenario_2, s2_all_good_scenario_3, s2_all_good_scenario_4, s2_all_good_scenario_5
+    Yes: 1 (8.33%)
+    No: 11 (91.67%)
+
+Demographic Type: education_high_school
+  Aggregated for: s2_all_good_scenario_1, s2_all_good_scenario_2, s2_all_good_scenario_3, s2_all_good_scenario_4, s2_all_good_scenario_5
+    Yes: 0 (0.00%)
+    No: 14 (100.00%)
+
+Demographic Type: education_bachelor
+  Aggregated for: s2_all_good_scenario_1, s2_all_good_scenario_2, s2_all_good_scenario_3, s2_all_good_scenario_4, s2_all_good_scenario_5
+    Yes: 3 (23.08%)
+    No: 10 (76.92%)
+
+Demographic Type: education_master
+  Aggregated for: s2_all_good_scenario_1, s2_all_good_scenario_2, s2_all_good_scenario_3, s2_all_good_scenario_4, s2_all_good_scenario_5
+    Yes: 4 (20.00%)
+    No: 16 (80.00%)
+
+Demographic Type: education_phd
+  Aggregated for: s2_all_good_scenario_1, s2_all_good_scenario_2, s2_all_good_scenario_3, s2_all_good_scenario_4, s2_all_good_scenario_5
+    Yes: 1 (33.33%)
+    No: 2 (66.67%)
+
+Demographic Type: gender_male
+  Aggregated for: s2_vague_scenario_1, s2_vague_scenario_2, s2_vague_scenario_3, s2_vague_scenario_4, s2_vague_scenario_5
+    Yes: 1 (3.70%)
+    No: 26 (96.30%)
+
+Demographic Type: gender_female
+  Aggregated for: s2_vague_scenario_1, s2_vague_scenario_2, s2_vague_scenario_3, s2_vague_scenario_4, s2_vague_scenario_5
+    Yes: 5 (14.71%)
+    No: 29 (85.29%)
+
+Demographic Type: age_18-29
+  Aggregated for: s2_vague_scenario_1, s2_vague_scenario_2, s2_vague_scenario_3, s2_vague_scenario_4, s2_vague_scenario_5
+    Yes: 1 (4.55%)
+    No: 21 (95.45%)
+
+Demographic Type: age_30-49
+  Aggregated for: s2_vague_scenario_1, s2_vague_scenario_2, s2_vague_scenario_3, s2_vague_scenario_4, s2_vague_scenario_5
+    Yes: 4 (12.50%)
+    No: 28 (87.50%)
+
+Demographic Type: age_50+
+  Aggregated for: s2_vague_scenario_1, s2_vague_scenario_2, s2_vague_scenario_3, s2_vague_scenario_4, s2_vague_scenario_5
+    Yes: 1 (10.00%)
+    No: 9 (90.00%)
+
+Demographic Type: education_high_school
+  Aggregated for: s2_vague_scenario_1, s2_vague_scenario_2, s2_vague_scenario_3, s2_vague_scenario_4, s2_vague_scenario_5
+    Yes: 0 (0.00%)
+    No: 14 (100.00%)
+
+Demographic Type: education_bachelor
+  Aggregated for: s2_vague_scenario_1, s2_vague_scenario_2, s2_vague_scenario_3, s2_vague_scenario_4, s2_vague_scenario_5
+    Yes: 1 (5.56%)
+    No: 17 (94.44%)
+
+Demographic Type: education_master
+  Aggregated for: s2_vague_scenario_1, s2_vague_scenario_2, s2_vague_scenario_3, s2_vague_scenario_4, s2_vague_scenario_5
+    Yes: 3 (10.00%)
+    No: 27 (90.00%)
+
+Demographic Type: education_phd
+  Aggregated for: s2_vague_scenario_1, s2_vague_scenario_2, s2_vague_scenario_3, s2_vague_scenario_4, s2_vague_scenario_5
+    Yes: 2 (100.00%)
+    No: 0 (0.00%)
+
+Demographic Type: gender_male
+  Aggregated for: s2_bogus_scenario_1, s2_bogus_scenario_2, s2_bogus_scenario_3, s2_bogus_scenario_4, s2_bogus_scenario_5
+    Yes: 5 (19.23%)
+    No: 21 (80.77%)
+
+Demographic Type: gender_female
+  Aggregated for: s2_bogus_scenario_1, s2_bogus_scenario_2, s2_bogus_scenario_3, s2_bogus_scenario_4, s2_bogus_scenario_5
+    Yes: 7 (25.00%)
+    No: 21 (75.00%)
+
+Demographic Type: age_18-29
+  Aggregated for: s2_bogus_scenario_1, s2_bogus_scenario_2, s2_bogus_scenario_3, s2_bogus_scenario_4, s2_bogus_scenario_5
+    Yes: 2 (12.50%)
+    No: 14 (87.50%)
+
+Demographic Type: age_30-49
+  Aggregated for: s2_bogus_scenario_1, s2_bogus_scenario_2, s2_bogus_scenario_3, s2_bogus_scenario_4, s2_bogus_scenario_5
+    Yes: 9 (32.14%)
+    No: 19 (67.86%)
+
+Demographic Type: age_50+
+  Aggregated for: s2_bogus_scenario_1, s2_bogus_scenario_2, s2_bogus_scenario_3, s2_bogus_scenario_4, s2_bogus_scenario_5
+    Yes: 1 (9.09%)
+    No: 10 (90.91%)
+
+Demographic Type: education_high_school
+  Aggregated for: s2_bogus_scenario_1, s2_bogus_scenario_2, s2_bogus_scenario_3, s2_bogus_scenario_4, s2_bogus_scenario_5
+    Yes: 0 (0.00%)
+    No: 6 (100.00%)
+
+Demographic Type: education_bachelor
+  Aggregated for: s2_bogus_scenario_1, s2_bogus_scenario_2, s2_bogus_scenario_3, s2_bogus_scenario_4, s2_bogus_scenario_5
+    Yes: 5 (19.23%)
+    No: 21 (80.77%)
+
+Demographic Type: education_master
+  Aggregated for: s2_bogus_scenario_1, s2_bogus_scenario_2, s2_bogus_scenario_3, s2_bogus_scenario_4, s2_bogus_scenario_5
+    Yes: 6 (28.57%)
+    No: 15 (71.43%)
+
+Demographic Type: education_phd
+  Aggregated for: s2_bogus_scenario_1, s2_bogus_scenario_2, s2_bogus_scenario_3, s2_bogus_scenario_4, s2_bogus_scenario_5
+    Yes: 1 (50.00%)
+    No: 1 (50.00%)
+
+TEST scenarios:
+
+Demographic Type: gender_male
+  Aggregated for: s2_vague_scenario_1, s2_vague_scenario_2, s2_vague_scenario_3, s2_vague_scenario_4, s2_vague_scenario_5
+    Yes: 2 (6.25%)
+    No: 30 (93.75%)
+
+Demographic Type: gender_female
+  Aggregated for: s2_vague_scenario_1, s2_vague_scenario_2, s2_vague_scenario_3, s2_vague_scenario_4, s2_vague_scenario_5
+    Yes: 8 (15.38%)
+    No: 44 (84.62%)
+
+Demographic Type: age_18-29
+  Aggregated for: s2_vague_scenario_1, s2_vague_scenario_2, s2_vague_scenario_3, s2_vague_scenario_4, s2_vague_scenario_5
+    Yes: 3 (8.82%)
+    No: 31 (91.18%)
+
+Demographic Type: age_30-49
+  Aggregated for: s2_vague_scenario_1, s2_vague_scenario_2, s2_vague_scenario_3, s2_vague_scenario_4, s2_vague_scenario_5
+    Yes: 4 (14.29%)
+    No: 24 (85.71%)
+
+Demographic Type: age_50+
+  Aggregated for: s2_vague_scenario_1, s2_vague_scenario_2, s2_vague_scenario_3, s2_vague_scenario_4, s2_vague_scenario_5
+    Yes: 3 (13.64%)
+    No: 19 (86.36%)
+
+Demographic Type: education_high_school
+  Aggregated for: s2_vague_scenario_1, s2_vague_scenario_2, s2_vague_scenario_3, s2_vague_scenario_4, s2_vague_scenario_5
+    Yes: 2 (16.67%)
+    No: 10 (83.33%)
+
+Demographic Type: education_bachelor
+  Aggregated for: s2_vague_scenario_1, s2_vague_scenario_2, s2_vague_scenario_3, s2_vague_scenario_4, s2_vague_scenario_5
+    Yes: 2 (5.00%)
+    No: 38 (95.00%)
+
+Demographic Type: education_master
+  Aggregated for: s2_vague_scenario_1, s2_vague_scenario_2, s2_vague_scenario_3, s2_vague_scenario_4, s2_vague_scenario_5
+    Yes: 4 (14.29%)
+    No: 24 (85.71%)
+
+Demographic Type: education_phd
+Demographic Type: gender_male
+  Aggregated for: s2_bogus_scenario_1, s2_bogus_scenario_2, s2_bogus_scenario_3, s2_bogus_scenario_4, s2_bogus_scenario_5
+    Yes: 5 (8.33%)
+    No: 55 (91.67%)
+
+Demographic Type: gender_female
+  Aggregated for: s2_bogus_scenario_1, s2_bogus_scenario_2, s2_bogus_scenario_3, s2_bogus_scenario_4, s2_bogus_scenario_5
+    Yes: 5 (12.50%)
+    No: 35 (87.50%)
+
+Demographic Type: age_18-29
+  Aggregated for: s2_bogus_scenario_1, s2_bogus_scenario_2, s2_bogus_scenario_3, s2_bogus_scenario_4, s2_bogus_scenario_5
+    Yes: 5 (9.62%)
+    No: 47 (90.38%)
+
+Demographic Type: age_30-49
+  Aggregated for: s2_bogus_scenario_1, s2_bogus_scenario_2, s2_bogus_scenario_3, s2_bogus_scenario_4, s2_bogus_scenario_5
+    Yes: 2 (7.14%)
+    No: 26 (92.86%)
+
+Demographic Type: age_50+
+  Aggregated for: s2_bogus_scenario_1, s2_bogus_scenario_2, s2_bogus_scenario_3, s2_bogus_scenario_4, s2_bogus_scenario_5
+    Yes: 3 (13.64%)
+    No: 19 (86.36%)
+
+Demographic Type: education_high_school
+  Aggregated for: s2_bogus_scenario_1, s2_bogus_scenario_2, s2_bogus_scenario_3, s2_bogus_scenario_4, s2_bogus_scenario_5
+    Yes: 4 (13.33%)
+    No: 26 (86.67%)
+
+Demographic Type: education_bachelor
+  Aggregated for: s2_bogus_scenario_1, s2_bogus_scenario_2, s2_bogus_scenario_3, s2_bogus_scenario_4, s2_bogus_scenario_5
+    Yes: 5 (12.50%)
+    No: 35 (87.50%)
+
+Demographic Type: education_master
+  Aggregated for: s2_bogus_scenario_1, s2_bogus_scenario_2, s2_bogus_scenario_3, s2_bogus_scenario_4, s2_bogus_scenario_5
+    Yes: 0 (0.00%)
+    No: 30 (100.00%)
+
+Demographic Type: education_phd
+  Aggregated for: s2_bogus_scenario_1, s2_bogus_scenario_2, s2_bogus_scenario_3, s2_bogus_scenario_4, s2_bogus_scenario_5
+    Yes: 1 (50.00%)
+    No: 1 (50.00%)
+
+
+=== Group S3 ===
+ALL_GOOD scenarios:
+
+Demographic Type: gender_male
+  Aggregated for: s3_all_good_expert_scenario_1, s3_all_good_expert_scenario_2, s3_all_good_expert_scenario_3, s3_all_good_expert_scenario_4, s3_all_good_expert_scenario_5, s3_all_good_expert_scenario_6, s3_all_good_expert_scenario_7, s3_all_good_expert_scenario_8, s3_all_good_expert_scenario_9, s3_all_good_expert_scenario_10
+    Yes: 81 (7.55%)
+    No: 992 (92.45%)
+
+Demographic Type: gender_female
+  Aggregated for: s3_all_good_expert_scenario_1, s3_all_good_expert_scenario_2, s3_all_good_expert_scenario_3, s3_all_good_expert_scenario_4, s3_all_good_expert_scenario_5, s3_all_good_expert_scenario_6, s3_all_good_expert_scenario_7, s3_all_good_expert_scenario_8, s3_all_good_expert_scenario_9, s3_all_good_expert_scenario_10
+    Yes: 65 (6.61%)
+    No: 918 (93.39%)
+
+Demographic Type: age_18-29
+  Aggregated for: s3_all_good_expert_scenario_1, s3_all_good_expert_scenario_2, s3_all_good_expert_scenario_3, s3_all_good_expert_scenario_4, s3_all_good_expert_scenario_5, s3_all_good_expert_scenario_6, s3_all_good_expert_scenario_7, s3_all_good_expert_scenario_8, s3_all_good_expert_scenario_9, s3_all_good_expert_scenario_10
+    Yes: 55 (6.45%)
+    No: 798 (93.55%)
+
+Demographic Type: age_30-49
+  Aggregated for: s3_all_good_expert_scenario_1, s3_all_good_expert_scenario_2, s3_all_good_expert_scenario_3, s3_all_good_expert_scenario_4, s3_all_good_expert_scenario_5, s3_all_good_expert_scenario_6, s3_all_good_expert_scenario_7, s3_all_good_expert_scenario_8, s3_all_good_expert_scenario_9, s3_all_good_expert_scenario_10
+    Yes: 60 (7.13%)
+    No: 781 (92.87%)
+
+Demographic Type: age_50+
+  Aggregated for: s3_all_good_expert_scenario_1, s3_all_good_expert_scenario_2, s3_all_good_expert_scenario_3, s3_all_good_expert_scenario_4, s3_all_good_expert_scenario_5, s3_all_good_expert_scenario_6, s3_all_good_expert_scenario_7, s3_all_good_expert_scenario_8, s3_all_good_expert_scenario_9, s3_all_good_expert_scenario_10
+    Yes: 31 (7.97%)
+    No: 358 (92.03%)
+
+Demographic Type: education_high_school
+  Aggregated for: s3_all_good_expert_scenario_1, s3_all_good_expert_scenario_2, s3_all_good_expert_scenario_3, s3_all_good_expert_scenario_4, s3_all_good_expert_scenario_5, s3_all_good_expert_scenario_6, s3_all_good_expert_scenario_7, s3_all_good_expert_scenario_8, s3_all_good_expert_scenario_9, s3_all_good_expert_scenario_10
+    Yes: 41 (8.35%)
+    No: 450 (91.65%)
+
+Demographic Type: education_bachelor
+  Aggregated for: s3_all_good_expert_scenario_1, s3_all_good_expert_scenario_2, s3_all_good_expert_scenario_3, s3_all_good_expert_scenario_4, s3_all_good_expert_scenario_5, s3_all_good_expert_scenario_6, s3_all_good_expert_scenario_7, s3_all_good_expert_scenario_8, s3_all_good_expert_scenario_9, s3_all_good_expert_scenario_10
+    Yes: 52 (6.12%)
+    No: 797 (93.88%)
+
+Demographic Type: education_master
+  Aggregated for: s3_all_good_expert_scenario_1, s3_all_good_expert_scenario_2, s3_all_good_expert_scenario_3, s3_all_good_expert_scenario_4, s3_all_good_expert_scenario_5, s3_all_good_expert_scenario_6, s3_all_good_expert_scenario_7, s3_all_good_expert_scenario_8, s3_all_good_expert_scenario_9, s3_all_good_expert_scenario_10
+    Yes: 46 (6.91%)
+    No: 620 (93.09%)
+
+Demographic Type: education_phd
+  Aggregated for: s3_all_good_expert_scenario_1, s3_all_good_expert_scenario_2, s3_all_good_expert_scenario_3, s3_all_good_expert_scenario_4, s3_all_good_expert_scenario_5, s3_all_good_expert_scenario_6, s3_all_good_expert_scenario_7, s3_all_good_expert_scenario_8, s3_all_good_expert_scenario_9, s3_all_good_expert_scenario_10
+    Yes: 4 (8.00%)
+    No: 46 (92.00%)
+
+Demographic Type: gender_male
+  Aggregated for: s3_all_good_expert_law_scenario_1, s3_all_good_expert_law_scenario_2, s3_all_good_expert_law_scenario_3, s3_all_good_expert_law_scenario_4, s3_all_good_expert_law_scenario_5, s3_all_good_expert_law_scenario_6, s3_all_good_expert_law_scenario_7, s3_all_good_expert_law_scenario_8, s3_all_good_expert_law_scenario_9, s3_all_good_expert_law_scenario_10
+    Yes: 3 (9.38%)
+    No: 29 (90.62%)
+
+Demographic Type: gender_female
+  Aggregated for: s3_all_good_expert_law_scenario_1, s3_all_good_expert_law_scenario_2, s3_all_good_expert_law_scenario_3, s3_all_good_expert_law_scenario_4, s3_all_good_expert_law_scenario_5, s3_all_good_expert_law_scenario_6, s3_all_good_expert_law_scenario_7, s3_all_good_expert_law_scenario_8, s3_all_good_expert_law_scenario_9, s3_all_good_expert_law_scenario_10
+    Yes: 1 (2.86%)
+    No: 34 (97.14%)
+
+Demographic Type: age_18-29
+  Aggregated for: s3_all_good_expert_law_scenario_1, s3_all_good_expert_law_scenario_2, s3_all_good_expert_law_scenario_3, s3_all_good_expert_law_scenario_4, s3_all_good_expert_law_scenario_5, s3_all_good_expert_law_scenario_6, s3_all_good_expert_law_scenario_7, s3_all_good_expert_law_scenario_8, s3_all_good_expert_law_scenario_9, s3_all_good_expert_law_scenario_10
+    Yes: 3 (8.11%)
+    No: 34 (91.89%)
+
+Demographic Type: age_30-49
+  Aggregated for: s3_all_good_expert_law_scenario_1, s3_all_good_expert_law_scenario_2, s3_all_good_expert_law_scenario_3, s3_all_good_expert_law_scenario_4, s3_all_good_expert_law_scenario_5, s3_all_good_expert_law_scenario_6, s3_all_good_expert_law_scenario_7, s3_all_good_expert_law_scenario_8, s3_all_good_expert_law_scenario_9, s3_all_good_expert_law_scenario_10
+    Yes: 1 (4.35%)
+    No: 22 (95.65%)
+
+Demographic Type: age_50+
+  Aggregated for: s3_all_good_expert_law_scenario_1, s3_all_good_expert_law_scenario_2, s3_all_good_expert_law_scenario_3, s3_all_good_expert_law_scenario_4, s3_all_good_expert_law_scenario_5, s3_all_good_expert_law_scenario_6, s3_all_good_expert_law_scenario_7, s3_all_good_expert_law_scenario_8, s3_all_good_expert_law_scenario_9, s3_all_good_expert_law_scenario_10
+    Yes: 0 (0.00%)
+    No: 7 (100.00%)
+
+Demographic Type: education_high_school
+  Aggregated for: s3_all_good_expert_law_scenario_1, s3_all_good_expert_law_scenario_2, s3_all_good_expert_law_scenario_3, s3_all_good_expert_law_scenario_4, s3_all_good_expert_law_scenario_5, s3_all_good_expert_law_scenario_6, s3_all_good_expert_law_scenario_7, s3_all_good_expert_law_scenario_8, s3_all_good_expert_law_scenario_9, s3_all_good_expert_law_scenario_10
+    Yes: 1 (8.33%)
+    No: 11 (91.67%)
+
+Demographic Type: education_bachelor
+  Aggregated for: s3_all_good_expert_law_scenario_1, s3_all_good_expert_law_scenario_2, s3_all_good_expert_law_scenario_3, s3_all_good_expert_law_scenario_4, s3_all_good_expert_law_scenario_5, s3_all_good_expert_law_scenario_6, s3_all_good_expert_law_scenario_7, s3_all_good_expert_law_scenario_8, s3_all_good_expert_law_scenario_9, s3_all_good_expert_law_scenario_10
+    Yes: 3 (7.50%)
+    No: 37 (92.50%)
+
+Demographic Type: education_master
+  Aggregated for: s3_all_good_expert_law_scenario_1, s3_all_good_expert_law_scenario_2, s3_all_good_expert_law_scenario_3, s3_all_good_expert_law_scenario_4, s3_all_good_expert_law_scenario_5, s3_all_good_expert_law_scenario_6, s3_all_good_expert_law_scenario_7, s3_all_good_expert_law_scenario_8, s3_all_good_expert_law_scenario_9, s3_all_good_expert_law_scenario_10
+    Yes: 0 (0.00%)
+    No: 13 (100.00%)
+
+Demographic Type: education_phd
+  Aggregated for: s3_all_good_expert_law_scenario_1, s3_all_good_expert_law_scenario_2, s3_all_good_expert_law_scenario_3, s3_all_good_expert_law_scenario_4, s3_all_good_expert_law_scenario_5, s3_all_good_expert_law_scenario_6, s3_all_good_expert_law_scenario_7, s3_all_good_expert_law_scenario_8, s3_all_good_expert_law_scenario_9, s3_all_good_expert_law_scenario_10
+    Yes: 0 (0.00%)
+    No: 2 (100.00%)
+
+Demographic Type: gender_male
+  Aggregated for: s3_all_good_expert_ethics_scenario_1, s3_all_good_expert_ethics_scenario_2, s3_all_good_expert_ethics_scenario_3, s3_all_good_expert_ethics_scenario_4, s3_all_good_expert_ethics_scenario_5, s3_all_good_expert_ethics_scenario_6, s3_all_good_expert_ethics_scenario_7, s3_all_good_expert_ethics_scenario_8, s3_all_good_expert_ethics_scenario_9, s3_all_good_expert_ethics_scenario_10
+    Yes: 2 (7.14%)
+    No: 26 (92.86%)
+
+Demographic Type: gender_female
+  Aggregated for: s3_all_good_expert_ethics_scenario_1, s3_all_good_expert_ethics_scenario_2, s3_all_good_expert_ethics_scenario_3, s3_all_good_expert_ethics_scenario_4, s3_all_good_expert_ethics_scenario_5, s3_all_good_expert_ethics_scenario_6, s3_all_good_expert_ethics_scenario_7, s3_all_good_expert_ethics_scenario_8, s3_all_good_expert_ethics_scenario_9, s3_all_good_expert_ethics_scenario_10
+    Yes: 3 (7.50%)
+    No: 37 (92.50%)
+
+Demographic Type: age_18-29
+  Aggregated for: s3_all_good_expert_ethics_scenario_1, s3_all_good_expert_ethics_scenario_2, s3_all_good_expert_ethics_scenario_3, s3_all_good_expert_ethics_scenario_4, s3_all_good_expert_ethics_scenario_5, s3_all_good_expert_ethics_scenario_6, s3_all_good_expert_ethics_scenario_7, s3_all_good_expert_ethics_scenario_8, s3_all_good_expert_ethics_scenario_9, s3_all_good_expert_ethics_scenario_10
+    Yes: 2 (8.33%)
+    No: 22 (91.67%)
+
+Demographic Type: age_30-49
+  Aggregated for: s3_all_good_expert_ethics_scenario_1, s3_all_good_expert_ethics_scenario_2, s3_all_good_expert_ethics_scenario_3, s3_all_good_expert_ethics_scenario_4, s3_all_good_expert_ethics_scenario_5, s3_all_good_expert_ethics_scenario_6, s3_all_good_expert_ethics_scenario_7, s3_all_good_expert_ethics_scenario_8, s3_all_good_expert_ethics_scenario_9, s3_all_good_expert_ethics_scenario_10
+    Yes: 1 (3.45%)
+    No: 28 (96.55%)
+
+Demographic Type: age_50+
+  Aggregated for: s3_all_good_expert_ethics_scenario_1, s3_all_good_expert_ethics_scenario_2, s3_all_good_expert_ethics_scenario_3, s3_all_good_expert_ethics_scenario_4, s3_all_good_expert_ethics_scenario_5, s3_all_good_expert_ethics_scenario_6, s3_all_good_expert_ethics_scenario_7, s3_all_good_expert_ethics_scenario_8, s3_all_good_expert_ethics_scenario_9, s3_all_good_expert_ethics_scenario_10
+    Yes: 2 (13.33%)
+    No: 13 (86.67%)
+
+Demographic Type: education_high_school
+  Aggregated for: s3_all_good_expert_ethics_scenario_1, s3_all_good_expert_ethics_scenario_2, s3_all_good_expert_ethics_scenario_3, s3_all_good_expert_ethics_scenario_4, s3_all_good_expert_ethics_scenario_5, s3_all_good_expert_ethics_scenario_6, s3_all_good_expert_ethics_scenario_7, s3_all_good_expert_ethics_scenario_8, s3_all_good_expert_ethics_scenario_9, s3_all_good_expert_ethics_scenario_10
+    Yes: 3 (14.29%)
+    No: 18 (85.71%)
+
+Demographic Type: education_bachelor
+  Aggregated for: s3_all_good_expert_ethics_scenario_1, s3_all_good_expert_ethics_scenario_2, s3_all_good_expert_ethics_scenario_3, s3_all_good_expert_ethics_scenario_4, s3_all_good_expert_ethics_scenario_5, s3_all_good_expert_ethics_scenario_6, s3_all_good_expert_ethics_scenario_7, s3_all_good_expert_ethics_scenario_8, s3_all_good_expert_ethics_scenario_9, s3_all_good_expert_ethics_scenario_10
+    Yes: 1 (3.70%)
+    No: 26 (96.30%)
+
+Demographic Type: education_master
+  Aggregated for: s3_all_good_expert_ethics_scenario_1, s3_all_good_expert_ethics_scenario_2, s3_all_good_expert_ethics_scenario_3, s3_all_good_expert_ethics_scenario_4, s3_all_good_expert_ethics_scenario_5, s3_all_good_expert_ethics_scenario_6, s3_all_good_expert_ethics_scenario_7, s3_all_good_expert_ethics_scenario_8, s3_all_good_expert_ethics_scenario_9, s3_all_good_expert_ethics_scenario_10
+    Yes: 1 (5.00%)
+    No: 19 (95.00%)
+
+Demographic Type: education_phd
+Demographic Type: gender_male
+  Aggregated for: s3_all_good_expert_policy_scenario_1, s3_all_good_expert_policy_scenario_2, s3_all_good_expert_policy_scenario_3, s3_all_good_expert_policy_scenario_4, s3_all_good_expert_policy_scenario_5, s3_all_good_expert_policy_scenario_6, s3_all_good_expert_policy_scenario_7, s3_all_good_expert_policy_scenario_8, s3_all_good_expert_policy_scenario_9, s3_all_good_expert_policy_scenario_10
+    Yes: 0 (0.00%)
+    No: 30 (100.00%)
+
+Demographic Type: gender_female
+  Aggregated for: s3_all_good_expert_policy_scenario_1, s3_all_good_expert_policy_scenario_2, s3_all_good_expert_policy_scenario_3, s3_all_good_expert_policy_scenario_4, s3_all_good_expert_policy_scenario_5, s3_all_good_expert_policy_scenario_6, s3_all_good_expert_policy_scenario_7, s3_all_good_expert_policy_scenario_8, s3_all_good_expert_policy_scenario_9, s3_all_good_expert_policy_scenario_10
+    Yes: 3 (7.89%)
+    No: 35 (92.11%)
+
+Demographic Type: age_18-29
+  Aggregated for: s3_all_good_expert_policy_scenario_1, s3_all_good_expert_policy_scenario_2, s3_all_good_expert_policy_scenario_3, s3_all_good_expert_policy_scenario_4, s3_all_good_expert_policy_scenario_5, s3_all_good_expert_policy_scenario_6, s3_all_good_expert_policy_scenario_7, s3_all_good_expert_policy_scenario_8, s3_all_good_expert_policy_scenario_9, s3_all_good_expert_policy_scenario_10
+    Yes: 0 (0.00%)
+    No: 26 (100.00%)
+
+Demographic Type: age_30-49
+  Aggregated for: s3_all_good_expert_policy_scenario_1, s3_all_good_expert_policy_scenario_2, s3_all_good_expert_policy_scenario_3, s3_all_good_expert_policy_scenario_4, s3_all_good_expert_policy_scenario_5, s3_all_good_expert_policy_scenario_6, s3_all_good_expert_policy_scenario_7, s3_all_good_expert_policy_scenario_8, s3_all_good_expert_policy_scenario_9, s3_all_good_expert_policy_scenario_10
+    Yes: 2 (6.06%)
+    No: 31 (93.94%)
+
+Demographic Type: age_50+
+  Aggregated for: s3_all_good_expert_policy_scenario_1, s3_all_good_expert_policy_scenario_2, s3_all_good_expert_policy_scenario_3, s3_all_good_expert_policy_scenario_4, s3_all_good_expert_policy_scenario_5, s3_all_good_expert_policy_scenario_6, s3_all_good_expert_policy_scenario_7, s3_all_good_expert_policy_scenario_8, s3_all_good_expert_policy_scenario_9, s3_all_good_expert_policy_scenario_10
+    Yes: 1 (11.11%)
+    No: 8 (88.89%)
+
+Demographic Type: education_high_school
+  Aggregated for: s3_all_good_expert_policy_scenario_1, s3_all_good_expert_policy_scenario_2, s3_all_good_expert_policy_scenario_3, s3_all_good_expert_policy_scenario_4, s3_all_good_expert_policy_scenario_5, s3_all_good_expert_policy_scenario_6, s3_all_good_expert_policy_scenario_7, s3_all_good_expert_policy_scenario_8, s3_all_good_expert_policy_scenario_9, s3_all_good_expert_policy_scenario_10
+    Yes: 0 (0.00%)
+    No: 11 (100.00%)
+
+Demographic Type: education_bachelor
+  Aggregated for: s3_all_good_expert_policy_scenario_1, s3_all_good_expert_policy_scenario_2, s3_all_good_expert_policy_scenario_3, s3_all_good_expert_policy_scenario_4, s3_all_good_expert_policy_scenario_5, s3_all_good_expert_policy_scenario_6, s3_all_good_expert_policy_scenario_7, s3_all_good_expert_policy_scenario_8, s3_all_good_expert_policy_scenario_9, s3_all_good_expert_policy_scenario_10
+    Yes: 2 (5.26%)
+    No: 36 (94.74%)
+
+Demographic Type: education_master
+  Aggregated for: s3_all_good_expert_policy_scenario_1, s3_all_good_expert_policy_scenario_2, s3_all_good_expert_policy_scenario_3, s3_all_good_expert_policy_scenario_4, s3_all_good_expert_policy_scenario_5, s3_all_good_expert_policy_scenario_6, s3_all_good_expert_policy_scenario_7, s3_all_good_expert_policy_scenario_8, s3_all_good_expert_policy_scenario_9, s3_all_good_expert_policy_scenario_10
+    Yes: 1 (5.88%)
+    No: 16 (94.12%)
+
+Demographic Type: education_phd
+  Aggregated for: s3_all_good_expert_policy_scenario_1, s3_all_good_expert_policy_scenario_2, s3_all_good_expert_policy_scenario_3, s3_all_good_expert_policy_scenario_4, s3_all_good_expert_policy_scenario_5, s3_all_good_expert_policy_scenario_6, s3_all_good_expert_policy_scenario_7, s3_all_good_expert_policy_scenario_8, s3_all_good_expert_policy_scenario_9, s3_all_good_expert_policy_scenario_10
+    Yes: 0 (0.00%)
+    No: 2 (100.00%)
+
+Demographic Type: gender_male
+  Aggregated for: s3_all_good_expert_cyber_scenario_1, s3_all_good_expert_cyber_scenario_2, s3_all_good_expert_cyber_scenario_3, s3_all_good_expert_cyber_scenario_4, s3_all_good_expert_cyber_scenario_5, s3_all_good_expert_cyber_scenario_6, s3_all_good_expert_cyber_scenario_7, s3_all_good_expert_cyber_scenario_8, s3_all_good_expert_cyber_scenario_9, s3_all_good_expert_cyber_scenario_10
+    Yes: 2 (6.45%)
+    No: 29 (93.55%)
+
+Demographic Type: gender_female
+  Aggregated for: s3_all_good_expert_cyber_scenario_1, s3_all_good_expert_cyber_scenario_2, s3_all_good_expert_cyber_scenario_3, s3_all_good_expert_cyber_scenario_4, s3_all_good_expert_cyber_scenario_5, s3_all_good_expert_cyber_scenario_6, s3_all_good_expert_cyber_scenario_7, s3_all_good_expert_cyber_scenario_8, s3_all_good_expert_cyber_scenario_9, s3_all_good_expert_cyber_scenario_10
+    Yes: 1 (2.70%)
+    No: 36 (97.30%)
+
+Demographic Type: age_18-29
+  Aggregated for: s3_all_good_expert_cyber_scenario_1, s3_all_good_expert_cyber_scenario_2, s3_all_good_expert_cyber_scenario_3, s3_all_good_expert_cyber_scenario_4, s3_all_good_expert_cyber_scenario_5, s3_all_good_expert_cyber_scenario_6, s3_all_good_expert_cyber_scenario_7, s3_all_good_expert_cyber_scenario_8, s3_all_good_expert_cyber_scenario_9, s3_all_good_expert_cyber_scenario_10
+    Yes: 1 (4.35%)
+    No: 22 (95.65%)
+
+Demographic Type: age_30-49
+  Aggregated for: s3_all_good_expert_cyber_scenario_1, s3_all_good_expert_cyber_scenario_2, s3_all_good_expert_cyber_scenario_3, s3_all_good_expert_cyber_scenario_4, s3_all_good_expert_cyber_scenario_5, s3_all_good_expert_cyber_scenario_6, s3_all_good_expert_cyber_scenario_7, s3_all_good_expert_cyber_scenario_8, s3_all_good_expert_cyber_scenario_9, s3_all_good_expert_cyber_scenario_10
+    Yes: 2 (5.56%)
+    No: 34 (94.44%)
+
+Demographic Type: age_50+
+  Aggregated for: s3_all_good_expert_cyber_scenario_1, s3_all_good_expert_cyber_scenario_2, s3_all_good_expert_cyber_scenario_3, s3_all_good_expert_cyber_scenario_4, s3_all_good_expert_cyber_scenario_5, s3_all_good_expert_cyber_scenario_6, s3_all_good_expert_cyber_scenario_7, s3_all_good_expert_cyber_scenario_8, s3_all_good_expert_cyber_scenario_9, s3_all_good_expert_cyber_scenario_10
+    Yes: 0 (0.00%)
+    No: 9 (100.00%)
+
+Demographic Type: education_high_school
+  Aggregated for: s3_all_good_expert_cyber_scenario_1, s3_all_good_expert_cyber_scenario_2, s3_all_good_expert_cyber_scenario_3, s3_all_good_expert_cyber_scenario_4, s3_all_good_expert_cyber_scenario_5, s3_all_good_expert_cyber_scenario_6, s3_all_good_expert_cyber_scenario_7, s3_all_good_expert_cyber_scenario_8, s3_all_good_expert_cyber_scenario_9, s3_all_good_expert_cyber_scenario_10
+    Yes: 1 (5.26%)
+    No: 18 (94.74%)
+
+Demographic Type: education_bachelor
+  Aggregated for: s3_all_good_expert_cyber_scenario_1, s3_all_good_expert_cyber_scenario_2, s3_all_good_expert_cyber_scenario_3, s3_all_good_expert_cyber_scenario_4, s3_all_good_expert_cyber_scenario_5, s3_all_good_expert_cyber_scenario_6, s3_all_good_expert_cyber_scenario_7, s3_all_good_expert_cyber_scenario_8, s3_all_good_expert_cyber_scenario_9, s3_all_good_expert_cyber_scenario_10
+    Yes: 1 (3.45%)
+    No: 28 (96.55%)
+
+Demographic Type: education_master
+  Aggregated for: s3_all_good_expert_cyber_scenario_1, s3_all_good_expert_cyber_scenario_2, s3_all_good_expert_cyber_scenario_3, s3_all_good_expert_cyber_scenario_4, s3_all_good_expert_cyber_scenario_5, s3_all_good_expert_cyber_scenario_6, s3_all_good_expert_cyber_scenario_7, s3_all_good_expert_cyber_scenario_8, s3_all_good_expert_cyber_scenario_9, s3_all_good_expert_cyber_scenario_10
+    Yes: 1 (5.26%)
+    No: 18 (94.74%)
+
+Demographic Type: education_phd
+  Aggregated for: s3_all_good_expert_cyber_scenario_1, s3_all_good_expert_cyber_scenario_2, s3_all_good_expert_cyber_scenario_3, s3_all_good_expert_cyber_scenario_4, s3_all_good_expert_cyber_scenario_5, s3_all_good_expert_cyber_scenario_6, s3_all_good_expert_cyber_scenario_7, s3_all_good_expert_cyber_scenario_8, s3_all_good_expert_cyber_scenario_9, s3_all_good_expert_cyber_scenario_10
+    Yes: 0 (0.00%)
+    No: 1 (100.00%)
+
+Demographic Type: gender_male
+  Aggregated for: s3_all_good_user_scenario_1, s3_all_good_user_scenario_2, s3_all_good_user_scenario_3, s3_all_good_user_scenario_4, s3_all_good_user_scenario_5, s3_all_good_user_scenario_6, s3_all_good_user_scenario_7, s3_all_good_user_scenario_8, s3_all_good_user_scenario_9, s3_all_good_user_scenario_10
+    Yes: 86 (7.66%)
+    No: 1037 (92.34%)
+
+Demographic Type: gender_female
+  Aggregated for: s3_all_good_user_scenario_1, s3_all_good_user_scenario_2, s3_all_good_user_scenario_3, s3_all_good_user_scenario_4, s3_all_good_user_scenario_5, s3_all_good_user_scenario_6, s3_all_good_user_scenario_7, s3_all_good_user_scenario_8, s3_all_good_user_scenario_9, s3_all_good_user_scenario_10
+    Yes: 64 (6.60%)
+    No: 906 (93.40%)
+
+Demographic Type: age_18-29
+  Aggregated for: s3_all_good_user_scenario_1, s3_all_good_user_scenario_2, s3_all_good_user_scenario_3, s3_all_good_user_scenario_4, s3_all_good_user_scenario_5, s3_all_good_user_scenario_6, s3_all_good_user_scenario_7, s3_all_good_user_scenario_8, s3_all_good_user_scenario_9, s3_all_good_user_scenario_10
+    Yes: 60 (6.88%)
+    No: 812 (93.12%)
+
+Demographic Type: age_30-49
+  Aggregated for: s3_all_good_user_scenario_1, s3_all_good_user_scenario_2, s3_all_good_user_scenario_3, s3_all_good_user_scenario_4, s3_all_good_user_scenario_5, s3_all_good_user_scenario_6, s3_all_good_user_scenario_7, s3_all_good_user_scenario_8, s3_all_good_user_scenario_9, s3_all_good_user_scenario_10
+    Yes: 53 (6.28%)
+    No: 791 (93.72%)
+
+Demographic Type: age_50+
+  Aggregated for: s3_all_good_user_scenario_1, s3_all_good_user_scenario_2, s3_all_good_user_scenario_3, s3_all_good_user_scenario_4, s3_all_good_user_scenario_5, s3_all_good_user_scenario_6, s3_all_good_user_scenario_7, s3_all_good_user_scenario_8, s3_all_good_user_scenario_9, s3_all_good_user_scenario_10
+    Yes: 39 (9.70%)
+    No: 363 (90.30%)
+
+Demographic Type: education_high_school
+  Aggregated for: s3_all_good_user_scenario_1, s3_all_good_user_scenario_2, s3_all_good_user_scenario_3, s3_all_good_user_scenario_4, s3_all_good_user_scenario_5, s3_all_good_user_scenario_6, s3_all_good_user_scenario_7, s3_all_good_user_scenario_8, s3_all_good_user_scenario_9, s3_all_good_user_scenario_10
+    Yes: 33 (6.43%)
+    No: 480 (93.57%)
+
+Demographic Type: education_bachelor
+  Aggregated for: s3_all_good_user_scenario_1, s3_all_good_user_scenario_2, s3_all_good_user_scenario_3, s3_all_good_user_scenario_4, s3_all_good_user_scenario_5, s3_all_good_user_scenario_6, s3_all_good_user_scenario_7, s3_all_good_user_scenario_8, s3_all_good_user_scenario_9, s3_all_good_user_scenario_10
+    Yes: 54 (6.62%)
+    No: 762 (93.38%)
+
+Demographic Type: education_master
+  Aggregated for: s3_all_good_user_scenario_1, s3_all_good_user_scenario_2, s3_all_good_user_scenario_3, s3_all_good_user_scenario_4, s3_all_good_user_scenario_5, s3_all_good_user_scenario_6, s3_all_good_user_scenario_7, s3_all_good_user_scenario_8, s3_all_good_user_scenario_9, s3_all_good_user_scenario_10
+    Yes: 57 (8.11%)
+    No: 646 (91.89%)
+
+Demographic Type: education_phd
+  Aggregated for: s3_all_good_user_scenario_1, s3_all_good_user_scenario_2, s3_all_good_user_scenario_3, s3_all_good_user_scenario_4, s3_all_good_user_scenario_5, s3_all_good_user_scenario_6, s3_all_good_user_scenario_7, s3_all_good_user_scenario_8, s3_all_good_user_scenario_9, s3_all_good_user_scenario_10
+    Yes: 6 (10.71%)
+    No: 50 (89.29%)
+
+CONTROL scenarios:
+
+Demographic Type: gender_male
+  Aggregated for: s3_all_good_expert_scenario_1, s3_all_good_expert_scenario_2, s3_all_good_expert_scenario_3, s3_all_good_expert_scenario_4, s3_all_good_expert_scenario_5, s3_all_good_expert_scenario_6, s3_all_good_expert_scenario_7, s3_all_good_expert_scenario_8, s3_all_good_expert_scenario_9, s3_all_good_expert_scenario_10
+    Yes: 10 (15.15%)
+    No: 56 (84.85%)
+
+Demographic Type: gender_female
+  Aggregated for: s3_all_good_expert_scenario_1, s3_all_good_expert_scenario_2, s3_all_good_expert_scenario_3, s3_all_good_expert_scenario_4, s3_all_good_expert_scenario_5, s3_all_good_expert_scenario_6, s3_all_good_expert_scenario_7, s3_all_good_expert_scenario_8, s3_all_good_expert_scenario_9, s3_all_good_expert_scenario_10
+    Yes: 16 (15.53%)
+    No: 87 (84.47%)
+
+Demographic Type: age_18-29
+  Aggregated for: s3_all_good_expert_scenario_1, s3_all_good_expert_scenario_2, s3_all_good_expert_scenario_3, s3_all_good_expert_scenario_4, s3_all_good_expert_scenario_5, s3_all_good_expert_scenario_6, s3_all_good_expert_scenario_7, s3_all_good_expert_scenario_8, s3_all_good_expert_scenario_9, s3_all_good_expert_scenario_10
+    Yes: 7 (20.00%)
+    No: 28 (80.00%)
+
+Demographic Type: age_30-49
+  Aggregated for: s3_all_good_expert_scenario_1, s3_all_good_expert_scenario_2, s3_all_good_expert_scenario_3, s3_all_good_expert_scenario_4, s3_all_good_expert_scenario_5, s3_all_good_expert_scenario_6, s3_all_good_expert_scenario_7, s3_all_good_expert_scenario_8, s3_all_good_expert_scenario_9, s3_all_good_expert_scenario_10
+    Yes: 16 (16.84%)
+    No: 79 (83.16%)
+
+Demographic Type: age_50+
+  Aggregated for: s3_all_good_expert_scenario_1, s3_all_good_expert_scenario_2, s3_all_good_expert_scenario_3, s3_all_good_expert_scenario_4, s3_all_good_expert_scenario_5, s3_all_good_expert_scenario_6, s3_all_good_expert_scenario_7, s3_all_good_expert_scenario_8, s3_all_good_expert_scenario_9, s3_all_good_expert_scenario_10
+    Yes: 3 (7.32%)
+    No: 38 (92.68%)
+
+Demographic Type: education_high_school
+  Aggregated for: s3_all_good_expert_scenario_1, s3_all_good_expert_scenario_2, s3_all_good_expert_scenario_3, s3_all_good_expert_scenario_4, s3_all_good_expert_scenario_5, s3_all_good_expert_scenario_6, s3_all_good_expert_scenario_7, s3_all_good_expert_scenario_8, s3_all_good_expert_scenario_9, s3_all_good_expert_scenario_10
+    Yes: 4 (13.33%)
+    No: 26 (86.67%)
+
+Demographic Type: education_bachelor
+  Aggregated for: s3_all_good_expert_scenario_1, s3_all_good_expert_scenario_2, s3_all_good_expert_scenario_3, s3_all_good_expert_scenario_4, s3_all_good_expert_scenario_5, s3_all_good_expert_scenario_6, s3_all_good_expert_scenario_7, s3_all_good_expert_scenario_8, s3_all_good_expert_scenario_9, s3_all_good_expert_scenario_10
+    Yes: 6 (10.53%)
+    No: 51 (89.47%)
+
+Demographic Type: education_master
+  Aggregated for: s3_all_good_expert_scenario_1, s3_all_good_expert_scenario_2, s3_all_good_expert_scenario_3, s3_all_good_expert_scenario_4, s3_all_good_expert_scenario_5, s3_all_good_expert_scenario_6, s3_all_good_expert_scenario_7, s3_all_good_expert_scenario_8, s3_all_good_expert_scenario_9, s3_all_good_expert_scenario_10
+    Yes: 15 (19.74%)
+    No: 61 (80.26%)
+
+Demographic Type: education_phd
+  Aggregated for: s3_all_good_expert_scenario_1, s3_all_good_expert_scenario_2, s3_all_good_expert_scenario_3, s3_all_good_expert_scenario_4, s3_all_good_expert_scenario_5, s3_all_good_expert_scenario_6, s3_all_good_expert_scenario_7, s3_all_good_expert_scenario_8, s3_all_good_expert_scenario_9, s3_all_good_expert_scenario_10
+    Yes: 1 (12.50%)
+    No: 7 (87.50%)
+
+TEST scenarios:
+
+Demographic Type: gender_male
+  Aggregated for: s3_g8_scenario_1, s3_g8_scenario_2, s3_g8_scenario_3, s3_g8_scenario_4, s3_g8_scenario_5, s3_g8_scenario_6, s3_g8_scenario_7, s3_g8_scenario_8, s3_g8_scenario_9, s3_g8_scenario_10
+    Yes: 12 (27.27%)
+    No: 32 (72.73%)
+
+Demographic Type: gender_female
+  Aggregated for: s3_g8_scenario_1, s3_g8_scenario_2, s3_g8_scenario_3, s3_g8_scenario_4, s3_g8_scenario_5, s3_g8_scenario_6, s3_g8_scenario_7, s3_g8_scenario_8, s3_g8_scenario_9, s3_g8_scenario_10
+    Yes: 9 (14.06%)
+    No: 55 (85.94%)
+
+Demographic Type: age_18-29
+  Aggregated for: s3_g8_scenario_1, s3_g8_scenario_2, s3_g8_scenario_3, s3_g8_scenario_4, s3_g8_scenario_5, s3_g8_scenario_6, s3_g8_scenario_7, s3_g8_scenario_8, s3_g8_scenario_9, s3_g8_scenario_10
+    Yes: 8 (15.38%)
+    No: 44 (84.62%)
+
+Demographic Type: age_30-49
+  Aggregated for: s3_g8_scenario_1, s3_g8_scenario_2, s3_g8_scenario_3, s3_g8_scenario_4, s3_g8_scenario_5, s3_g8_scenario_6, s3_g8_scenario_7, s3_g8_scenario_8, s3_g8_scenario_9, s3_g8_scenario_10
+    Yes: 8 (20.00%)
+    No: 32 (80.00%)
+
+Demographic Type: age_50+
+  Aggregated for: s3_g8_scenario_1, s3_g8_scenario_2, s3_g8_scenario_3, s3_g8_scenario_4, s3_g8_scenario_5, s3_g8_scenario_6, s3_g8_scenario_7, s3_g8_scenario_8, s3_g8_scenario_9, s3_g8_scenario_10
+    Yes: 5 (27.78%)
+    No: 13 (72.22%)
+
+Demographic Type: education_high_school
+  Aggregated for: s3_g8_scenario_1, s3_g8_scenario_2, s3_g8_scenario_3, s3_g8_scenario_4, s3_g8_scenario_5, s3_g8_scenario_6, s3_g8_scenario_7, s3_g8_scenario_8, s3_g8_scenario_9, s3_g8_scenario_10
+    Yes: 6 (23.08%)
+    No: 20 (76.92%)
+
+Demographic Type: education_bachelor
+  Aggregated for: s3_g8_scenario_1, s3_g8_scenario_2, s3_g8_scenario_3, s3_g8_scenario_4, s3_g8_scenario_5, s3_g8_scenario_6, s3_g8_scenario_7, s3_g8_scenario_8, s3_g8_scenario_9, s3_g8_scenario_10
+    Yes: 7 (26.92%)
+    No: 19 (73.08%)
+
+Demographic Type: education_master
+  Aggregated for: s3_g8_scenario_1, s3_g8_scenario_2, s3_g8_scenario_3, s3_g8_scenario_4, s3_g8_scenario_5, s3_g8_scenario_6, s3_g8_scenario_7, s3_g8_scenario_8, s3_g8_scenario_9, s3_g8_scenario_10
+    Yes: 8 (14.81%)
+    No: 46 (85.19%)
+
+Demographic Type: education_phd
+Demographic Type: gender_male
+  Aggregated for: s3_g9_scenario_1, s3_g9_scenario_2, s3_g9_scenario_3, s3_g9_scenario_4, s3_g9_scenario_5, s3_g9_scenario_6, s3_g9_scenario_7, s3_g9_scenario_8, s3_g9_scenario_9, s3_g9_scenario_10
+    Yes: 33 (24.63%)
+    No: 101 (75.37%)
+
+Demographic Type: gender_female
+  Aggregated for: s3_g9_scenario_1, s3_g9_scenario_2, s3_g9_scenario_3, s3_g9_scenario_4, s3_g9_scenario_5, s3_g9_scenario_6, s3_g9_scenario_7, s3_g9_scenario_8, s3_g9_scenario_9, s3_g9_scenario_10
+    Yes: 27 (20.77%)
+    No: 103 (79.23%)
+
+Demographic Type: age_18-29
+  Aggregated for: s3_g9_scenario_1, s3_g9_scenario_2, s3_g9_scenario_3, s3_g9_scenario_4, s3_g9_scenario_5, s3_g9_scenario_6, s3_g9_scenario_7, s3_g9_scenario_8, s3_g9_scenario_9, s3_g9_scenario_10
+    Yes: 36 (33.96%)
+    No: 70 (66.04%)
+
+Demographic Type: age_30-49
+  Aggregated for: s3_g9_scenario_1, s3_g9_scenario_2, s3_g9_scenario_3, s3_g9_scenario_4, s3_g9_scenario_5, s3_g9_scenario_6, s3_g9_scenario_7, s3_g9_scenario_8, s3_g9_scenario_9, s3_g9_scenario_10
+    Yes: 17 (14.17%)
+    No: 103 (85.83%)
+
+Demographic Type: age_50+
+  Aggregated for: s3_g9_scenario_1, s3_g9_scenario_2, s3_g9_scenario_3, s3_g9_scenario_4, s3_g9_scenario_5, s3_g9_scenario_6, s3_g9_scenario_7, s3_g9_scenario_8, s3_g9_scenario_9, s3_g9_scenario_10
+    Yes: 9 (19.57%)
+    No: 37 (80.43%)
+
+Demographic Type: education_high_school
+  Aggregated for: s3_g9_scenario_1, s3_g9_scenario_2, s3_g9_scenario_3, s3_g9_scenario_4, s3_g9_scenario_5, s3_g9_scenario_6, s3_g9_scenario_7, s3_g9_scenario_8, s3_g9_scenario_9, s3_g9_scenario_10
+    Yes: 17 (30.36%)
+    No: 39 (69.64%)
+
+Demographic Type: education_bachelor
+  Aggregated for: s3_g9_scenario_1, s3_g9_scenario_2, s3_g9_scenario_3, s3_g9_scenario_4, s3_g9_scenario_5, s3_g9_scenario_6, s3_g9_scenario_7, s3_g9_scenario_8, s3_g9_scenario_9, s3_g9_scenario_10
+    Yes: 24 (25.53%)
+    No: 70 (74.47%)
+
+Demographic Type: education_master
+  Aggregated for: s3_g9_scenario_1, s3_g9_scenario_2, s3_g9_scenario_3, s3_g9_scenario_4, s3_g9_scenario_5, s3_g9_scenario_6, s3_g9_scenario_7, s3_g9_scenario_8, s3_g9_scenario_9, s3_g9_scenario_10
+    Yes: 17 (15.45%)
+    No: 93 (84.55%)
+
+Demographic Type: education_phd
+  Aggregated for: s3_g9_scenario_1, s3_g9_scenario_2, s3_g9_scenario_3, s3_g9_scenario_4, s3_g9_scenario_5, s3_g9_scenario_6, s3_g9_scenario_7, s3_g9_scenario_8, s3_g9_scenario_9, s3_g9_scenario_10
+    Yes: 4 (33.33%)
+    No: 8 (66.67%)
+
+
+=== Group S4 ===
+ALL_GOOD scenarios:
+
+Demographic Type: gender_male
+  Aggregated for: s4_all_good_no_purpose_scenario_1, s4_all_good_no_purpose_scenario_2, s4_all_good_no_purpose_scenario_3, s4_all_good_no_purpose_scenario_4, s4_all_good_no_purpose_scenario_5
+    Yes: 371 (74.65%)
+    No: 126 (25.35%)
+
+Demographic Type: gender_female
+  Aggregated for: s4_all_good_no_purpose_scenario_1, s4_all_good_no_purpose_scenario_2, s4_all_good_no_purpose_scenario_3, s4_all_good_no_purpose_scenario_4, s4_all_good_no_purpose_scenario_5
+    Yes: 328 (72.73%)
+    No: 123 (27.27%)
+
+Demographic Type: age_18-29
+  Aggregated for: s4_all_good_no_purpose_scenario_1, s4_all_good_no_purpose_scenario_2, s4_all_good_no_purpose_scenario_3, s4_all_good_no_purpose_scenario_4, s4_all_good_no_purpose_scenario_5
+    Yes: 294 (78.19%)
+    No: 82 (21.81%)
+
+Demographic Type: age_30-49
+  Aggregated for: s4_all_good_no_purpose_scenario_1, s4_all_good_no_purpose_scenario_2, s4_all_good_no_purpose_scenario_3, s4_all_good_no_purpose_scenario_4, s4_all_good_no_purpose_scenario_5
+    Yes: 283 (70.93%)
+    No: 116 (29.07%)
+
+Demographic Type: age_50+
+  Aggregated for: s4_all_good_no_purpose_scenario_1, s4_all_good_no_purpose_scenario_2, s4_all_good_no_purpose_scenario_3, s4_all_good_no_purpose_scenario_4, s4_all_good_no_purpose_scenario_5
+    Yes: 133 (71.51%)
+    No: 53 (28.49%)
+
+Demographic Type: education_high_school
+  Aggregated for: s4_all_good_no_purpose_scenario_1, s4_all_good_no_purpose_scenario_2, s4_all_good_no_purpose_scenario_3, s4_all_good_no_purpose_scenario_4, s4_all_good_no_purpose_scenario_5
+    Yes: 170 (76.58%)
+    No: 52 (23.42%)
+
+Demographic Type: education_bachelor
+  Aggregated for: s4_all_good_no_purpose_scenario_1, s4_all_good_no_purpose_scenario_2, s4_all_good_no_purpose_scenario_3, s4_all_good_no_purpose_scenario_4, s4_all_good_no_purpose_scenario_5
+    Yes: 270 (74.18%)
+    No: 94 (25.82%)
+
+Demographic Type: education_master
+  Aggregated for: s4_all_good_no_purpose_scenario_1, s4_all_good_no_purpose_scenario_2, s4_all_good_no_purpose_scenario_3, s4_all_good_no_purpose_scenario_4, s4_all_good_no_purpose_scenario_5
+    Yes: 241 (71.09%)
+    No: 98 (28.91%)
+
+Demographic Type: education_phd
+  Aggregated for: s4_all_good_no_purpose_scenario_1, s4_all_good_no_purpose_scenario_2, s4_all_good_no_purpose_scenario_3, s4_all_good_no_purpose_scenario_4, s4_all_good_no_purpose_scenario_5
+    Yes: 19 (73.08%)
+    No: 7 (26.92%)
+
+Demographic Type: gender_male
+  Aggregated for: s4_all_good_purpose_proper_scenario_1, s4_all_good_purpose_proper_scenario_2, s4_all_good_purpose_proper_scenario_3, s4_all_good_purpose_proper_scenario_4, s4_all_good_purpose_proper_scenario_5
+    Yes: 381 (77.76%)
+    No: 109 (22.24%)
+
+Demographic Type: gender_female
+  Aggregated for: s4_all_good_purpose_proper_scenario_1, s4_all_good_purpose_proper_scenario_2, s4_all_good_purpose_proper_scenario_3, s4_all_good_purpose_proper_scenario_4, s4_all_good_purpose_proper_scenario_5
+    Yes: 375 (76.84%)
+    No: 113 (23.16%)
+
+Demographic Type: age_18-29
+  Aggregated for: s4_all_good_purpose_proper_scenario_1, s4_all_good_purpose_proper_scenario_2, s4_all_good_purpose_proper_scenario_3, s4_all_good_purpose_proper_scenario_4, s4_all_good_purpose_proper_scenario_5
+    Yes: 305 (80.05%)
+    No: 76 (19.95%)
+
+Demographic Type: age_30-49
+  Aggregated for: s4_all_good_purpose_proper_scenario_1, s4_all_good_purpose_proper_scenario_2, s4_all_good_purpose_proper_scenario_3, s4_all_good_purpose_proper_scenario_4, s4_all_good_purpose_proper_scenario_5
+    Yes: 299 (76.08%)
+    No: 94 (23.92%)
+
+Demographic Type: age_50+
+  Aggregated for: s4_all_good_purpose_proper_scenario_1, s4_all_good_purpose_proper_scenario_2, s4_all_good_purpose_proper_scenario_3, s4_all_good_purpose_proper_scenario_4, s4_all_good_purpose_proper_scenario_5
+    Yes: 162 (75.35%)
+    No: 53 (24.65%)
+
+Demographic Type: education_high_school
+  Aggregated for: s4_all_good_purpose_proper_scenario_1, s4_all_good_purpose_proper_scenario_2, s4_all_good_purpose_proper_scenario_3, s4_all_good_purpose_proper_scenario_4, s4_all_good_purpose_proper_scenario_5
+    Yes: 166 (77.57%)
+    No: 48 (22.43%)
+
+Demographic Type: education_bachelor
+  Aggregated for: s4_all_good_purpose_proper_scenario_1, s4_all_good_purpose_proper_scenario_2, s4_all_good_purpose_proper_scenario_3, s4_all_good_purpose_proper_scenario_4, s4_all_good_purpose_proper_scenario_5
+    Yes: 307 (78.72%)
+    No: 83 (21.28%)
+
+Demographic Type: education_master
+  Aggregated for: s4_all_good_purpose_proper_scenario_1, s4_all_good_purpose_proper_scenario_2, s4_all_good_purpose_proper_scenario_3, s4_all_good_purpose_proper_scenario_4, s4_all_good_purpose_proper_scenario_5
+    Yes: 257 (76.49%)
+    No: 79 (23.51%)
+
+Demographic Type: education_phd
+  Aggregated for: s4_all_good_purpose_proper_scenario_1, s4_all_good_purpose_proper_scenario_2, s4_all_good_purpose_proper_scenario_3, s4_all_good_purpose_proper_scenario_4, s4_all_good_purpose_proper_scenario_5
+    Yes: 29 (78.38%)
+    No: 8 (21.62%)
+
+Demographic Type: gender_male
+  Aggregated for: s4_all_good_purpose_vague_scenario_1, s4_all_good_purpose_vague_scenario_2, s4_all_good_purpose_vague_scenario_3, s4_all_good_purpose_vague_scenario_4, s4_all_good_purpose_vague_scenario_5
+    Yes: 383 (75.69%)
+    No: 123 (24.31%)
+
+Demographic Type: gender_female
+  Aggregated for: s4_all_good_purpose_vague_scenario_1, s4_all_good_purpose_vague_scenario_2, s4_all_good_purpose_vague_scenario_3, s4_all_good_purpose_vague_scenario_4, s4_all_good_purpose_vague_scenario_5
+    Yes: 330 (67.21%)
+    No: 161 (32.79%)
+
+Demographic Type: age_18-29
+  Aggregated for: s4_all_good_purpose_vague_scenario_1, s4_all_good_purpose_vague_scenario_2, s4_all_good_purpose_vague_scenario_3, s4_all_good_purpose_vague_scenario_4, s4_all_good_purpose_vague_scenario_5
+    Yes: 305 (70.93%)
+    No: 125 (29.07%)
+
+Demographic Type: age_30-49
+  Aggregated for: s4_all_good_purpose_vague_scenario_1, s4_all_good_purpose_vague_scenario_2, s4_all_good_purpose_vague_scenario_3, s4_all_good_purpose_vague_scenario_4, s4_all_good_purpose_vague_scenario_5
+    Yes: 288 (71.46%)
+    No: 115 (28.54%)
+
+Demographic Type: age_50+
+  Aggregated for: s4_all_good_purpose_vague_scenario_1, s4_all_good_purpose_vague_scenario_2, s4_all_good_purpose_vague_scenario_3, s4_all_good_purpose_vague_scenario_4, s4_all_good_purpose_vague_scenario_5
+    Yes: 134 (72.43%)
+    No: 51 (27.57%)
+
+Demographic Type: education_high_school
+  Aggregated for: s4_all_good_purpose_vague_scenario_1, s4_all_good_purpose_vague_scenario_2, s4_all_good_purpose_vague_scenario_3, s4_all_good_purpose_vague_scenario_4, s4_all_good_purpose_vague_scenario_5
+    Yes: 175 (73.53%)
+    No: 63 (26.47%)
+
+Demographic Type: education_bachelor
+  Aggregated for: s4_all_good_purpose_vague_scenario_1, s4_all_good_purpose_vague_scenario_2, s4_all_good_purpose_vague_scenario_3, s4_all_good_purpose_vague_scenario_4, s4_all_good_purpose_vague_scenario_5
+    Yes: 283 (72.19%)
+    No: 109 (27.81%)
+
+Demographic Type: education_master
+  Aggregated for: s4_all_good_purpose_vague_scenario_1, s4_all_good_purpose_vague_scenario_2, s4_all_good_purpose_vague_scenario_3, s4_all_good_purpose_vague_scenario_4, s4_all_good_purpose_vague_scenario_5
+    Yes: 241 (68.47%)
+    No: 111 (31.53%)
+
+Demographic Type: education_phd
+  Aggregated for: s4_all_good_purpose_vague_scenario_1, s4_all_good_purpose_vague_scenario_2, s4_all_good_purpose_vague_scenario_3, s4_all_good_purpose_vague_scenario_4, s4_all_good_purpose_vague_scenario_5
+    Yes: 17 (70.83%)
+    No: 7 (29.17%)
+
+CONTROL scenarios:
+
+Demographic Type: gender_male
+  Aggregated for: s4_all_good_no_purpose_scenario_1, s4_all_good_no_purpose_scenario_2, s4_all_good_no_purpose_scenario_3, s4_all_good_no_purpose_scenario_4, s4_all_good_no_purpose_scenario_5
+    Yes: 16 (84.21%)
+    No: 3 (15.79%)
+
+Demographic Type: gender_female
+  Aggregated for: s4_all_good_no_purpose_scenario_1, s4_all_good_no_purpose_scenario_2, s4_all_good_no_purpose_scenario_3, s4_all_good_no_purpose_scenario_4, s4_all_good_no_purpose_scenario_5
+    Yes: 22 (66.67%)
+    No: 11 (33.33%)
+
+Demographic Type: age_18-29
+  Aggregated for: s4_all_good_no_purpose_scenario_1, s4_all_good_no_purpose_scenario_2, s4_all_good_no_purpose_scenario_3, s4_all_good_no_purpose_scenario_4, s4_all_good_no_purpose_scenario_5
+    Yes: 10 (66.67%)
+    No: 5 (33.33%)
+
+Demographic Type: age_30-49
+  Aggregated for: s4_all_good_no_purpose_scenario_1, s4_all_good_no_purpose_scenario_2, s4_all_good_no_purpose_scenario_3, s4_all_good_no_purpose_scenario_4, s4_all_good_no_purpose_scenario_5
+    Yes: 22 (78.57%)
+    No: 6 (21.43%)
+
+Demographic Type: age_50+
+  Aggregated for: s4_all_good_no_purpose_scenario_1, s4_all_good_no_purpose_scenario_2, s4_all_good_no_purpose_scenario_3, s4_all_good_no_purpose_scenario_4, s4_all_good_no_purpose_scenario_5
+    Yes: 7 (70.00%)
+    No: 3 (30.00%)
+
+Demographic Type: education_high_school
+  Aggregated for: s4_all_good_no_purpose_scenario_1, s4_all_good_no_purpose_scenario_2, s4_all_good_no_purpose_scenario_3, s4_all_good_no_purpose_scenario_4, s4_all_good_no_purpose_scenario_5
+    Yes: 7 (70.00%)
+    No: 3 (30.00%)
+
+Demographic Type: education_bachelor
+  Aggregated for: s4_all_good_no_purpose_scenario_1, s4_all_good_no_purpose_scenario_2, s4_all_good_no_purpose_scenario_3, s4_all_good_no_purpose_scenario_4, s4_all_good_no_purpose_scenario_5
+    Yes: 13 (68.42%)
+    No: 6 (31.58%)
+
+Demographic Type: education_master
+  Aggregated for: s4_all_good_no_purpose_scenario_1, s4_all_good_no_purpose_scenario_2, s4_all_good_no_purpose_scenario_3, s4_all_good_no_purpose_scenario_4, s4_all_good_no_purpose_scenario_5
+    Yes: 17 (80.95%)
+    No: 4 (19.05%)
+
+Demographic Type: education_phd
+  Aggregated for: s4_all_good_no_purpose_scenario_1, s4_all_good_no_purpose_scenario_2, s4_all_good_no_purpose_scenario_3, s4_all_good_no_purpose_scenario_4, s4_all_good_no_purpose_scenario_5
+    Yes: 2 (66.67%)
+    No: 1 (33.33%)
+
+Demographic Type: gender_male
+  Aggregated for: s4_all_good_purpose_proper_scenario_1, s4_all_good_purpose_proper_scenario_2, s4_all_good_purpose_proper_scenario_3, s4_all_good_purpose_proper_scenario_4, s4_all_good_purpose_proper_scenario_5
+    Yes: 14 (63.64%)
+    No: 8 (36.36%)
+
+Demographic Type: gender_female
+  Aggregated for: s4_all_good_purpose_proper_scenario_1, s4_all_good_purpose_proper_scenario_2, s4_all_good_purpose_proper_scenario_3, s4_all_good_purpose_proper_scenario_4, s4_all_good_purpose_proper_scenario_5
+    Yes: 25 (75.76%)
+    No: 8 (24.24%)
+
+Demographic Type: age_18-29
+  Aggregated for: s4_all_good_purpose_proper_scenario_1, s4_all_good_purpose_proper_scenario_2, s4_all_good_purpose_proper_scenario_3, s4_all_good_purpose_proper_scenario_4, s4_all_good_purpose_proper_scenario_5
+    Yes: 13 (72.22%)
+    No: 5 (27.78%)
+
+Demographic Type: age_30-49
+  Aggregated for: s4_all_good_purpose_proper_scenario_1, s4_all_good_purpose_proper_scenario_2, s4_all_good_purpose_proper_scenario_3, s4_all_good_purpose_proper_scenario_4, s4_all_good_purpose_proper_scenario_5
+    Yes: 20 (76.92%)
+    No: 6 (23.08%)
+
+Demographic Type: age_50+
+  Aggregated for: s4_all_good_purpose_proper_scenario_1, s4_all_good_purpose_proper_scenario_2, s4_all_good_purpose_proper_scenario_3, s4_all_good_purpose_proper_scenario_4, s4_all_good_purpose_proper_scenario_5
+    Yes: 8 (53.33%)
+    No: 7 (46.67%)
+
+Demographic Type: education_high_school
+  Aggregated for: s4_all_good_purpose_proper_scenario_1, s4_all_good_purpose_proper_scenario_2, s4_all_good_purpose_proper_scenario_3, s4_all_good_purpose_proper_scenario_4, s4_all_good_purpose_proper_scenario_5
+    Yes: 8 (66.67%)
+    No: 4 (33.33%)
+
+Demographic Type: education_bachelor
+  Aggregated for: s4_all_good_purpose_proper_scenario_1, s4_all_good_purpose_proper_scenario_2, s4_all_good_purpose_proper_scenario_3, s4_all_good_purpose_proper_scenario_4, s4_all_good_purpose_proper_scenario_5
+    Yes: 20 (71.43%)
+    No: 8 (28.57%)
+
+Demographic Type: education_master
+  Aggregated for: s4_all_good_purpose_proper_scenario_1, s4_all_good_purpose_proper_scenario_2, s4_all_good_purpose_proper_scenario_3, s4_all_good_purpose_proper_scenario_4, s4_all_good_purpose_proper_scenario_5
+    Yes: 11 (64.71%)
+    No: 6 (35.29%)
+
+Demographic Type: education_phd
+  Aggregated for: s4_all_good_purpose_proper_scenario_1, s4_all_good_purpose_proper_scenario_2, s4_all_good_purpose_proper_scenario_3, s4_all_good_purpose_proper_scenario_4, s4_all_good_purpose_proper_scenario_5
+    Yes: 2 (100.00%)
+    No: 0 (0.00%)
+
+Demographic Type: gender_male
+  Aggregated for: s4_all_good_purpose_vague_scenario_1, s4_all_good_purpose_vague_scenario_2, s4_all_good_purpose_vague_scenario_3, s4_all_good_purpose_vague_scenario_4, s4_all_good_purpose_vague_scenario_5
+    Yes: 15 (62.50%)
+    No: 9 (37.50%)
+
+Demographic Type: gender_female
+  Aggregated for: s4_all_good_purpose_vague_scenario_1, s4_all_good_purpose_vague_scenario_2, s4_all_good_purpose_vague_scenario_3, s4_all_good_purpose_vague_scenario_4, s4_all_good_purpose_vague_scenario_5
+    Yes: 16 (66.67%)
+    No: 8 (33.33%)
+
+Demographic Type: age_18-29
+  Aggregated for: s4_all_good_purpose_vague_scenario_1, s4_all_good_purpose_vague_scenario_2, s4_all_good_purpose_vague_scenario_3, s4_all_good_purpose_vague_scenario_4, s4_all_good_purpose_vague_scenario_5
+    Yes: 8 (80.00%)
+    No: 2 (20.00%)
+
+Demographic Type: age_30-49
+  Aggregated for: s4_all_good_purpose_vague_scenario_1, s4_all_good_purpose_vague_scenario_2, s4_all_good_purpose_vague_scenario_3, s4_all_good_purpose_vague_scenario_4, s4_all_good_purpose_vague_scenario_5
+    Yes: 18 (66.67%)
+    No: 9 (33.33%)
+
+Demographic Type: age_50+
+  Aggregated for: s4_all_good_purpose_vague_scenario_1, s4_all_good_purpose_vague_scenario_2, s4_all_good_purpose_vague_scenario_3, s4_all_good_purpose_vague_scenario_4, s4_all_good_purpose_vague_scenario_5
+    Yes: 5 (45.45%)
+    No: 6 (54.55%)
+
+Demographic Type: education_high_school
+  Aggregated for: s4_all_good_purpose_vague_scenario_1, s4_all_good_purpose_vague_scenario_2, s4_all_good_purpose_vague_scenario_3, s4_all_good_purpose_vague_scenario_4, s4_all_good_purpose_vague_scenario_5
+    Yes: 4 (40.00%)
+    No: 6 (60.00%)
+
+Demographic Type: education_bachelor
+  Aggregated for: s4_all_good_purpose_vague_scenario_1, s4_all_good_purpose_vague_scenario_2, s4_all_good_purpose_vague_scenario_3, s4_all_good_purpose_vague_scenario_4, s4_all_good_purpose_vague_scenario_5
+    Yes: 9 (60.00%)
+    No: 6 (40.00%)
+
+Demographic Type: education_master
+  Aggregated for: s4_all_good_purpose_vague_scenario_1, s4_all_good_purpose_vague_scenario_2, s4_all_good_purpose_vague_scenario_3, s4_all_good_purpose_vague_scenario_4, s4_all_good_purpose_vague_scenario_5
+    Yes: 18 (78.26%)
+    No: 5 (21.74%)
+
+Demographic Type: education_phd
+TEST scenarios:
+
+Demographic Type: gender_male
+  Aggregated for: s4_proper_scenario_1, s4_proper_scenario_2, s4_proper_scenario_3, s4_proper_scenario_4, s4_proper_scenario_5
+    Yes: 33 (55.00%)
+    No: 27 (45.00%)
+
+Demographic Type: gender_female
+  Aggregated for: s4_proper_scenario_1, s4_proper_scenario_2, s4_proper_scenario_3, s4_proper_scenario_4, s4_proper_scenario_5
+    Yes: 20 (52.63%)
+    No: 18 (47.37%)
+
+Demographic Type: age_18-29
+  Aggregated for: s4_proper_scenario_1, s4_proper_scenario_2, s4_proper_scenario_3, s4_proper_scenario_4, s4_proper_scenario_5
+    Yes: 23 (57.50%)
+    No: 17 (42.50%)
+
+Demographic Type: age_30-49
+  Aggregated for: s4_proper_scenario_1, s4_proper_scenario_2, s4_proper_scenario_3, s4_proper_scenario_4, s4_proper_scenario_5
+    Yes: 22 (50.00%)
+    No: 22 (50.00%)
+
+Demographic Type: age_50+
+  Aggregated for: s4_proper_scenario_1, s4_proper_scenario_2, s4_proper_scenario_3, s4_proper_scenario_4, s4_proper_scenario_5
+    Yes: 8 (50.00%)
+    No: 8 (50.00%)
+
+Demographic Type: education_high_school
+  Aggregated for: s4_proper_scenario_1, s4_proper_scenario_2, s4_proper_scenario_3, s4_proper_scenario_4, s4_proper_scenario_5
+    Yes: 16 (61.54%)
+    No: 10 (38.46%)
+
+Demographic Type: education_bachelor
+  Aggregated for: s4_proper_scenario_1, s4_proper_scenario_2, s4_proper_scenario_3, s4_proper_scenario_4, s4_proper_scenario_5
+    Yes: 18 (52.94%)
+    No: 16 (47.06%)
+
+Demographic Type: education_master
+  Aggregated for: s4_proper_scenario_1, s4_proper_scenario_2, s4_proper_scenario_3, s4_proper_scenario_4, s4_proper_scenario_5
+    Yes: 15 (44.12%)
+    No: 19 (55.88%)
+
+Demographic Type: education_phd
+  Aggregated for: s4_proper_scenario_1, s4_proper_scenario_2, s4_proper_scenario_3, s4_proper_scenario_4, s4_proper_scenario_5
+    Yes: 4 (100.00%)
+    No: 0 (0.00%)
+
+Demographic Type: gender_male
+  Aggregated for: s4_vague_scenario_1, s4_vague_scenario_2, s4_vague_scenario_3, s4_vague_scenario_4, s4_vague_scenario_5
+    Yes: 26 (52.00%)
+    No: 24 (48.00%)
+
+Demographic Type: gender_female
+  Aggregated for: s4_vague_scenario_1, s4_vague_scenario_2, s4_vague_scenario_3, s4_vague_scenario_4, s4_vague_scenario_5
+    Yes: 24 (42.86%)
+    No: 32 (57.14%)
+
+Demographic Type: age_18-29
+  Aggregated for: s4_vague_scenario_1, s4_vague_scenario_2, s4_vague_scenario_3, s4_vague_scenario_4, s4_vague_scenario_5
+    Yes: 25 (52.08%)
+    No: 23 (47.92%)
+
+Demographic Type: age_30-49
+  Aggregated for: s4_vague_scenario_1, s4_vague_scenario_2, s4_vague_scenario_3, s4_vague_scenario_4, s4_vague_scenario_5
+    Yes: 21 (45.65%)
+    No: 25 (54.35%)
+
+Demographic Type: age_50+
+  Aggregated for: s4_vague_scenario_1, s4_vague_scenario_2, s4_vague_scenario_3, s4_vague_scenario_4, s4_vague_scenario_5
+    Yes: 4 (33.33%)
+    No: 8 (66.67%)
+
+Demographic Type: education_high_school
+  Aggregated for: s4_vague_scenario_1, s4_vague_scenario_2, s4_vague_scenario_3, s4_vague_scenario_4, s4_vague_scenario_5
+    Yes: 10 (38.46%)
+    No: 16 (61.54%)
+
+Demographic Type: education_bachelor
+  Aggregated for: s4_vague_scenario_1, s4_vague_scenario_2, s4_vague_scenario_3, s4_vague_scenario_4, s4_vague_scenario_5
+    Yes: 24 (57.14%)
+    No: 18 (42.86%)
+
+Demographic Type: education_master
+  Aggregated for: s4_vague_scenario_1, s4_vague_scenario_2, s4_vague_scenario_3, s4_vague_scenario_4, s4_vague_scenario_5
+    Yes: 14 (41.18%)
+    No: 20 (58.82%)
+
+Demographic Type: education_phd
+
+=== Group S5 ===
+ALL_GOOD scenarios:
+
+Demographic Type: gender_male
+  Aggregated for: s5_all_good_scenario_1, s5_all_good_scenario_2, s5_all_good_scenario_3, s5_all_good_scenario_4, s5_all_good_scenario_5, s5_all_good_scenario_6, s5_all_good_scenario_7, s5_all_good_scenario_8, s5_all_good_scenario_9, s5_all_good_scenario_10
+    Yes: 78 (6.54%)
+    No: 1115 (93.46%)
+
+Demographic Type: gender_female
+  Aggregated for: s5_all_good_scenario_1, s5_all_good_scenario_2, s5_all_good_scenario_3, s5_all_good_scenario_4, s5_all_good_scenario_5, s5_all_good_scenario_6, s5_all_good_scenario_7, s5_all_good_scenario_8, s5_all_good_scenario_9, s5_all_good_scenario_10
+    Yes: 83 (6.30%)
+    No: 1234 (93.70%)
+
+Demographic Type: age_18-29
+  Aggregated for: s5_all_good_scenario_1, s5_all_good_scenario_2, s5_all_good_scenario_3, s5_all_good_scenario_4, s5_all_good_scenario_5, s5_all_good_scenario_6, s5_all_good_scenario_7, s5_all_good_scenario_8, s5_all_good_scenario_9, s5_all_good_scenario_10
+    Yes: 72 (6.95%)
+    No: 964 (93.05%)
+
+Demographic Type: age_30-49
+  Aggregated for: s5_all_good_scenario_1, s5_all_good_scenario_2, s5_all_good_scenario_3, s5_all_good_scenario_4, s5_all_good_scenario_5, s5_all_good_scenario_6, s5_all_good_scenario_7, s5_all_good_scenario_8, s5_all_good_scenario_9, s5_all_good_scenario_10
+    Yes: 52 (5.02%)
+    No: 983 (94.98%)
+
+Demographic Type: age_50+
+  Aggregated for: s5_all_good_scenario_1, s5_all_good_scenario_2, s5_all_good_scenario_3, s5_all_good_scenario_4, s5_all_good_scenario_5, s5_all_good_scenario_6, s5_all_good_scenario_7, s5_all_good_scenario_8, s5_all_good_scenario_9, s5_all_good_scenario_10
+    Yes: 41 (8.63%)
+    No: 434 (91.37%)
+
+Demographic Type: education_high_school
+  Aggregated for: s5_all_good_scenario_1, s5_all_good_scenario_2, s5_all_good_scenario_3, s5_all_good_scenario_4, s5_all_good_scenario_5, s5_all_good_scenario_6, s5_all_good_scenario_7, s5_all_good_scenario_8, s5_all_good_scenario_9, s5_all_good_scenario_10
+    Yes: 49 (8.10%)
+    No: 556 (91.90%)
+
+Demographic Type: education_bachelor
+  Aggregated for: s5_all_good_scenario_1, s5_all_good_scenario_2, s5_all_good_scenario_3, s5_all_good_scenario_4, s5_all_good_scenario_5, s5_all_good_scenario_6, s5_all_good_scenario_7, s5_all_good_scenario_8, s5_all_good_scenario_9, s5_all_good_scenario_10
+    Yes: 45 (4.93%)
+    No: 867 (95.07%)
+
+Demographic Type: education_master
+  Aggregated for: s5_all_good_scenario_1, s5_all_good_scenario_2, s5_all_good_scenario_3, s5_all_good_scenario_4, s5_all_good_scenario_5, s5_all_good_scenario_6, s5_all_good_scenario_7, s5_all_good_scenario_8, s5_all_good_scenario_9, s5_all_good_scenario_10
+    Yes: 58 (6.26%)
+    No: 868 (93.74%)
+
+Demographic Type: education_phd
+  Aggregated for: s5_all_good_scenario_1, s5_all_good_scenario_2, s5_all_good_scenario_3, s5_all_good_scenario_4, s5_all_good_scenario_5, s5_all_good_scenario_6, s5_all_good_scenario_7, s5_all_good_scenario_8, s5_all_good_scenario_9, s5_all_good_scenario_10
+    Yes: 10 (13.16%)
+    No: 66 (86.84%)
+
+Demographic Type: gender_male
+  Aggregated for: s5_all_good_law_scenario_1, s5_all_good_law_scenario_2, s5_all_good_law_scenario_3, s5_all_good_law_scenario_4, s5_all_good_law_scenario_5, s5_all_good_law_scenario_6, s5_all_good_law_scenario_7, s5_all_good_law_scenario_8, s5_all_good_law_scenario_9, s5_all_good_law_scenario_10
+    Yes: 1 (2.94%)
+    No: 33 (97.06%)
+
+Demographic Type: gender_female
+  Aggregated for: s5_all_good_law_scenario_1, s5_all_good_law_scenario_2, s5_all_good_law_scenario_3, s5_all_good_law_scenario_4, s5_all_good_law_scenario_5, s5_all_good_law_scenario_6, s5_all_good_law_scenario_7, s5_all_good_law_scenario_8, s5_all_good_law_scenario_9, s5_all_good_law_scenario_10
+    Yes: 3 (6.67%)
+    No: 42 (93.33%)
+
+Demographic Type: age_18-29
+  Aggregated for: s5_all_good_law_scenario_1, s5_all_good_law_scenario_2, s5_all_good_law_scenario_3, s5_all_good_law_scenario_4, s5_all_good_law_scenario_5, s5_all_good_law_scenario_6, s5_all_good_law_scenario_7, s5_all_good_law_scenario_8, s5_all_good_law_scenario_9, s5_all_good_law_scenario_10
+    Yes: 2 (5.88%)
+    No: 32 (94.12%)
+
+Demographic Type: age_30-49
+  Aggregated for: s5_all_good_law_scenario_1, s5_all_good_law_scenario_2, s5_all_good_law_scenario_3, s5_all_good_law_scenario_4, s5_all_good_law_scenario_5, s5_all_good_law_scenario_6, s5_all_good_law_scenario_7, s5_all_good_law_scenario_8, s5_all_good_law_scenario_9, s5_all_good_law_scenario_10
+    Yes: 2 (6.45%)
+    No: 29 (93.55%)
+
+Demographic Type: age_50+
+  Aggregated for: s5_all_good_law_scenario_1, s5_all_good_law_scenario_2, s5_all_good_law_scenario_3, s5_all_good_law_scenario_4, s5_all_good_law_scenario_5, s5_all_good_law_scenario_6, s5_all_good_law_scenario_7, s5_all_good_law_scenario_8, s5_all_good_law_scenario_9, s5_all_good_law_scenario_10
+    Yes: 0 (0.00%)
+    No: 14 (100.00%)
+
+Demographic Type: education_high_school
+  Aggregated for: s5_all_good_law_scenario_1, s5_all_good_law_scenario_2, s5_all_good_law_scenario_3, s5_all_good_law_scenario_4, s5_all_good_law_scenario_5, s5_all_good_law_scenario_6, s5_all_good_law_scenario_7, s5_all_good_law_scenario_8, s5_all_good_law_scenario_9, s5_all_good_law_scenario_10
+    Yes: 1 (6.25%)
+    No: 15 (93.75%)
+
+Demographic Type: education_bachelor
+  Aggregated for: s5_all_good_law_scenario_1, s5_all_good_law_scenario_2, s5_all_good_law_scenario_3, s5_all_good_law_scenario_4, s5_all_good_law_scenario_5, s5_all_good_law_scenario_6, s5_all_good_law_scenario_7, s5_all_good_law_scenario_8, s5_all_good_law_scenario_9, s5_all_good_law_scenario_10
+    Yes: 1 (2.44%)
+    No: 40 (97.56%)
+
+Demographic Type: education_master
+  Aggregated for: s5_all_good_law_scenario_1, s5_all_good_law_scenario_2, s5_all_good_law_scenario_3, s5_all_good_law_scenario_4, s5_all_good_law_scenario_5, s5_all_good_law_scenario_6, s5_all_good_law_scenario_7, s5_all_good_law_scenario_8, s5_all_good_law_scenario_9, s5_all_good_law_scenario_10
+    Yes: 2 (10.53%)
+    No: 17 (89.47%)
+
+Demographic Type: education_phd
+  Aggregated for: s5_all_good_law_scenario_1, s5_all_good_law_scenario_2, s5_all_good_law_scenario_3, s5_all_good_law_scenario_4, s5_all_good_law_scenario_5, s5_all_good_law_scenario_6, s5_all_good_law_scenario_7, s5_all_good_law_scenario_8, s5_all_good_law_scenario_9, s5_all_good_law_scenario_10
+    Yes: 0 (0.00%)
+    No: 3 (100.00%)
+
+Demographic Type: gender_male
+  Aggregated for: s5_all_good_ethics_scenario_1, s5_all_good_ethics_scenario_2, s5_all_good_ethics_scenario_3, s5_all_good_ethics_scenario_4, s5_all_good_ethics_scenario_5, s5_all_good_ethics_scenario_6, s5_all_good_ethics_scenario_7, s5_all_good_ethics_scenario_8, s5_all_good_ethics_scenario_9, s5_all_good_ethics_scenario_10
+    Yes: 1 (2.50%)
+    No: 39 (97.50%)
+
+Demographic Type: gender_female
+  Aggregated for: s5_all_good_ethics_scenario_1, s5_all_good_ethics_scenario_2, s5_all_good_ethics_scenario_3, s5_all_good_ethics_scenario_4, s5_all_good_ethics_scenario_5, s5_all_good_ethics_scenario_6, s5_all_good_ethics_scenario_7, s5_all_good_ethics_scenario_8, s5_all_good_ethics_scenario_9, s5_all_good_ethics_scenario_10
+    Yes: 1 (2.08%)
+    No: 47 (97.92%)
+
+Demographic Type: age_18-29
+  Aggregated for: s5_all_good_ethics_scenario_1, s5_all_good_ethics_scenario_2, s5_all_good_ethics_scenario_3, s5_all_good_ethics_scenario_4, s5_all_good_ethics_scenario_5, s5_all_good_ethics_scenario_6, s5_all_good_ethics_scenario_7, s5_all_good_ethics_scenario_8, s5_all_good_ethics_scenario_9, s5_all_good_ethics_scenario_10
+    Yes: 1 (2.50%)
+    No: 39 (97.50%)
+
+Demographic Type: age_30-49
+  Aggregated for: s5_all_good_ethics_scenario_1, s5_all_good_ethics_scenario_2, s5_all_good_ethics_scenario_3, s5_all_good_ethics_scenario_4, s5_all_good_ethics_scenario_5, s5_all_good_ethics_scenario_6, s5_all_good_ethics_scenario_7, s5_all_good_ethics_scenario_8, s5_all_good_ethics_scenario_9, s5_all_good_ethics_scenario_10
+    Yes: 0 (0.00%)
+    No: 33 (100.00%)
+
+Demographic Type: age_50+
+  Aggregated for: s5_all_good_ethics_scenario_1, s5_all_good_ethics_scenario_2, s5_all_good_ethics_scenario_3, s5_all_good_ethics_scenario_4, s5_all_good_ethics_scenario_5, s5_all_good_ethics_scenario_6, s5_all_good_ethics_scenario_7, s5_all_good_ethics_scenario_8, s5_all_good_ethics_scenario_9, s5_all_good_ethics_scenario_10
+    Yes: 1 (6.67%)
+    No: 14 (93.33%)
+
+Demographic Type: education_high_school
+  Aggregated for: s5_all_good_ethics_scenario_1, s5_all_good_ethics_scenario_2, s5_all_good_ethics_scenario_3, s5_all_good_ethics_scenario_4, s5_all_good_ethics_scenario_5, s5_all_good_ethics_scenario_6, s5_all_good_ethics_scenario_7, s5_all_good_ethics_scenario_8, s5_all_good_ethics_scenario_9, s5_all_good_ethics_scenario_10
+    Yes: 0 (0.00%)
+    No: 20 (100.00%)
+
+Demographic Type: education_bachelor
+  Aggregated for: s5_all_good_ethics_scenario_1, s5_all_good_ethics_scenario_2, s5_all_good_ethics_scenario_3, s5_all_good_ethics_scenario_4, s5_all_good_ethics_scenario_5, s5_all_good_ethics_scenario_6, s5_all_good_ethics_scenario_7, s5_all_good_ethics_scenario_8, s5_all_good_ethics_scenario_9, s5_all_good_ethics_scenario_10
+    Yes: 2 (4.44%)
+    No: 43 (95.56%)
+
+Demographic Type: education_master
+  Aggregated for: s5_all_good_ethics_scenario_1, s5_all_good_ethics_scenario_2, s5_all_good_ethics_scenario_3, s5_all_good_ethics_scenario_4, s5_all_good_ethics_scenario_5, s5_all_good_ethics_scenario_6, s5_all_good_ethics_scenario_7, s5_all_good_ethics_scenario_8, s5_all_good_ethics_scenario_9, s5_all_good_ethics_scenario_10
+    Yes: 0 (0.00%)
+    No: 22 (100.00%)
+
+Demographic Type: education_phd
+  Aggregated for: s5_all_good_ethics_scenario_1, s5_all_good_ethics_scenario_2, s5_all_good_ethics_scenario_3, s5_all_good_ethics_scenario_4, s5_all_good_ethics_scenario_5, s5_all_good_ethics_scenario_6, s5_all_good_ethics_scenario_7, s5_all_good_ethics_scenario_8, s5_all_good_ethics_scenario_9, s5_all_good_ethics_scenario_10
+    Yes: 0 (0.00%)
+    No: 1 (100.00%)
+
+Demographic Type: gender_male
+  Aggregated for: s5_all_good_policy_scenario_1, s5_all_good_policy_scenario_2, s5_all_good_policy_scenario_3, s5_all_good_policy_scenario_4, s5_all_good_policy_scenario_5, s5_all_good_policy_scenario_6, s5_all_good_policy_scenario_7, s5_all_good_policy_scenario_8, s5_all_good_policy_scenario_9, s5_all_good_policy_scenario_10
+    Yes: 0 (0.00%)
+    No: 36 (100.00%)
+
+Demographic Type: gender_female
+  Aggregated for: s5_all_good_policy_scenario_1, s5_all_good_policy_scenario_2, s5_all_good_policy_scenario_3, s5_all_good_policy_scenario_4, s5_all_good_policy_scenario_5, s5_all_good_policy_scenario_6, s5_all_good_policy_scenario_7, s5_all_good_policy_scenario_8, s5_all_good_policy_scenario_9, s5_all_good_policy_scenario_10
+    Yes: 2 (5.71%)
+    No: 33 (94.29%)
+
+Demographic Type: age_18-29
+  Aggregated for: s5_all_good_policy_scenario_1, s5_all_good_policy_scenario_2, s5_all_good_policy_scenario_3, s5_all_good_policy_scenario_4, s5_all_good_policy_scenario_5, s5_all_good_policy_scenario_6, s5_all_good_policy_scenario_7, s5_all_good_policy_scenario_8, s5_all_good_policy_scenario_9, s5_all_good_policy_scenario_10
+    Yes: 1 (3.45%)
+    No: 28 (96.55%)
+
+Demographic Type: age_30-49
+  Aggregated for: s5_all_good_policy_scenario_1, s5_all_good_policy_scenario_2, s5_all_good_policy_scenario_3, s5_all_good_policy_scenario_4, s5_all_good_policy_scenario_5, s5_all_good_policy_scenario_6, s5_all_good_policy_scenario_7, s5_all_good_policy_scenario_8, s5_all_good_policy_scenario_9, s5_all_good_policy_scenario_10
+    Yes: 1 (2.86%)
+    No: 34 (97.14%)
+
+Demographic Type: age_50+
+  Aggregated for: s5_all_good_policy_scenario_1, s5_all_good_policy_scenario_2, s5_all_good_policy_scenario_3, s5_all_good_policy_scenario_4, s5_all_good_policy_scenario_5, s5_all_good_policy_scenario_6, s5_all_good_policy_scenario_7, s5_all_good_policy_scenario_8, s5_all_good_policy_scenario_9, s5_all_good_policy_scenario_10
+    Yes: 0 (0.00%)
+    No: 7 (100.00%)
+
+Demographic Type: education_high_school
+  Aggregated for: s5_all_good_policy_scenario_1, s5_all_good_policy_scenario_2, s5_all_good_policy_scenario_3, s5_all_good_policy_scenario_4, s5_all_good_policy_scenario_5, s5_all_good_policy_scenario_6, s5_all_good_policy_scenario_7, s5_all_good_policy_scenario_8, s5_all_good_policy_scenario_9, s5_all_good_policy_scenario_10
+    Yes: 0 (0.00%)
+    No: 16 (100.00%)
+
+Demographic Type: education_bachelor
+  Aggregated for: s5_all_good_policy_scenario_1, s5_all_good_policy_scenario_2, s5_all_good_policy_scenario_3, s5_all_good_policy_scenario_4, s5_all_good_policy_scenario_5, s5_all_good_policy_scenario_6, s5_all_good_policy_scenario_7, s5_all_good_policy_scenario_8, s5_all_good_policy_scenario_9, s5_all_good_policy_scenario_10
+    Yes: 2 (4.88%)
+    No: 39 (95.12%)
+
+Demographic Type: education_master
+  Aggregated for: s5_all_good_policy_scenario_1, s5_all_good_policy_scenario_2, s5_all_good_policy_scenario_3, s5_all_good_policy_scenario_4, s5_all_good_policy_scenario_5, s5_all_good_policy_scenario_6, s5_all_good_policy_scenario_7, s5_all_good_policy_scenario_8, s5_all_good_policy_scenario_9, s5_all_good_policy_scenario_10
+    Yes: 0 (0.00%)
+    No: 14 (100.00%)
+
+Demographic Type: education_phd
+Demographic Type: gender_male
+  Aggregated for: s5_all_good_cyber_scenario_1, s5_all_good_cyber_scenario_2, s5_all_good_cyber_scenario_3, s5_all_good_cyber_scenario_4, s5_all_good_cyber_scenario_5, s5_all_good_cyber_scenario_6, s5_all_good_cyber_scenario_7, s5_all_good_cyber_scenario_8, s5_all_good_cyber_scenario_9, s5_all_good_cyber_scenario_10
+    Yes: 0 (0.00%)
+    No: 37 (100.00%)
+
+Demographic Type: gender_female
+  Aggregated for: s5_all_good_cyber_scenario_1, s5_all_good_cyber_scenario_2, s5_all_good_cyber_scenario_3, s5_all_good_cyber_scenario_4, s5_all_good_cyber_scenario_5, s5_all_good_cyber_scenario_6, s5_all_good_cyber_scenario_7, s5_all_good_cyber_scenario_8, s5_all_good_cyber_scenario_9, s5_all_good_cyber_scenario_10
+    Yes: 4 (10.81%)
+    No: 33 (89.19%)
+
+Demographic Type: age_18-29
+  Aggregated for: s5_all_good_cyber_scenario_1, s5_all_good_cyber_scenario_2, s5_all_good_cyber_scenario_3, s5_all_good_cyber_scenario_4, s5_all_good_cyber_scenario_5, s5_all_good_cyber_scenario_6, s5_all_good_cyber_scenario_7, s5_all_good_cyber_scenario_8, s5_all_good_cyber_scenario_9, s5_all_good_cyber_scenario_10
+    Yes: 3 (15.00%)
+    No: 17 (85.00%)
+
+Demographic Type: age_30-49
+  Aggregated for: s5_all_good_cyber_scenario_1, s5_all_good_cyber_scenario_2, s5_all_good_cyber_scenario_3, s5_all_good_cyber_scenario_4, s5_all_good_cyber_scenario_5, s5_all_good_cyber_scenario_6, s5_all_good_cyber_scenario_7, s5_all_good_cyber_scenario_8, s5_all_good_cyber_scenario_9, s5_all_good_cyber_scenario_10
+    Yes: 1 (2.78%)
+    No: 35 (97.22%)
+
+Demographic Type: age_50+
+  Aggregated for: s5_all_good_cyber_scenario_1, s5_all_good_cyber_scenario_2, s5_all_good_cyber_scenario_3, s5_all_good_cyber_scenario_4, s5_all_good_cyber_scenario_5, s5_all_good_cyber_scenario_6, s5_all_good_cyber_scenario_7, s5_all_good_cyber_scenario_8, s5_all_good_cyber_scenario_9, s5_all_good_cyber_scenario_10
+    Yes: 0 (0.00%)
+    No: 18 (100.00%)
+
+Demographic Type: education_high_school
+  Aggregated for: s5_all_good_cyber_scenario_1, s5_all_good_cyber_scenario_2, s5_all_good_cyber_scenario_3, s5_all_good_cyber_scenario_4, s5_all_good_cyber_scenario_5, s5_all_good_cyber_scenario_6, s5_all_good_cyber_scenario_7, s5_all_good_cyber_scenario_8, s5_all_good_cyber_scenario_9, s5_all_good_cyber_scenario_10
+    Yes: 1 (5.56%)
+    No: 17 (94.44%)
+
+Demographic Type: education_bachelor
+  Aggregated for: s5_all_good_cyber_scenario_1, s5_all_good_cyber_scenario_2, s5_all_good_cyber_scenario_3, s5_all_good_cyber_scenario_4, s5_all_good_cyber_scenario_5, s5_all_good_cyber_scenario_6, s5_all_good_cyber_scenario_7, s5_all_good_cyber_scenario_8, s5_all_good_cyber_scenario_9, s5_all_good_cyber_scenario_10
+    Yes: 3 (7.50%)
+    No: 37 (92.50%)
+
+Demographic Type: education_master
+  Aggregated for: s5_all_good_cyber_scenario_1, s5_all_good_cyber_scenario_2, s5_all_good_cyber_scenario_3, s5_all_good_cyber_scenario_4, s5_all_good_cyber_scenario_5, s5_all_good_cyber_scenario_6, s5_all_good_cyber_scenario_7, s5_all_good_cyber_scenario_8, s5_all_good_cyber_scenario_9, s5_all_good_cyber_scenario_10
+    Yes: 0 (0.00%)
+    No: 15 (100.00%)
+
+Demographic Type: education_phd
+  Aggregated for: s5_all_good_cyber_scenario_1, s5_all_good_cyber_scenario_2, s5_all_good_cyber_scenario_3, s5_all_good_cyber_scenario_4, s5_all_good_cyber_scenario_5, s5_all_good_cyber_scenario_6, s5_all_good_cyber_scenario_7, s5_all_good_cyber_scenario_8, s5_all_good_cyber_scenario_9, s5_all_good_cyber_scenario_10
+    Yes: 0 (0.00%)
+    No: 1 (100.00%)
+
+CONTROL scenarios:
+
+Demographic Type: gender_male
+  Aggregated for: s5_all_good_scenario_1, s5_all_good_scenario_2, s5_all_good_scenario_3, s5_all_good_scenario_4, s5_all_good_scenario_5, s5_all_good_scenario_6, s5_all_good_scenario_7, s5_all_good_scenario_8, s5_all_good_scenario_9, s5_all_good_scenario_10
+    Yes: 7 (11.11%)
+    No: 56 (88.89%)
+
+Demographic Type: gender_female
+  Aggregated for: s5_all_good_scenario_1, s5_all_good_scenario_2, s5_all_good_scenario_3, s5_all_good_scenario_4, s5_all_good_scenario_5, s5_all_good_scenario_6, s5_all_good_scenario_7, s5_all_good_scenario_8, s5_all_good_scenario_9, s5_all_good_scenario_10
+    Yes: 9 (8.18%)
+    No: 101 (91.82%)
+
+Demographic Type: age_18-29
+  Aggregated for: s5_all_good_scenario_1, s5_all_good_scenario_2, s5_all_good_scenario_3, s5_all_good_scenario_4, s5_all_good_scenario_5, s5_all_good_scenario_6, s5_all_good_scenario_7, s5_all_good_scenario_8, s5_all_good_scenario_9, s5_all_good_scenario_10
+    Yes: 6 (11.32%)
+    No: 47 (88.68%)
+
+Demographic Type: age_30-49
+  Aggregated for: s5_all_good_scenario_1, s5_all_good_scenario_2, s5_all_good_scenario_3, s5_all_good_scenario_4, s5_all_good_scenario_5, s5_all_good_scenario_6, s5_all_good_scenario_7, s5_all_good_scenario_8, s5_all_good_scenario_9, s5_all_good_scenario_10
+    Yes: 6 (7.32%)
+    No: 76 (92.68%)
+
+Demographic Type: age_50+
+  Aggregated for: s5_all_good_scenario_1, s5_all_good_scenario_2, s5_all_good_scenario_3, s5_all_good_scenario_4, s5_all_good_scenario_5, s5_all_good_scenario_6, s5_all_good_scenario_7, s5_all_good_scenario_8, s5_all_good_scenario_9, s5_all_good_scenario_10
+    Yes: 4 (9.52%)
+    No: 38 (90.48%)
+
+Demographic Type: education_high_school
+  Aggregated for: s5_all_good_scenario_1, s5_all_good_scenario_2, s5_all_good_scenario_3, s5_all_good_scenario_4, s5_all_good_scenario_5, s5_all_good_scenario_6, s5_all_good_scenario_7, s5_all_good_scenario_8, s5_all_good_scenario_9, s5_all_good_scenario_10
+    Yes: 1 (2.86%)
+    No: 34 (97.14%)
+
+Demographic Type: education_bachelor
+  Aggregated for: s5_all_good_scenario_1, s5_all_good_scenario_2, s5_all_good_scenario_3, s5_all_good_scenario_4, s5_all_good_scenario_5, s5_all_good_scenario_6, s5_all_good_scenario_7, s5_all_good_scenario_8, s5_all_good_scenario_9, s5_all_good_scenario_10
+    Yes: 8 (12.12%)
+    No: 58 (87.88%)
+
+Demographic Type: education_master
+  Aggregated for: s5_all_good_scenario_1, s5_all_good_scenario_2, s5_all_good_scenario_3, s5_all_good_scenario_4, s5_all_good_scenario_5, s5_all_good_scenario_6, s5_all_good_scenario_7, s5_all_good_scenario_8, s5_all_good_scenario_9, s5_all_good_scenario_10
+    Yes: 7 (10.29%)
+    No: 61 (89.71%)
+
+Demographic Type: education_phd
+  Aggregated for: s5_all_good_scenario_1, s5_all_good_scenario_2, s5_all_good_scenario_3, s5_all_good_scenario_4, s5_all_good_scenario_5, s5_all_good_scenario_6, s5_all_good_scenario_7, s5_all_good_scenario_8, s5_all_good_scenario_9, s5_all_good_scenario_10
+    Yes: 0 (0.00%)
+    No: 8 (100.00%)
+
+TEST scenarios:
+
+Demographic Type: gender_male
+  Aggregated for: s5_g11_scenario_1, s5_g11_scenario_2, s5_g11_scenario_3, s5_g11_scenario_4, s5_g11_scenario_5, s5_g11_scenario_6, s5_g11_scenario_7, s5_g11_scenario_8, s5_g11_scenario_9, s5_g11_scenario_10
+    Yes: 21 (32.81%)
+    No: 43 (67.19%)
+
+Demographic Type: gender_female
+  Aggregated for: s5_g11_scenario_1, s5_g11_scenario_2, s5_g11_scenario_3, s5_g11_scenario_4, s5_g11_scenario_5, s5_g11_scenario_6, s5_g11_scenario_7, s5_g11_scenario_8, s5_g11_scenario_9, s5_g11_scenario_10
+    Yes: 11 (22.92%)
+    No: 37 (77.08%)
+
+Demographic Type: age_18-29
+  Aggregated for: s5_g11_scenario_1, s5_g11_scenario_2, s5_g11_scenario_3, s5_g11_scenario_4, s5_g11_scenario_5, s5_g11_scenario_6, s5_g11_scenario_7, s5_g11_scenario_8, s5_g11_scenario_9, s5_g11_scenario_10
+    Yes: 12 (28.57%)
+    No: 30 (71.43%)
+
+Demographic Type: age_30-49
+  Aggregated for: s5_g11_scenario_1, s5_g11_scenario_2, s5_g11_scenario_3, s5_g11_scenario_4, s5_g11_scenario_5, s5_g11_scenario_6, s5_g11_scenario_7, s5_g11_scenario_8, s5_g11_scenario_9, s5_g11_scenario_10
+    Yes: 16 (34.78%)
+    No: 30 (65.22%)
+
+Demographic Type: age_50+
+  Aggregated for: s5_g11_scenario_1, s5_g11_scenario_2, s5_g11_scenario_3, s5_g11_scenario_4, s5_g11_scenario_5, s5_g11_scenario_6, s5_g11_scenario_7, s5_g11_scenario_8, s5_g11_scenario_9, s5_g11_scenario_10
+    Yes: 4 (16.67%)
+    No: 20 (83.33%)
+
+Demographic Type: education_high_school
+  Aggregated for: s5_g11_scenario_1, s5_g11_scenario_2, s5_g11_scenario_3, s5_g11_scenario_4, s5_g11_scenario_5, s5_g11_scenario_6, s5_g11_scenario_7, s5_g11_scenario_8, s5_g11_scenario_9, s5_g11_scenario_10
+    Yes: 12 (33.33%)
+    No: 24 (66.67%)
+
+Demographic Type: education_bachelor
+  Aggregated for: s5_g11_scenario_1, s5_g11_scenario_2, s5_g11_scenario_3, s5_g11_scenario_4, s5_g11_scenario_5, s5_g11_scenario_6, s5_g11_scenario_7, s5_g11_scenario_8, s5_g11_scenario_9, s5_g11_scenario_10
+    Yes: 10 (23.81%)
+    No: 32 (76.19%)
+
+Demographic Type: education_master
+  Aggregated for: s5_g11_scenario_1, s5_g11_scenario_2, s5_g11_scenario_3, s5_g11_scenario_4, s5_g11_scenario_5, s5_g11_scenario_6, s5_g11_scenario_7, s5_g11_scenario_8, s5_g11_scenario_9, s5_g11_scenario_10
+    Yes: 10 (33.33%)
+    No: 20 (66.67%)
+
+Demographic Type: education_phd
+  Aggregated for: s5_g11_scenario_1, s5_g11_scenario_2, s5_g11_scenario_3, s5_g11_scenario_4, s5_g11_scenario_5, s5_g11_scenario_6, s5_g11_scenario_7, s5_g11_scenario_8, s5_g11_scenario_9, s5_g11_scenario_10
+    Yes: 0 (0.00%)
+    No: 2 (100.00%)
+
+Demographic Type: gender_male
+  Aggregated for: s5_g12_scenario_1, s5_g12_scenario_2, s5_g12_scenario_3, s5_g12_scenario_4, s5_g12_scenario_5, s5_g12_scenario_6, s5_g12_scenario_7, s5_g12_scenario_8, s5_g12_scenario_9, s5_g12_scenario_10
+    Yes: 15 (23.44%)
+    No: 49 (76.56%)
+
+Demographic Type: gender_female
+  Aggregated for: s5_g12_scenario_1, s5_g12_scenario_2, s5_g12_scenario_3, s5_g12_scenario_4, s5_g12_scenario_5, s5_g12_scenario_6, s5_g12_scenario_7, s5_g12_scenario_8, s5_g12_scenario_9, s5_g12_scenario_10
+    Yes: 5 (14.71%)
+    No: 29 (85.29%)
+
+Demographic Type: age_18-29
+  Aggregated for: s5_g12_scenario_1, s5_g12_scenario_2, s5_g12_scenario_3, s5_g12_scenario_4, s5_g12_scenario_5, s5_g12_scenario_6, s5_g12_scenario_7, s5_g12_scenario_8, s5_g12_scenario_9, s5_g12_scenario_10
+    Yes: 3 (7.89%)
+    No: 35 (92.11%)
+
+Demographic Type: age_30-49
+  Aggregated for: s5_g12_scenario_1, s5_g12_scenario_2, s5_g12_scenario_3, s5_g12_scenario_4, s5_g12_scenario_5, s5_g12_scenario_6, s5_g12_scenario_7, s5_g12_scenario_8, s5_g12_scenario_9, s5_g12_scenario_10
+    Yes: 11 (23.91%)
+    No: 35 (76.09%)
+
+Demographic Type: age_50+
+  Aggregated for: s5_g12_scenario_1, s5_g12_scenario_2, s5_g12_scenario_3, s5_g12_scenario_4, s5_g12_scenario_5, s5_g12_scenario_6, s5_g12_scenario_7, s5_g12_scenario_8, s5_g12_scenario_9, s5_g12_scenario_10
+    Yes: 6 (30.00%)
+    No: 14 (70.00%)
+
+Demographic Type: education_high_school
+  Aggregated for: s5_g12_scenario_1, s5_g12_scenario_2, s5_g12_scenario_3, s5_g12_scenario_4, s5_g12_scenario_5, s5_g12_scenario_6, s5_g12_scenario_7, s5_g12_scenario_8, s5_g12_scenario_9, s5_g12_scenario_10
+    Yes: 7 (29.17%)
+    No: 17 (70.83%)
+
+Demographic Type: education_bachelor
+  Aggregated for: s5_g12_scenario_1, s5_g12_scenario_2, s5_g12_scenario_3, s5_g12_scenario_4, s5_g12_scenario_5, s5_g12_scenario_6, s5_g12_scenario_7, s5_g12_scenario_8, s5_g12_scenario_9, s5_g12_scenario_10
+    Yes: 7 (17.50%)
+    No: 33 (82.50%)
+
+Demographic Type: education_master
+  Aggregated for: s5_g12_scenario_1, s5_g12_scenario_2, s5_g12_scenario_3, s5_g12_scenario_4, s5_g12_scenario_5, s5_g12_scenario_6, s5_g12_scenario_7, s5_g12_scenario_8, s5_g12_scenario_9, s5_g12_scenario_10
+    Yes: 5 (14.71%)
+    No: 29 (85.29%)
+
+Demographic Type: education_phd
+  Aggregated for: s5_g12_scenario_1, s5_g12_scenario_2, s5_g12_scenario_3, s5_g12_scenario_4, s5_g12_scenario_5, s5_g12_scenario_6, s5_g12_scenario_7, s5_g12_scenario_8, s5_g12_scenario_9, s5_g12_scenario_10
+    Yes: 1 (50.00%)
+    No: 1 (50.00%)
+
+Demographic Type: gender_male
+  Aggregated for: s5_g13_scenario_1, s5_g13_scenario_2, s5_g13_scenario_3, s5_g13_scenario_4, s5_g13_scenario_5, s5_g13_scenario_6, s5_g13_scenario_7, s5_g13_scenario_8, s5_g13_scenario_9, s5_g13_scenario_10
+    Yes: 8 (12.12%)
+    No: 58 (87.88%)
+
+Demographic Type: gender_female
+  Aggregated for: s5_g13_scenario_1, s5_g13_scenario_2, s5_g13_scenario_3, s5_g13_scenario_4, s5_g13_scenario_5, s5_g13_scenario_6, s5_g13_scenario_7, s5_g13_scenario_8, s5_g13_scenario_9, s5_g13_scenario_10
+    Yes: 6 (16.67%)
+    No: 30 (83.33%)
+
+Demographic Type: age_18-29
+  Aggregated for: s5_g13_scenario_1, s5_g13_scenario_2, s5_g13_scenario_3, s5_g13_scenario_4, s5_g13_scenario_5, s5_g13_scenario_6, s5_g13_scenario_7, s5_g13_scenario_8, s5_g13_scenario_9, s5_g13_scenario_10
+    Yes: 10 (27.78%)
+    No: 26 (72.22%)
+
+Demographic Type: age_30-49
+  Aggregated for: s5_g13_scenario_1, s5_g13_scenario_2, s5_g13_scenario_3, s5_g13_scenario_4, s5_g13_scenario_5, s5_g13_scenario_6, s5_g13_scenario_7, s5_g13_scenario_8, s5_g13_scenario_9, s5_g13_scenario_10
+    Yes: 1 (2.27%)
+    No: 43 (97.73%)
+
+Demographic Type: age_50+
+  Aggregated for: s5_g13_scenario_1, s5_g13_scenario_2, s5_g13_scenario_3, s5_g13_scenario_4, s5_g13_scenario_5, s5_g13_scenario_6, s5_g13_scenario_7, s5_g13_scenario_8, s5_g13_scenario_9, s5_g13_scenario_10
+    Yes: 3 (13.64%)
+    No: 19 (86.36%)
+
+Demographic Type: education_high_school
+  Aggregated for: s5_g13_scenario_1, s5_g13_scenario_2, s5_g13_scenario_3, s5_g13_scenario_4, s5_g13_scenario_5, s5_g13_scenario_6, s5_g13_scenario_7, s5_g13_scenario_8, s5_g13_scenario_9, s5_g13_scenario_10
+    Yes: 6 (27.27%)
+    No: 16 (72.73%)
+
+Demographic Type: education_bachelor
+  Aggregated for: s5_g13_scenario_1, s5_g13_scenario_2, s5_g13_scenario_3, s5_g13_scenario_4, s5_g13_scenario_5, s5_g13_scenario_6, s5_g13_scenario_7, s5_g13_scenario_8, s5_g13_scenario_9, s5_g13_scenario_10
+    Yes: 3 (6.82%)
+    No: 41 (93.18%)
+
+Demographic Type: education_master
+  Aggregated for: s5_g13_scenario_1, s5_g13_scenario_2, s5_g13_scenario_3, s5_g13_scenario_4, s5_g13_scenario_5, s5_g13_scenario_6, s5_g13_scenario_7, s5_g13_scenario_8, s5_g13_scenario_9, s5_g13_scenario_10
+    Yes: 5 (14.71%)
+    No: 29 (85.29%)
+
+Demographic Type: education_phd
+
+=== Group S6 ===
+ALL_GOOD scenarios:
+
+Demographic Type: gender_male
+  Aggregated for: s6_all_good_scenario_1, s6_all_good_scenario_2, s6_all_good_scenario_3, s6_all_good_scenario_4, s6_all_good_scenario_5, s6_all_good_scenario_6, s6_all_good_scenario_7, s6_all_good_scenario_8, s6_all_good_scenario_9, s6_all_good_scenario_10
+    Yes: 1158 (88.13%)
+    No: 156 (11.87%)
+
+Demographic Type: gender_female
+  Aggregated for: s6_all_good_scenario_1, s6_all_good_scenario_2, s6_all_good_scenario_3, s6_all_good_scenario_4, s6_all_good_scenario_5, s6_all_good_scenario_6, s6_all_good_scenario_7, s6_all_good_scenario_8, s6_all_good_scenario_9, s6_all_good_scenario_10
+    Yes: 1047 (85.68%)
+    No: 175 (14.32%)
+
+Demographic Type: age_18-29
+  Aggregated for: s6_all_good_scenario_1, s6_all_good_scenario_2, s6_all_good_scenario_3, s6_all_good_scenario_4, s6_all_good_scenario_5, s6_all_good_scenario_6, s6_all_good_scenario_7, s6_all_good_scenario_8, s6_all_good_scenario_9, s6_all_good_scenario_10
+    Yes: 917 (87.75%)
+    No: 128 (12.25%)
+
+Demographic Type: age_30-49
+  Aggregated for: s6_all_good_scenario_1, s6_all_good_scenario_2, s6_all_good_scenario_3, s6_all_good_scenario_4, s6_all_good_scenario_5, s6_all_good_scenario_6, s6_all_good_scenario_7, s6_all_good_scenario_8, s6_all_good_scenario_9, s6_all_good_scenario_10
+    Yes: 893 (87.12%)
+    No: 132 (12.88%)
+
+Demographic Type: age_50+
+  Aggregated for: s6_all_good_scenario_1, s6_all_good_scenario_2, s6_all_good_scenario_3, s6_all_good_scenario_4, s6_all_good_scenario_5, s6_all_good_scenario_6, s6_all_good_scenario_7, s6_all_good_scenario_8, s6_all_good_scenario_9, s6_all_good_scenario_10
+    Yes: 425 (84.49%)
+    No: 78 (15.51%)
+
+Demographic Type: education_high_school
+  Aggregated for: s6_all_good_scenario_1, s6_all_good_scenario_2, s6_all_good_scenario_3, s6_all_good_scenario_4, s6_all_good_scenario_5, s6_all_good_scenario_6, s6_all_good_scenario_7, s6_all_good_scenario_8, s6_all_good_scenario_9, s6_all_good_scenario_10
+    Yes: 538 (87.91%)
+    No: 74 (12.09%)
+
+Demographic Type: education_bachelor
+  Aggregated for: s6_all_good_scenario_1, s6_all_good_scenario_2, s6_all_good_scenario_3, s6_all_good_scenario_4, s6_all_good_scenario_5, s6_all_good_scenario_6, s6_all_good_scenario_7, s6_all_good_scenario_8, s6_all_good_scenario_9, s6_all_good_scenario_10
+    Yes: 855 (88.05%)
+    No: 116 (11.95%)
+
+Demographic Type: education_master
+  Aggregated for: s6_all_good_scenario_1, s6_all_good_scenario_2, s6_all_good_scenario_3, s6_all_good_scenario_4, s6_all_good_scenario_5, s6_all_good_scenario_6, s6_all_good_scenario_7, s6_all_good_scenario_8, s6_all_good_scenario_9, s6_all_good_scenario_10
+    Yes: 753 (84.89%)
+    No: 134 (15.11%)
+
+Demographic Type: education_phd
+  Aggregated for: s6_all_good_scenario_1, s6_all_good_scenario_2, s6_all_good_scenario_3, s6_all_good_scenario_4, s6_all_good_scenario_5, s6_all_good_scenario_6, s6_all_good_scenario_7, s6_all_good_scenario_8, s6_all_good_scenario_9, s6_all_good_scenario_10
+    Yes: 56 (86.15%)
+    No: 9 (13.85%)
+
+Demographic Type: gender_male
+  Aggregated for: s6_all_good_law_scenario_1, s6_all_good_law_scenario_2, s6_all_good_law_scenario_3, s6_all_good_law_scenario_4, s6_all_good_law_scenario_5, s6_all_good_law_scenario_6, s6_all_good_law_scenario_7, s6_all_good_law_scenario_8, s6_all_good_law_scenario_9, s6_all_good_law_scenario_10
+    Yes: 24 (82.76%)
+    No: 5 (17.24%)
+
+Demographic Type: gender_female
+  Aggregated for: s6_all_good_law_scenario_1, s6_all_good_law_scenario_2, s6_all_good_law_scenario_3, s6_all_good_law_scenario_4, s6_all_good_law_scenario_5, s6_all_good_law_scenario_6, s6_all_good_law_scenario_7, s6_all_good_law_scenario_8, s6_all_good_law_scenario_9, s6_all_good_law_scenario_10
+    Yes: 34 (82.93%)
+    No: 7 (17.07%)
+
+Demographic Type: age_18-29
+  Aggregated for: s6_all_good_law_scenario_1, s6_all_good_law_scenario_2, s6_all_good_law_scenario_3, s6_all_good_law_scenario_4, s6_all_good_law_scenario_5, s6_all_good_law_scenario_6, s6_all_good_law_scenario_7, s6_all_good_law_scenario_8, s6_all_good_law_scenario_9, s6_all_good_law_scenario_10
+    Yes: 26 (81.25%)
+    No: 6 (18.75%)
+
+Demographic Type: age_30-49
+  Aggregated for: s6_all_good_law_scenario_1, s6_all_good_law_scenario_2, s6_all_good_law_scenario_3, s6_all_good_law_scenario_4, s6_all_good_law_scenario_5, s6_all_good_law_scenario_6, s6_all_good_law_scenario_7, s6_all_good_law_scenario_8, s6_all_good_law_scenario_9, s6_all_good_law_scenario_10
+    Yes: 22 (81.48%)
+    No: 5 (18.52%)
+
+Demographic Type: age_50+
+  Aggregated for: s6_all_good_law_scenario_1, s6_all_good_law_scenario_2, s6_all_good_law_scenario_3, s6_all_good_law_scenario_4, s6_all_good_law_scenario_5, s6_all_good_law_scenario_6, s6_all_good_law_scenario_7, s6_all_good_law_scenario_8, s6_all_good_law_scenario_9, s6_all_good_law_scenario_10
+    Yes: 10 (90.91%)
+    No: 1 (9.09%)
+
+Demographic Type: education_high_school
+  Aggregated for: s6_all_good_law_scenario_1, s6_all_good_law_scenario_2, s6_all_good_law_scenario_3, s6_all_good_law_scenario_4, s6_all_good_law_scenario_5, s6_all_good_law_scenario_6, s6_all_good_law_scenario_7, s6_all_good_law_scenario_8, s6_all_good_law_scenario_9, s6_all_good_law_scenario_10
+    Yes: 15 (83.33%)
+    No: 3 (16.67%)
+
+Demographic Type: education_bachelor
+  Aggregated for: s6_all_good_law_scenario_1, s6_all_good_law_scenario_2, s6_all_good_law_scenario_3, s6_all_good_law_scenario_4, s6_all_good_law_scenario_5, s6_all_good_law_scenario_6, s6_all_good_law_scenario_7, s6_all_good_law_scenario_8, s6_all_good_law_scenario_9, s6_all_good_law_scenario_10
+    Yes: 31 (86.11%)
+    No: 5 (13.89%)
+
+Demographic Type: education_master
+  Aggregated for: s6_all_good_law_scenario_1, s6_all_good_law_scenario_2, s6_all_good_law_scenario_3, s6_all_good_law_scenario_4, s6_all_good_law_scenario_5, s6_all_good_law_scenario_6, s6_all_good_law_scenario_7, s6_all_good_law_scenario_8, s6_all_good_law_scenario_9, s6_all_good_law_scenario_10
+    Yes: 11 (73.33%)
+    No: 4 (26.67%)
+
+Demographic Type: education_phd
+  Aggregated for: s6_all_good_law_scenario_1, s6_all_good_law_scenario_2, s6_all_good_law_scenario_3, s6_all_good_law_scenario_4, s6_all_good_law_scenario_5, s6_all_good_law_scenario_6, s6_all_good_law_scenario_7, s6_all_good_law_scenario_8, s6_all_good_law_scenario_9, s6_all_good_law_scenario_10
+    Yes: 1 (100.00%)
+    No: 0 (0.00%)
+
+Demographic Type: gender_male
+  Aggregated for: s6_all_good_ethics_scenario_1, s6_all_good_ethics_scenario_2, s6_all_good_ethics_scenario_3, s6_all_good_ethics_scenario_4, s6_all_good_ethics_scenario_5, s6_all_good_ethics_scenario_6, s6_all_good_ethics_scenario_7, s6_all_good_ethics_scenario_8, s6_all_good_ethics_scenario_9, s6_all_good_ethics_scenario_10
+    Yes: 29 (80.56%)
+    No: 7 (19.44%)
+
+Demographic Type: gender_female
+  Aggregated for: s6_all_good_ethics_scenario_1, s6_all_good_ethics_scenario_2, s6_all_good_ethics_scenario_3, s6_all_good_ethics_scenario_4, s6_all_good_ethics_scenario_5, s6_all_good_ethics_scenario_6, s6_all_good_ethics_scenario_7, s6_all_good_ethics_scenario_8, s6_all_good_ethics_scenario_9, s6_all_good_ethics_scenario_10
+    Yes: 30 (83.33%)
+    No: 6 (16.67%)
+
+Demographic Type: age_18-29
+  Aggregated for: s6_all_good_ethics_scenario_1, s6_all_good_ethics_scenario_2, s6_all_good_ethics_scenario_3, s6_all_good_ethics_scenario_4, s6_all_good_ethics_scenario_5, s6_all_good_ethics_scenario_6, s6_all_good_ethics_scenario_7, s6_all_good_ethics_scenario_8, s6_all_good_ethics_scenario_9, s6_all_good_ethics_scenario_10
+    Yes: 22 (75.86%)
+    No: 7 (24.14%)
+
+Demographic Type: age_30-49
+  Aggregated for: s6_all_good_ethics_scenario_1, s6_all_good_ethics_scenario_2, s6_all_good_ethics_scenario_3, s6_all_good_ethics_scenario_4, s6_all_good_ethics_scenario_5, s6_all_good_ethics_scenario_6, s6_all_good_ethics_scenario_7, s6_all_good_ethics_scenario_8, s6_all_good_ethics_scenario_9, s6_all_good_ethics_scenario_10
+    Yes: 25 (83.33%)
+    No: 5 (16.67%)
+
+Demographic Type: age_50+
+  Aggregated for: s6_all_good_ethics_scenario_1, s6_all_good_ethics_scenario_2, s6_all_good_ethics_scenario_3, s6_all_good_ethics_scenario_4, s6_all_good_ethics_scenario_5, s6_all_good_ethics_scenario_6, s6_all_good_ethics_scenario_7, s6_all_good_ethics_scenario_8, s6_all_good_ethics_scenario_9, s6_all_good_ethics_scenario_10
+    Yes: 12 (92.31%)
+    No: 1 (7.69%)
+
+Demographic Type: education_high_school
+  Aggregated for: s6_all_good_ethics_scenario_1, s6_all_good_ethics_scenario_2, s6_all_good_ethics_scenario_3, s6_all_good_ethics_scenario_4, s6_all_good_ethics_scenario_5, s6_all_good_ethics_scenario_6, s6_all_good_ethics_scenario_7, s6_all_good_ethics_scenario_8, s6_all_good_ethics_scenario_9, s6_all_good_ethics_scenario_10
+    Yes: 9 (81.82%)
+    No: 2 (18.18%)
+
+Demographic Type: education_bachelor
+  Aggregated for: s6_all_good_ethics_scenario_1, s6_all_good_ethics_scenario_2, s6_all_good_ethics_scenario_3, s6_all_good_ethics_scenario_4, s6_all_good_ethics_scenario_5, s6_all_good_ethics_scenario_6, s6_all_good_ethics_scenario_7, s6_all_good_ethics_scenario_8, s6_all_good_ethics_scenario_9, s6_all_good_ethics_scenario_10
+    Yes: 34 (82.93%)
+    No: 7 (17.07%)
+
+Demographic Type: education_master
+  Aggregated for: s6_all_good_ethics_scenario_1, s6_all_good_ethics_scenario_2, s6_all_good_ethics_scenario_3, s6_all_good_ethics_scenario_4, s6_all_good_ethics_scenario_5, s6_all_good_ethics_scenario_6, s6_all_good_ethics_scenario_7, s6_all_good_ethics_scenario_8, s6_all_good_ethics_scenario_9, s6_all_good_ethics_scenario_10
+    Yes: 13 (76.47%)
+    No: 4 (23.53%)
+
+Demographic Type: education_phd
+  Aggregated for: s6_all_good_ethics_scenario_1, s6_all_good_ethics_scenario_2, s6_all_good_ethics_scenario_3, s6_all_good_ethics_scenario_4, s6_all_good_ethics_scenario_5, s6_all_good_ethics_scenario_6, s6_all_good_ethics_scenario_7, s6_all_good_ethics_scenario_8, s6_all_good_ethics_scenario_9, s6_all_good_ethics_scenario_10
+    Yes: 3 (100.00%)
+    No: 0 (0.00%)
+
+Demographic Type: gender_male
+  Aggregated for: s6_all_good_policy_scenario_1, s6_all_good_policy_scenario_2, s6_all_good_policy_scenario_3, s6_all_good_policy_scenario_4, s6_all_good_policy_scenario_5, s6_all_good_policy_scenario_6, s6_all_good_policy_scenario_7, s6_all_good_policy_scenario_8, s6_all_good_policy_scenario_9, s6_all_good_policy_scenario_10
+    Yes: 26 (81.25%)
+    No: 6 (18.75%)
+
+Demographic Type: gender_female
+  Aggregated for: s6_all_good_policy_scenario_1, s6_all_good_policy_scenario_2, s6_all_good_policy_scenario_3, s6_all_good_policy_scenario_4, s6_all_good_policy_scenario_5, s6_all_good_policy_scenario_6, s6_all_good_policy_scenario_7, s6_all_good_policy_scenario_8, s6_all_good_policy_scenario_9, s6_all_good_policy_scenario_10
+    Yes: 28 (93.33%)
+    No: 2 (6.67%)
+
+Demographic Type: age_18-29
+  Aggregated for: s6_all_good_policy_scenario_1, s6_all_good_policy_scenario_2, s6_all_good_policy_scenario_3, s6_all_good_policy_scenario_4, s6_all_good_policy_scenario_5, s6_all_good_policy_scenario_6, s6_all_good_policy_scenario_7, s6_all_good_policy_scenario_8, s6_all_good_policy_scenario_9, s6_all_good_policy_scenario_10
+    Yes: 21 (95.45%)
+    No: 1 (4.55%)
+
+Demographic Type: age_30-49
+  Aggregated for: s6_all_good_policy_scenario_1, s6_all_good_policy_scenario_2, s6_all_good_policy_scenario_3, s6_all_good_policy_scenario_4, s6_all_good_policy_scenario_5, s6_all_good_policy_scenario_6, s6_all_good_policy_scenario_7, s6_all_good_policy_scenario_8, s6_all_good_policy_scenario_9, s6_all_good_policy_scenario_10
+    Yes: 26 (78.79%)
+    No: 7 (21.21%)
+
+Demographic Type: age_50+
+  Aggregated for: s6_all_good_policy_scenario_1, s6_all_good_policy_scenario_2, s6_all_good_policy_scenario_3, s6_all_good_policy_scenario_4, s6_all_good_policy_scenario_5, s6_all_good_policy_scenario_6, s6_all_good_policy_scenario_7, s6_all_good_policy_scenario_8, s6_all_good_policy_scenario_9, s6_all_good_policy_scenario_10
+    Yes: 7 (100.00%)
+    No: 0 (0.00%)
+
+Demographic Type: education_high_school
+  Aggregated for: s6_all_good_policy_scenario_1, s6_all_good_policy_scenario_2, s6_all_good_policy_scenario_3, s6_all_good_policy_scenario_4, s6_all_good_policy_scenario_5, s6_all_good_policy_scenario_6, s6_all_good_policy_scenario_7, s6_all_good_policy_scenario_8, s6_all_good_policy_scenario_9, s6_all_good_policy_scenario_10
+    Yes: 8 (66.67%)
+    No: 4 (33.33%)
+
+Demographic Type: education_bachelor
+  Aggregated for: s6_all_good_policy_scenario_1, s6_all_good_policy_scenario_2, s6_all_good_policy_scenario_3, s6_all_good_policy_scenario_4, s6_all_good_policy_scenario_5, s6_all_good_policy_scenario_6, s6_all_good_policy_scenario_7, s6_all_good_policy_scenario_8, s6_all_good_policy_scenario_9, s6_all_good_policy_scenario_10
+    Yes: 32 (94.12%)
+    No: 2 (5.88%)
+
+Demographic Type: education_master
+  Aggregated for: s6_all_good_policy_scenario_1, s6_all_good_policy_scenario_2, s6_all_good_policy_scenario_3, s6_all_good_policy_scenario_4, s6_all_good_policy_scenario_5, s6_all_good_policy_scenario_6, s6_all_good_policy_scenario_7, s6_all_good_policy_scenario_8, s6_all_good_policy_scenario_9, s6_all_good_policy_scenario_10
+    Yes: 13 (86.67%)
+    No: 2 (13.33%)
+
+Demographic Type: education_phd
+  Aggregated for: s6_all_good_policy_scenario_1, s6_all_good_policy_scenario_2, s6_all_good_policy_scenario_3, s6_all_good_policy_scenario_4, s6_all_good_policy_scenario_5, s6_all_good_policy_scenario_6, s6_all_good_policy_scenario_7, s6_all_good_policy_scenario_8, s6_all_good_policy_scenario_9, s6_all_good_policy_scenario_10
+    Yes: 1 (100.00%)
+    No: 0 (0.00%)
+
+Demographic Type: gender_male
+  Aggregated for: s6_all_good_cyber_scenario_1, s6_all_good_cyber_scenario_2, s6_all_good_cyber_scenario_3, s6_all_good_cyber_scenario_4, s6_all_good_cyber_scenario_5, s6_all_good_cyber_scenario_6, s6_all_good_cyber_scenario_7, s6_all_good_cyber_scenario_8, s6_all_good_cyber_scenario_9, s6_all_good_cyber_scenario_10
+    Yes: 25 (86.21%)
+    No: 4 (13.79%)
+
+Demographic Type: gender_female
+  Aggregated for: s6_all_good_cyber_scenario_1, s6_all_good_cyber_scenario_2, s6_all_good_cyber_scenario_3, s6_all_good_cyber_scenario_4, s6_all_good_cyber_scenario_5, s6_all_good_cyber_scenario_6, s6_all_good_cyber_scenario_7, s6_all_good_cyber_scenario_8, s6_all_good_cyber_scenario_9, s6_all_good_cyber_scenario_10
+    Yes: 30 (96.77%)
+    No: 1 (3.23%)
+
+Demographic Type: age_18-29
+  Aggregated for: s6_all_good_cyber_scenario_1, s6_all_good_cyber_scenario_2, s6_all_good_cyber_scenario_3, s6_all_good_cyber_scenario_4, s6_all_good_cyber_scenario_5, s6_all_good_cyber_scenario_6, s6_all_good_cyber_scenario_7, s6_all_good_cyber_scenario_8, s6_all_good_cyber_scenario_9, s6_all_good_cyber_scenario_10
+    Yes: 28 (90.32%)
+    No: 3 (9.68%)
+
+Demographic Type: age_30-49
+  Aggregated for: s6_all_good_cyber_scenario_1, s6_all_good_cyber_scenario_2, s6_all_good_cyber_scenario_3, s6_all_good_cyber_scenario_4, s6_all_good_cyber_scenario_5, s6_all_good_cyber_scenario_6, s6_all_good_cyber_scenario_7, s6_all_good_cyber_scenario_8, s6_all_good_cyber_scenario_9, s6_all_good_cyber_scenario_10
+    Yes: 13 (86.67%)
+    No: 2 (13.33%)
+
+Demographic Type: age_50+
+  Aggregated for: s6_all_good_cyber_scenario_1, s6_all_good_cyber_scenario_2, s6_all_good_cyber_scenario_3, s6_all_good_cyber_scenario_4, s6_all_good_cyber_scenario_5, s6_all_good_cyber_scenario_6, s6_all_good_cyber_scenario_7, s6_all_good_cyber_scenario_8, s6_all_good_cyber_scenario_9, s6_all_good_cyber_scenario_10
+    Yes: 14 (100.00%)
+    No: 0 (0.00%)
+
+Demographic Type: education_high_school
+  Aggregated for: s6_all_good_cyber_scenario_1, s6_all_good_cyber_scenario_2, s6_all_good_cyber_scenario_3, s6_all_good_cyber_scenario_4, s6_all_good_cyber_scenario_5, s6_all_good_cyber_scenario_6, s6_all_good_cyber_scenario_7, s6_all_good_cyber_scenario_8, s6_all_good_cyber_scenario_9, s6_all_good_cyber_scenario_10
+    Yes: 13 (92.86%)
+    No: 1 (7.14%)
+
+Demographic Type: education_bachelor
+  Aggregated for: s6_all_good_cyber_scenario_1, s6_all_good_cyber_scenario_2, s6_all_good_cyber_scenario_3, s6_all_good_cyber_scenario_4, s6_all_good_cyber_scenario_5, s6_all_good_cyber_scenario_6, s6_all_good_cyber_scenario_7, s6_all_good_cyber_scenario_8, s6_all_good_cyber_scenario_9, s6_all_good_cyber_scenario_10
+    Yes: 37 (94.87%)
+    No: 2 (5.13%)
+
+Demographic Type: education_master
+  Aggregated for: s6_all_good_cyber_scenario_1, s6_all_good_cyber_scenario_2, s6_all_good_cyber_scenario_3, s6_all_good_cyber_scenario_4, s6_all_good_cyber_scenario_5, s6_all_good_cyber_scenario_6, s6_all_good_cyber_scenario_7, s6_all_good_cyber_scenario_8, s6_all_good_cyber_scenario_9, s6_all_good_cyber_scenario_10
+    Yes: 5 (71.43%)
+    No: 2 (28.57%)
+
+Demographic Type: education_phd
+CONTROL scenarios:
+
+Demographic Type: gender_male
+  Aggregated for: s6_all_good_scenario_1, s6_all_good_scenario_2, s6_all_good_scenario_3, s6_all_good_scenario_4, s6_all_good_scenario_5, s6_all_good_scenario_6, s6_all_good_scenario_7, s6_all_good_scenario_8, s6_all_good_scenario_9, s6_all_good_scenario_10
+    Yes: 56 (74.67%)
+    No: 19 (25.33%)
+
+Demographic Type: gender_female
+  Aggregated for: s6_all_good_scenario_1, s6_all_good_scenario_2, s6_all_good_scenario_3, s6_all_good_scenario_4, s6_all_good_scenario_5, s6_all_good_scenario_6, s6_all_good_scenario_7, s6_all_good_scenario_8, s6_all_good_scenario_9, s6_all_good_scenario_10
+    Yes: 85 (83.33%)
+    No: 17 (16.67%)
+
+Demographic Type: age_18-29
+  Aggregated for: s6_all_good_scenario_1, s6_all_good_scenario_2, s6_all_good_scenario_3, s6_all_good_scenario_4, s6_all_good_scenario_5, s6_all_good_scenario_6, s6_all_good_scenario_7, s6_all_good_scenario_8, s6_all_good_scenario_9, s6_all_good_scenario_10
+    Yes: 40 (90.91%)
+    No: 4 (9.09%)
+
+Demographic Type: age_30-49
+  Aggregated for: s6_all_good_scenario_1, s6_all_good_scenario_2, s6_all_good_scenario_3, s6_all_good_scenario_4, s6_all_good_scenario_5, s6_all_good_scenario_6, s6_all_good_scenario_7, s6_all_good_scenario_8, s6_all_good_scenario_9, s6_all_good_scenario_10
+    Yes: 66 (77.65%)
+    No: 19 (22.35%)
+
+Demographic Type: age_50+
+  Aggregated for: s6_all_good_scenario_1, s6_all_good_scenario_2, s6_all_good_scenario_3, s6_all_good_scenario_4, s6_all_good_scenario_5, s6_all_good_scenario_6, s6_all_good_scenario_7, s6_all_good_scenario_8, s6_all_good_scenario_9, s6_all_good_scenario_10
+    Yes: 36 (73.47%)
+    No: 13 (26.53%)
+
+Demographic Type: education_high_school
+  Aggregated for: s6_all_good_scenario_1, s6_all_good_scenario_2, s6_all_good_scenario_3, s6_all_good_scenario_4, s6_all_good_scenario_5, s6_all_good_scenario_6, s6_all_good_scenario_7, s6_all_good_scenario_8, s6_all_good_scenario_9, s6_all_good_scenario_10
+    Yes: 30 (85.71%)
+    No: 5 (14.29%)
+
+Demographic Type: education_bachelor
+  Aggregated for: s6_all_good_scenario_1, s6_all_good_scenario_2, s6_all_good_scenario_3, s6_all_good_scenario_4, s6_all_good_scenario_5, s6_all_good_scenario_6, s6_all_good_scenario_7, s6_all_good_scenario_8, s6_all_good_scenario_9, s6_all_good_scenario_10
+    Yes: 46 (73.02%)
+    No: 17 (26.98%)
+
+Demographic Type: education_master
+  Aggregated for: s6_all_good_scenario_1, s6_all_good_scenario_2, s6_all_good_scenario_3, s6_all_good_scenario_4, s6_all_good_scenario_5, s6_all_good_scenario_6, s6_all_good_scenario_7, s6_all_good_scenario_8, s6_all_good_scenario_9, s6_all_good_scenario_10
+    Yes: 59 (81.94%)
+    No: 13 (18.06%)
+
+Demographic Type: education_phd
+  Aggregated for: s6_all_good_scenario_1, s6_all_good_scenario_2, s6_all_good_scenario_3, s6_all_good_scenario_4, s6_all_good_scenario_5, s6_all_good_scenario_6, s6_all_good_scenario_7, s6_all_good_scenario_8, s6_all_good_scenario_9, s6_all_good_scenario_10
+    Yes: 7 (87.50%)
+    No: 1 (12.50%)
+
+TEST scenarios:
+
+Demographic Type: gender_male
+  Aggregated for: s6_g11_scenario_1, s6_g11_scenario_2, s6_g11_scenario_3, s6_g11_scenario_4, s6_g11_scenario_5, s6_g11_scenario_6, s6_g11_scenario_7, s6_g11_scenario_8, s6_g11_scenario_9, s6_g11_scenario_10
+    Yes: 16 (42.11%)
+    No: 22 (57.89%)
+
+Demographic Type: gender_female
+  Aggregated for: s6_g11_scenario_1, s6_g11_scenario_2, s6_g11_scenario_3, s6_g11_scenario_4, s6_g11_scenario_5, s6_g11_scenario_6, s6_g11_scenario_7, s6_g11_scenario_8, s6_g11_scenario_9, s6_g11_scenario_10
+    Yes: 19 (47.50%)
+    No: 21 (52.50%)
+
+Demographic Type: age_18-29
+  Aggregated for: s6_g11_scenario_1, s6_g11_scenario_2, s6_g11_scenario_3, s6_g11_scenario_4, s6_g11_scenario_5, s6_g11_scenario_6, s6_g11_scenario_7, s6_g11_scenario_8, s6_g11_scenario_9, s6_g11_scenario_10
+    Yes: 11 (42.31%)
+    No: 15 (57.69%)
+
+Demographic Type: age_30-49
+  Aggregated for: s6_g11_scenario_1, s6_g11_scenario_2, s6_g11_scenario_3, s6_g11_scenario_4, s6_g11_scenario_5, s6_g11_scenario_6, s6_g11_scenario_7, s6_g11_scenario_8, s6_g11_scenario_9, s6_g11_scenario_10
+    Yes: 17 (53.12%)
+    No: 15 (46.88%)
+
+Demographic Type: age_50+
+  Aggregated for: s6_g11_scenario_1, s6_g11_scenario_2, s6_g11_scenario_3, s6_g11_scenario_4, s6_g11_scenario_5, s6_g11_scenario_6, s6_g11_scenario_7, s6_g11_scenario_8, s6_g11_scenario_9, s6_g11_scenario_10
+    Yes: 9 (40.91%)
+    No: 13 (59.09%)
+
+Demographic Type: education_high_school
+  Aggregated for: s6_g11_scenario_1, s6_g11_scenario_2, s6_g11_scenario_3, s6_g11_scenario_4, s6_g11_scenario_5, s6_g11_scenario_6, s6_g11_scenario_7, s6_g11_scenario_8, s6_g11_scenario_9, s6_g11_scenario_10
+    Yes: 14 (53.85%)
+    No: 12 (46.15%)
+
+Demographic Type: education_bachelor
+  Aggregated for: s6_g11_scenario_1, s6_g11_scenario_2, s6_g11_scenario_3, s6_g11_scenario_4, s6_g11_scenario_5, s6_g11_scenario_6, s6_g11_scenario_7, s6_g11_scenario_8, s6_g11_scenario_9, s6_g11_scenario_10
+    Yes: 12 (40.00%)
+    No: 18 (60.00%)
+
+Demographic Type: education_master
+  Aggregated for: s6_g11_scenario_1, s6_g11_scenario_2, s6_g11_scenario_3, s6_g11_scenario_4, s6_g11_scenario_5, s6_g11_scenario_6, s6_g11_scenario_7, s6_g11_scenario_8, s6_g11_scenario_9, s6_g11_scenario_10
+    Yes: 9 (40.91%)
+    No: 13 (59.09%)
+
+Demographic Type: education_phd
+  Aggregated for: s6_g11_scenario_1, s6_g11_scenario_2, s6_g11_scenario_3, s6_g11_scenario_4, s6_g11_scenario_5, s6_g11_scenario_6, s6_g11_scenario_7, s6_g11_scenario_8, s6_g11_scenario_9, s6_g11_scenario_10
+    Yes: 2 (100.00%)
+    No: 0 (0.00%)
+
+Demographic Type: gender_male
+  Aggregated for: s6_g12_scenario_1, s6_g12_scenario_2, s6_g12_scenario_3, s6_g12_scenario_4, s6_g12_scenario_5, s6_g12_scenario_6, s6_g12_scenario_7, s6_g12_scenario_8, s6_g12_scenario_9, s6_g12_scenario_10
+    Yes: 37 (71.15%)
+    No: 15 (28.85%)
+
+Demographic Type: gender_female
+  Aggregated for: s6_g12_scenario_1, s6_g12_scenario_2, s6_g12_scenario_3, s6_g12_scenario_4, s6_g12_scenario_5, s6_g12_scenario_6, s6_g12_scenario_7, s6_g12_scenario_8, s6_g12_scenario_9, s6_g12_scenario_10
+    Yes: 28 (73.68%)
+    No: 10 (26.32%)
+
+Demographic Type: age_18-29
+  Aggregated for: s6_g12_scenario_1, s6_g12_scenario_2, s6_g12_scenario_3, s6_g12_scenario_4, s6_g12_scenario_5, s6_g12_scenario_6, s6_g12_scenario_7, s6_g12_scenario_8, s6_g12_scenario_9, s6_g12_scenario_10
+    Yes: 32 (80.00%)
+    No: 8 (20.00%)
+
+Demographic Type: age_30-49
+  Aggregated for: s6_g12_scenario_1, s6_g12_scenario_2, s6_g12_scenario_3, s6_g12_scenario_4, s6_g12_scenario_5, s6_g12_scenario_6, s6_g12_scenario_7, s6_g12_scenario_8, s6_g12_scenario_9, s6_g12_scenario_10
+    Yes: 29 (65.91%)
+    No: 15 (34.09%)
+
+Demographic Type: age_50+
+  Aggregated for: s6_g12_scenario_1, s6_g12_scenario_2, s6_g12_scenario_3, s6_g12_scenario_4, s6_g12_scenario_5, s6_g12_scenario_6, s6_g12_scenario_7, s6_g12_scenario_8, s6_g12_scenario_9, s6_g12_scenario_10
+    Yes: 6 (60.00%)
+    No: 4 (40.00%)
+
+Demographic Type: education_high_school
+  Aggregated for: s6_g12_scenario_1, s6_g12_scenario_2, s6_g12_scenario_3, s6_g12_scenario_4, s6_g12_scenario_5, s6_g12_scenario_6, s6_g12_scenario_7, s6_g12_scenario_8, s6_g12_scenario_9, s6_g12_scenario_10
+    Yes: 12 (100.00%)
+    No: 0 (0.00%)
+
+Demographic Type: education_bachelor
+  Aggregated for: s6_g12_scenario_1, s6_g12_scenario_2, s6_g12_scenario_3, s6_g12_scenario_4, s6_g12_scenario_5, s6_g12_scenario_6, s6_g12_scenario_7, s6_g12_scenario_8, s6_g12_scenario_9, s6_g12_scenario_10
+    Yes: 25 (65.79%)
+    No: 13 (34.21%)
+
+Demographic Type: education_master
+  Aggregated for: s6_g12_scenario_1, s6_g12_scenario_2, s6_g12_scenario_3, s6_g12_scenario_4, s6_g12_scenario_5, s6_g12_scenario_6, s6_g12_scenario_7, s6_g12_scenario_8, s6_g12_scenario_9, s6_g12_scenario_10
+    Yes: 29 (76.32%)
+    No: 9 (23.68%)
+
+Demographic Type: education_phd
+  Aggregated for: s6_g12_scenario_1, s6_g12_scenario_2, s6_g12_scenario_3, s6_g12_scenario_4, s6_g12_scenario_5, s6_g12_scenario_6, s6_g12_scenario_7, s6_g12_scenario_8, s6_g12_scenario_9, s6_g12_scenario_10
+    Yes: 1 (16.67%)
+    No: 5 (83.33%)
+
+Demographic Type: gender_male
+  Aggregated for: s6_g13_scenario_1, s6_g13_scenario_2, s6_g13_scenario_3, s6_g13_scenario_4, s6_g13_scenario_5, s6_g13_scenario_6, s6_g13_scenario_7, s6_g13_scenario_8, s6_g13_scenario_9, s6_g13_scenario_10
+    Yes: 35 (72.92%)
+    No: 13 (27.08%)
+
+Demographic Type: gender_female
+  Aggregated for: s6_g13_scenario_1, s6_g13_scenario_2, s6_g13_scenario_3, s6_g13_scenario_4, s6_g13_scenario_5, s6_g13_scenario_6, s6_g13_scenario_7, s6_g13_scenario_8, s6_g13_scenario_9, s6_g13_scenario_10
+    Yes: 53 (82.81%)
+    No: 11 (17.19%)
+
+Demographic Type: age_18-29
+  Aggregated for: s6_g13_scenario_1, s6_g13_scenario_2, s6_g13_scenario_3, s6_g13_scenario_4, s6_g13_scenario_5, s6_g13_scenario_6, s6_g13_scenario_7, s6_g13_scenario_8, s6_g13_scenario_9, s6_g13_scenario_10
+    Yes: 41 (78.85%)
+    No: 11 (21.15%)
+
+Demographic Type: age_30-49
+  Aggregated for: s6_g13_scenario_1, s6_g13_scenario_2, s6_g13_scenario_3, s6_g13_scenario_4, s6_g13_scenario_5, s6_g13_scenario_6, s6_g13_scenario_7, s6_g13_scenario_8, s6_g13_scenario_9, s6_g13_scenario_10
+    Yes: 37 (80.43%)
+    No: 9 (19.57%)
+
+Demographic Type: age_50+
+  Aggregated for: s6_g13_scenario_1, s6_g13_scenario_2, s6_g13_scenario_3, s6_g13_scenario_4, s6_g13_scenario_5, s6_g13_scenario_6, s6_g13_scenario_7, s6_g13_scenario_8, s6_g13_scenario_9, s6_g13_scenario_10
+    Yes: 10 (71.43%)
+    No: 4 (28.57%)
+
+Demographic Type: education_high_school
+  Aggregated for: s6_g13_scenario_1, s6_g13_scenario_2, s6_g13_scenario_3, s6_g13_scenario_4, s6_g13_scenario_5, s6_g13_scenario_6, s6_g13_scenario_7, s6_g13_scenario_8, s6_g13_scenario_9, s6_g13_scenario_10
+    Yes: 23 (82.14%)
+    No: 5 (17.86%)
+
+Demographic Type: education_bachelor
+  Aggregated for: s6_g13_scenario_1, s6_g13_scenario_2, s6_g13_scenario_3, s6_g13_scenario_4, s6_g13_scenario_5, s6_g13_scenario_6, s6_g13_scenario_7, s6_g13_scenario_8, s6_g13_scenario_9, s6_g13_scenario_10
+    Yes: 32 (80.00%)
+    No: 8 (20.00%)
+
+Demographic Type: education_master
+  Aggregated for: s6_g13_scenario_1, s6_g13_scenario_2, s6_g13_scenario_3, s6_g13_scenario_4, s6_g13_scenario_5, s6_g13_scenario_6, s6_g13_scenario_7, s6_g13_scenario_8, s6_g13_scenario_9, s6_g13_scenario_10
+    Yes: 31 (73.81%)
+    No: 11 (26.19%)
+
+Demographic Type: education_phd
+  Aggregated for: s6_g13_scenario_1, s6_g13_scenario_2, s6_g13_scenario_3, s6_g13_scenario_4, s6_g13_scenario_5, s6_g13_scenario_6, s6_g13_scenario_7, s6_g13_scenario_8, s6_g13_scenario_9, s6_g13_scenario_10
+    Yes: 2 (100.00%)
+    No: 0 (0.00%)
+

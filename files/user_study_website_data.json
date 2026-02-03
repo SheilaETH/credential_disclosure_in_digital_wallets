@@ -1,0 +1,252 @@
+{
+    "S1_1": {
+        "website": "Lufthansa",
+        "category_id": "air_travel",
+        "requested_credential_id": "disability_status"
+    },
+    "S1_2": {
+        "website": "Totaljobs",
+        "category_id": "job_sites",
+        "requested_credential_id": "visa"
+    },
+    "S1_3": {
+        "website": "uk_government",
+        "category_id": "government",
+        "requested_credential_id": "health_insurance"
+    },
+    "S1_4": {
+        "website": "SeLoger",
+        "category_id": "real_estate",
+        "requested_credential_id": "employment_history"
+    },
+    "S1_5": {
+        "website": "Playstation",
+        "category_id": "gaming",
+        "requested_credential_id": "official_id"
+    },
+    "S1_6": {
+        "website": "Kry",
+        "category_id": "health_services",
+        "requested_credential_id": "medical_records"
+    },
+    "S1_7": {
+        "website": "Flixbus",
+        "category_id": "ground_travel",
+        "requested_credential_id": "visa"
+    },
+    "S1_8": {
+        "website": "germany_government",
+        "category_id": "government",
+        "requested_credential_id": "drivers_license"
+    },
+    "S1_9": {
+        "website": "Utrecht University",
+        "category_id": "university",
+        "requested_credential_id": "university_transcript"
+    },
+    "S1_10": {
+        "website": "Teleclinic",
+        "category_id": "health_services",
+        "requested_credential_id": "health_insurance"
+    },
+    "S2_1": {
+        "website": "Steam",
+        "category_id": "gaming",
+        "requested_credential_id": "medical_records"
+    },
+    "S2_2": {
+        "website": "Sparkasse",
+        "category_id": "bank",
+        "requested_credential_id": "visa"
+    },
+    "S2_3": {
+        "website": "Blablacar",
+        "category_id": "ground_travel",
+        "requested_credential_id": "prescriptions"
+    },
+    "S2_4": {
+        "website": "Google",
+        "category_id": "search_engine",
+        "requested_credential_id": "employment_history"
+    },
+    "S2_5": {
+        "website": "Irish Examiner",
+        "category_id": "news",
+        "requested_credential_id": "official_id"
+    },
+    "S3_1": {
+        "website": "Reuters",
+        "category_id": "news",
+        "requested_credential_id": "birth_certificate"
+    },
+    "S3_2": {
+        "website": "Oxford Research Encyclopedias",
+        "category_id": "encyclopedia",
+        "requested_credential_id": "official_id"
+    },
+    "S3_3": {
+        "website": "Shein",
+        "category_id": "e_commerce",
+        "requested_credential_id": "health_insurance"
+    },
+    "S3_4": {
+        "website": "Redcare Pharmacy",
+        "category_id": "pharmacy",
+        "requested_credential_id": "diploma"
+    },
+    "S3_5": {
+        "website": "CoolWorks",
+        "category_id": "job_sites",
+        "requested_credential_id": "prescriptions"
+    },
+    "S3_6": {
+        "website": "LinkedIn",
+        "category_id": "job_sites",
+        "requested_credential_id": "medical_records"
+    },
+    "S3_7": {
+        "website": "Paypal",
+        "category_id": "payment",
+        "requested_credential_id": "visa"
+    },
+    "S3_8": {
+        "website": "ChinaJob",
+        "category_id": "job_sites",
+        "requested_credential_id": "prescriptions"
+    },
+    "S3_9": {
+        "website": "Hobbii",
+        "category_id": "e_commerce",
+        "requested_credential_id": "professional_licenses"
+    },
+    "S3_10": {
+        "website": "Scholarpedia",
+        "category_id": "encyclopedia",
+        "requested_credential_id": "drivers_license"
+    },
+    "S4_1": {
+        "website": "Medgate",
+        "category_id": "health_services",
+        "requested_credential_id": "medical_records"
+    },
+    "S4_2": {
+        "website": "X",
+        "category_id": "social_media",
+        "requested_credential_id": "official_id"
+    },
+    "S4_3": {
+        "website": "Sixt",
+        "category_id": "car_rentals",
+        "requested_credential_id": "drivers_license"
+    },
+    "S4_4": {
+        "website": "Universidad de Salamanca",
+        "category_id": "university",
+        "requested_credential_id": "diploma"
+    },
+    "S4_5": {
+        "website": "DocMorris",
+        "category_id": "pharmacy",
+        "requested_credential_id": "health_insurance"
+    },
+    "S5_1": {
+        "website": "Trenitalia",
+        "category_id": "ground_travel",
+        "requested_credential_id": "marriage_certificate"
+    },
+    "S5_2": {
+        "website": "SoS Pediatra",
+        "category_id": "health_services",
+        "requested_credential_id": "visa"
+    },
+    "S5_3": {
+        "website": "Alsa",
+        "category_id": "ground_travel",
+        "requested_credential_id": "diploma"
+    },
+    "S5_4": {
+        "website": "DuckDuckGo",
+        "category_id": "search_engine",
+        "requested_credential_id": "drivers_license"
+    },
+    "S5_5": {
+        "website": "XiamenAir",
+        "category_id": "air_travel",
+        "requested_credential_id": "health_insurance"
+    },
+    "S5_6": {
+        "website": "Citizendium",
+        "category_id": "encyclopedia",
+        "requested_credential_id": "birth_certificate"
+    },
+    "S5_7": {
+        "website": "Huckberry",
+        "category_id": "e_commerce",
+        "requested_credential_id": "disability_status"
+    },
+    "S5_8": {
+        "website": "Stripe",
+        "category_id": "payment",
+        "requested_credential_id": "prescriptions"
+    },
+    "S5_9": {
+        "website": "Le Monde",
+        "category_id": "news",
+        "requested_credential_id": "professional_licenses"
+    },
+    "S5_10": {
+        "website": "Rightmove",
+        "category_id": "real_estate",
+        "requested_credential_id": "health_insurance"
+    },
+    "S6_1": {
+        "website": "france_government",
+        "category_id": "government",
+        "requested_credential_id": "marriage_certificate"
+    },
+    "S6_2": {
+        "website": "Trainline",
+        "category_id": "ground_travel",
+        "requested_credential_id": "official_id"
+    },
+    "S6_3": {
+        "website": "Apotea",
+        "category_id": "pharmacy",
+        "requested_credential_id": "health_insurance"
+    },
+    "S6_4": {
+        "website": "Sorbonne University",
+        "category_id": "university",
+        "requested_credential_id": "university_transcript"
+    },
+    "S6_5": {
+        "website": "Homedoctor",
+        "category_id": "health_services",
+        "requested_credential_id": "prescriptions"
+    },
+    "S6_6": {
+        "website": "Qare",
+        "category_id": "health_services",
+        "requested_credential_id": "medical_records"
+    },
+    "S6_7": {
+        "website": "Delta Air Lines",
+        "category_id": "air_travel",
+        "requested_credential_id": "visa"
+    },
+    "S6_8": {
+        "website": "Dollar Rent A Car",
+        "category_id": "car_rentals",
+        "requested_credential_id": "drivers_license"
+    },
+    "S6_9": {
+        "website": "Stepstone",
+        "category_id": "job_sites",
+        "requested_credential_id": "employment_history"
+    },
+    "S6_10": {
+        "website": "Euro-Pharmas",
+        "category_id": "pharmacy",
+        "requested_credential_id": "prescriptions"
+    }
+}
