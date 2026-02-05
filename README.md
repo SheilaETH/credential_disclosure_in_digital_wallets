@@ -4,6 +4,28 @@
 
 The code was written with support from GitHub Copilot
 
+### System Requirements
+
+Before proceeding, ensure you have the following installed on your system:
+
+- **Docker** (version 1.44 or higher)
+- **Python** (version 3.7 or higher)
+- **Jupyter Notebook** or **Jupyter Lab**
+- **mongosh** (MongoDB shell)
+
+You can verify Docker version by running:
+```bash
+docker version
+```
+
+### Installing Python Dependencies
+
+The notebooks require the following Python packages. Install them using pip:
+
+```bash
+pip install pymongo numpy pandas scipy seaborn statsmodels matplotlib
+```
+
 ### Mongo DB Setup Instructions
 
 #### 1. Build the Docker Image
@@ -11,6 +33,12 @@ The code was written with support from GitHub Copilot
 ```bash
 docker build -t results-db .
 ```
+
+**Troubleshooting**: If you encounter an error like `client version 1.42 is too old. Minimum supported API version is 1.44`, run:
+```bash
+DOCKER_API_VERSION=1.XX docker build -t results-db .
+```
+Replace `XX` with your Docker API version (check with `docker version`).
 
 #### 2. Run the Container
 
@@ -30,17 +58,13 @@ The container will automatically:
 
 #### 3. Connect to MongoDB
 
-You can connect to the running MongoDB instance using:
-
-```
-mongodb://root:example@localhost:27017/admin
-```
-
-Or using the MongoDB shell:
+You can verify that MongoDB is running and accessible by connecting to it using the MongoDB shell. This is useful for troubleshooting connectivity issues:
 
 ```bash
 mongosh "mongodb://root:example@localhost:27017/admin"
 ```
+
+If the connection succeeds, you should see a MongoDB prompt. This confirms that the database is properly set up and accessible for the Jupyter notebooks.
 
 ### Stopping and Cleaning Up
 
@@ -58,6 +82,22 @@ Remove the image:
 ```bash
 docker rmi results-db
 ```
+
+### Running Jupyter Notebooks
+
+Navigate to the project directory and start Jupyter using:
+
+```bash
+jupyter notebook
+```
+
+Or if you prefer Jupyter Lab:
+
+```bash
+jupyter lab
+```
+
+This will open Jupyter in your default web browser. Navigate to one of the notebook files to begin. Make sure you have installed all Python dependencies (see "Installing Python Dependencies" section above) before running the notebooks.
 
 ### Databases and Collections
 
