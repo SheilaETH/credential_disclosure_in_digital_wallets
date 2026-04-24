@@ -185,7 +185,7 @@ There are 3 python notebooks:
 
 1) `read_in_data.ipynb` - Reads data from MongoDB and generates 11 data files (stored in the `data` folder)
 2) `generate_tables.ipynb` - Processes data files to generate 30 CSV tables in the `tables` folder (and one chart)
-3) `generate_figures.ipynb` - Creates the 30 charts for the paper in the `charts` folder
+3) `generate_figures.ipynb` - Creates the 32 charts for the paper in the `charts` folder
 
 The `data`, `tables`, and `charts` folders contain pre-generated outputs. If you want to regenerate all outputs from scratch the notebooks must be run in order: `read_in_data.ipynb` -> `generate_tables.ipynb` -> `generate_figures.ipynb`
 
